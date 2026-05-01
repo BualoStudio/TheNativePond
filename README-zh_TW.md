@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue.svg)](https://github.com/BeyondPixelsStudio/TheNativePond) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/discussions) 
 
-[English](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README.md) | [简体中文](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README-zh_CN.md)) | 繁體中文 | [文言](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README-zh_HX.md))
+[English](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README.md) | [简体中文](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README-zh_CN.md) | 繁體中文 | [文言](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README-zh_HX.md)
 
 **《本水塘》** 是由 **Beyond Pixels Studio (像素之外)** 開發的一款治癒系非營利性獨立遊戲。 
 
