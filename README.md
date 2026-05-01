@@ -1,6 +1,6 @@
 # The Native Pond
 
-![thenativepond_logo](SMP-background-219-en_US.png)
+![thenativepond_logo](pictures/SMP-background-219-en_US.png)
 
 > **"Rekindle your love for gaming"**
 
