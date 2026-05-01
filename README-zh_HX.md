@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue.svg)](https://github.com/BeyondPixelsStudio/TheNativePond) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/discussions) 
 
-[English](https://github.com/BeyondPixelsStudio/TheNativePond/README.md) | [简体中文](https://github.com/BeyondPixelsStudio/TheNativePond/README-zh_CN.md) | [繁體中文](https://github.com/BeyondPixelsStudio/TheNativePond/README-zh_TW.md) | 文言
+[English](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README.md) | [简体中文](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README-zh_CN.md) | [繁體中文](https://github.com/BeyondPixelsStudio/TheNativePond/blob/main/README-zh_CN.md) | 文言
 
 **《本水塘》** 者，乃 **象外工坊（Beyond Pixels Studio）** 所筑，以疗愈心神、不慕荣利为旨之独立游艺也。 
 
