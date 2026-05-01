@@ -1,6 +1,6 @@
 # 本水塘
 
-![thenativepond_logo](picture/SMP-background-219-zh_TW.png)
+![thenativepond_logo](pictures/SMP-background-219-zh_TW.png)
 
 > **“重拾對遊戲的熱愛”**
 
