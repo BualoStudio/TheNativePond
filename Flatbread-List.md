@@ -1,5 +1,7 @@
 # 本水塘大饼清单
 
+![flatbread-list_background](pictures/SMP-FBL-background-219-zh_CN.png)
+
 > [!WARNING]
 > 1. 该清单中的所有内容均为大饼，不代表最终表现和实装效果。
 > 2. 该清单中的部分内容并未在制作组会议上进行讨论。
