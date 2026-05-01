@@ -1,6 +1,6 @@
 # 本水塘
 
-![thenativepond_logo](SMP-background-219-zh_HX.png)
+![thenativepond_logo](pictures/SMP-background-219-zh_HX.png)
 
 > **“复还嬉游之本心”**
 
