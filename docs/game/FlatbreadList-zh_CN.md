@@ -1,6 +1,6 @@
 # 本水塘大饼清单
 
-![flatbread-list_background](background/FBL-docs-bg-zh_CN.png)
+![flatbreadlist_background](/background/FBL-docs-bg-zh_CN.png)
 
 > [!WARNING]
 > 1. 该清单中的所有内容均为大饼，不代表最终表现和实装效果。
