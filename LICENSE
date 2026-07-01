@@ -1,15 +1,27 @@
-We encourage the free use, modification, and sharing of this game. Regarding licensing, different categories of game assets are released under different open-source licenses; please refer to the LICENSE file for details. The licensing breakdown by asset type is as follows:
+We encourage the free use, modification, and sharing of this game.
+Regarding licensing, different categories of game assets are released
+under different open-source licenses; please refer to the LICENSE file
+for details. The licensing breakdown by asset type is as follows:
 
 1. Code Assets
-For all code assets in The Native Pond (including but not limited to game source code and custom extension source code), we release the code to the public under the MIT License.
+For all code assets in The Native Pond (including but not limited to game
+source code and custom extension source code), we release the code to the
+public under the MIT License.
 
 2. Art Assets
-For the art assets used in The Native Pond (including but not limited to game textures, maps, and character sprites), there are two scenarios:
-1) Some art assets originate from Today's PolarBay, developed by awa_Liny; the copyright for these assets is jointly held by Bualo Studio and awa_Liny. These assets are released under the CC BY-NC 4.0 License.
-2) The remaining art assets were designed by Bualo Studio; the copyright for these assets is held by Bualo Studio, and they are released under the CC BY-NC 4.0 License.
+For the art assets used in The Native Pond (including but not limited to
+game textures, maps, and character sprites), there are two scenarios:
+1) Some art assets originate from Today's PolarBay, developed by awa_Liny;
+the copyright for these assets is jointly held by Bualo Studio and awa_Liny.
+These assets are released under the CC BY-NC 4.0 License.
+2) The remaining art assets were designed by Bualo Studio; the copyright
+for these assets is held by Bualo Studio, and they are released under the
+CC BY-NC 4.0 License.
 
 3. Music Assets
-For the music assets used in The Native Pond (including but not limited to background music and ambient music), we release them under the CC BY-NC 4.0 License.
+For the music assets used in The Native Pond (including but not limited to
+background music and ambient music), we release them under the CC BY-NC 4.0
+License.
 
 =======================================================================
 
@@ -39,6 +51,8 @@ SOFTWARE.
 
 Creative Commons Attribution-NonCommercial 4.0 International Public
 License
+
+Copyright (c) 2026 Bualo Studio
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
