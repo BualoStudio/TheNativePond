@@ -1,6 +1,6 @@
 # 本水塘
 
-![thenativepond_logo](bacmground/TNP-readme-bg-zh_CN.png)
+![thenativepond_logo](background/TNP-readme-bg-zh_CN.png)
 
 > **“重拾对游戏的热爱”**
 
