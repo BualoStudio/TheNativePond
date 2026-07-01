@@ -4,7 +4,7 @@
 
 > **“重拾对游戏的热爱”**
 
-[![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC--SA_4.0-red.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/LICENSE) [![Platform](https://img.shields.io/badge/Platform-All_Platform-blue.svg)](https://github.com/BeyondPixelsStudio/TheNativePond) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/discussions)
+[![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC--SA_4.0-red.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BeyondPixelsStudio/TheNativePond) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/discussions)
 
 简体中文 | [English]() | [繁体中文]() | [文言]() | [Русский]() | [Español]() | [Português]() | [Deutsch]() | [한국인]() | 
 [Français]() | [日本語]() | [Türkçe]()
