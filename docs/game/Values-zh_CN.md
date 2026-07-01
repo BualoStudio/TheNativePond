@@ -1,6 +1,6 @@
 # 本水塘价值观
 
-![values_background](backgroud/VAL-docs-bg-zh_CN.png)
+![values_background](/backgroud/VAL-docs-bg-zh_CN.png)
 
 ---
 
