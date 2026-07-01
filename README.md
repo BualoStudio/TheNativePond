@@ -4,10 +4,9 @@
 
 > **“重拾对游戏的热爱”**
 
-[![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC--SA_4.0-red.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BeyondPixelsStudio/TheNativePond) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BeyondPixelsStudio/TheNativePond/discussions)
+[![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC--SA_4.0-red.svg)](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/TheNativePond/discussions)
 
-简体中文 | [English]() | [繁体中文]() | [文言]() | [Русский]() | [Español]() | [Português]() | [Deutsch]() | [한국인]() | 
-[Français]() | [日本語]() | [Türkçe]()
+简体中文 | [English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-en_US.md) | [繁体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-pt-BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-de.md) | [한국인](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-tr.md)
 
 **本水塘** 是由 **Bualo Studio（浮标工作室）** 开发的一款非营利性治愈系游戏。 
 
@@ -109,10 +108,10 @@
 2. **家乡食谱贡献**：设计一份全新的食谱（例如：如何做一碗正宗的热干面），并拆解它的制作步骤。
 
 > [!TIP]
-> 参与前，请务必阅读我们的 [贡献指南](https://github.com/BualoStudio/TheNativePond/CONTRIBUTING.md) 并遵守 [行为准则](https://github.com/BualoStudio/TheNativePond/CODE_OF_CONDUCT.md)。
+> 参与前，请务必阅读我们的 [贡献指南](https://github.com/BualoStudio/TheNativePond/blob/main/CONTRIBUTING.md) 并遵守 [行为准则](https://github.com/BualoStudio/TheNativePond/blob/main/CODE_OF_CONDUCT.md)。
 
 > [!NOTE]
-> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [Issue](https://github.com/BualoStudio/TheNativePond/Issue)。
+> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [Issue](https://github.com/BualoStudio/TheNativePond/issues)。
 
 ---
 
@@ -151,7 +150,7 @@
 > 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [本地化致谢名单]() 。
 
 > [!TIP]
-> 由于我们的开发周期和精力/资源分配等多方面问题，我们无法保证翻译100%准确。由于我们没有专门的本地化团队，所以部分语言可能是由AI或机器翻译得到的，其翻译未必准确无误，如果您在游玩过程中发现了翻译问题，请按上述方法 [提交PR](https://github.com/BualoStudio/TheNativePond/pulls) 或 [提交Issue](https://github.com/BualoStudio/TheNativePond/Issue) 。
+> 由于我们的开发周期和精力/资源分配等多方面问题，我们无法保证翻译100%准确。由于我们没有专门的本地化团队，所以部分语言可能是由AI或机器翻译得到的，其翻译未必准确无误，如果您在游玩过程中发现了翻译问题，请按上述方法 [提交PR](https://github.com/BualoStudio/TheNativePond/pulls) 或 [提交Issue](https://github.com/BualoStudio/TheNativePond/issues) 。
 
 ---
 
