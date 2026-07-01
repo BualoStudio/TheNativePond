@@ -184,22 +184,22 @@
 ---
 ## 📜 许可证
 
-我们鼓励自由使用、修改与分享本游戏。对于许可证，我们将不同类别的游戏资产按不同许可证开源/开放源代码，详见 [LICENSE](https://github.com/BualoStudio/TheNativePond/LICENSE) 文件。对于不同资产类型所使用的不同的许可证划分如下：
+我们鼓励自由使用、修改与分享本游戏。对于许可证，我们将不同类别的游戏资产按不同许可证开源/开放源代码，详见 [LICENSE](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) 文件。对于不同资产类型所使用的不同的许可证划分如下：
 
 ### 1. ⌨️ 代码资产
 
-对于《本水塘》中的所有**代码资产**（包括但不限于游戏源代码、自定义扩展源代码），我们一律使用 [**MIT License**](https://mit-license.org) 将所有代码资产面向全人类**开源**。 
+对于《本水塘》中的所有**代码资产**（包括但不限于游戏源代码、自定义扩展源代码），我们一律使用 [**MIT License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license) 将所有代码资产面向全人类**开源**。 
 
 ### 2. 🖌️ 美术资产
 
 对于《本水塘》中使用的**美术资产**（包括但不限于游戏贴图、游戏地图、角色立绘），共有两种情况：
 
-1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，这部分美术资产的版权由 Bualo Studio 和 awa_Liny 共同持有。这部分美术资产使用 [**CC BY-NC 4.0 License**](https://creativecommons.org/licenses/by-nc/4.0/deed.en) 开放源代码。
-2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY-NC 4.0 License**](https://creativecommons.org/licenses/by-nc/4.0/deed.en) **开放源代码**。
+1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，这部分美术资产的版权由 Bualo Studio 和 awa_Liny 共同持有。这部分美术资产使用 [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art&music-license) **开放源代码**。
+2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art&music-license) **开放源代码**。
 
 ### 3. 🪗 音乐资产
 
-对于《本水塘》中使用的**音乐资产**（包括但不限于背景音乐、环境音乐），我们一律使用 [**CC BY-NC 4.0 License**](https://creativecommons.org/licenses/by-nc/4.0/deed.en) **开放源代码**。
+对于《本水塘》中使用的**音乐资产**（包括但不限于背景音乐、环境音乐），我们一律使用 [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art&music-license) **开放源代码**。
 
 > [!NOTE]
 > 我们之所以让美术资产和音乐资产使用非商业性许可证，是为了避免劣质（这里指几乎没有改动或改动范围过小）的二次修改版本，如果这些劣质的二次修改版本被卖出了高价将会对《本水塘》的名誉造成严重影响。为避免此问题，我们让这些资产使用非商业性许可证。  
