@@ -1,6 +1,21 @@
+We encourage the free use, modification, and sharing of this game. Regarding licensing, different categories of game assets are released under different open-source licenses; please refer to the LICENSE file for details. The licensing breakdown by asset type is as follows:
+
+1. Code Assets
+For all code assets in The Native Pond (including but not limited to game source code and custom extension source code), we release the code to the public under the MIT License.
+
+2. Art Assets
+For the art assets used in The Native Pond (including but not limited to game textures, maps, and character sprites), there are two scenarios:
+1) Some art assets originate from Today's PolarBay, developed by awa_Liny; the copyright for these assets is jointly held by Bualo Studio and awa_Liny. These assets are released under the CC BY-NC 4.0 License.
+2) The remaining art assets were designed by Bualo Studio; the copyright for these assets is held by Bualo Studio, and they are released under the CC BY-NC 4.0 License.
+
+3. Music Assets
+For the music assets used in The Native Pond (including but not limited to background music and ambient music), we release them under the CC BY-NC 4.0 License.
+
+=============================================================================
+
 MIT License
 
-Copyright (c) 2026 Crazy Sue
+Copyright (c) 2026 Bualo Studio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +34,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+===
+
