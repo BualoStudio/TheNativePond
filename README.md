@@ -48,6 +48,9 @@
 - **去 UI 化设计**：没有满屏的按钮和充值入口，画面干净克制，将屏幕彻底交给水面。  
 - **纯粹的放空**：非线性动画让池水微微“呼吸”，在漫长的等待中，把时间还给你的大脑。  
 
+> [!TIP]
+> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [《大饼清单》](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md)！
+
 ---
 
 ## 📦 获取游戏与分发平台
