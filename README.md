@@ -85,7 +85,7 @@
 - WeGame  
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉](https://github.com/BualoStudio/TheNativePond#%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9Fbualo-studio%E6%B5%AE%E6%A0%87%E5%B7%A5%E4%BD%9C%E5%AE%A4) 我们。
+> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉](mailto:bualostudio@gmail.com) 我们。
 
 ---
 
@@ -190,7 +190,7 @@
 - ❌：不受支持的平台，你在该平台上不会看到这个条目的内容。
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他流媒体平台或游戏社区平台中发现了《本水塘》的账号，请不要犹豫，那不是我们的官方账号，请立即举报该账号并 [告诉](https://github.com/BualoStudio/TheNativePond#%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9Fbualo-studio%E6%B5%AE%E6%A0%87%E5%B7%A5%E4%BD%9C%E5%AE%A4) 我们。
+> 如果你在该名单中未提到的其他流媒体平台或游戏社区平台中发现了《本水塘》的账号，请不要犹豫，那不是我们的官方账号，请立即举报该账号并 [告诉](mailto:bualostudio@gmail.com) 我们。
 
 > [!TIP]
 > 由于我们的精力/资源分配等多方面问题，我们无法保证所有平台同步更新内容，部分平台可能会有几分钟的延迟。由于我们没有专门的运营团队，所以并不是所有平台和功能都受支持。
@@ -219,7 +219,7 @@
 > [!NOTE]
 > 我们之所以让美术资产和音乐资产使用非商业性许可证，是为了避免劣质（这里指几乎没有改动或改动范围过小）的二次修改版本，如果这些劣质的二次修改版本被卖出了高价将会对《本水塘》的名誉造成严重影响。为避免此问题，我们让这些资产使用非商业性许可证。  
 > 但是，如果你真心的希望为《本水塘》制作优质的二次修改版本，只要我们能够看出你在这件事上投入了精力和心灵，我们完全不介意你售卖这样的优质二次修改版本，即使你有所收益。  
-> 如果你实在不放心售卖二次修改版本，请 [联系我们](https://github.com/BualoStudio/TheNativePond#-%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9Fbualo-studio%E6%B5%AE%E6%A0%87%E5%B7%A5%E4%BD%9C%E5%AE%A4) 以获取官方授权！  
+> 如果你实在不放心售卖二次修改版本，请 [联系我们](mailto:bualostudio@gmail.com) 以获取官方授权！  
 
 ---
 
@@ -227,8 +227,8 @@
 
 ### 🪪 **开发团队**：**Bualo Studio（浮标工作室）** 
 
-- 制作组官方邮箱： thenativepond@gmail.com  
-- 工作室官方邮箱： bualostudio@gmail.com  
+- 制作组官方邮箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)  
+- 工作室官方邮箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)    
 
 ### 🖥️ 制作组
 #### [Crazy Sue](https://github.com/CrazySue)
