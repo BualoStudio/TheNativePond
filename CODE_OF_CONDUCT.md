@@ -27,6 +27,6 @@ If you believe someone is violating the code of conduct, we ask that you report 
 
 Original text courtesy of the [Speak Up! project](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html).
 
-## Questions?
+## ❔ Questions?
 
 If you have questions, please feel free to [contact us](mailto:bualostudio@gmail.com).
