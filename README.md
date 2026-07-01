@@ -1,6 +1,6 @@
 # 本水塘
 
-![thenativepond_logo](background/TNP-readme-bg-zh_CN.png)
+![thenativepond_background](/background/TNP-readme-bg-zh_CN.png)
 
 > **“重拾对游戏的热爱”**
 
@@ -48,7 +48,7 @@
 - **纯粹的放空**：非线性动画让池水微微“呼吸”，在漫长的等待中，把时间还给你的大脑。  
 
 > [!TIP]
-> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [《大饼清单》](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md)！
+> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [《大饼清单》](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [《价值观》](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
 
 ---
 
@@ -146,7 +146,7 @@
 - ❌：不受支持的语言，在该条目内不会看到这个语言的翻译。
 
 > [!TIP]
-> 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [本地化致谢名单]() 。
+> 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [本地化致谢名单]()。
 
 > [!TIP]
 > 由于我们的开发周期和精力/资源分配等多方面问题，我们无法保证翻译100%准确。由于我们没有专门的本地化团队，所以部分语言可能是由AI或机器翻译得到的，其翻译未必准确无误，如果您在游玩过程中发现了翻译问题，请按上述方法 [提交PR](https://github.com/BualoStudio/TheNativePond/pulls) 或 [提交Issue](https://github.com/BualoStudio/TheNativePond/issues) 。
