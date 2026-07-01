@@ -82,7 +82,7 @@
 - WeGame
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告知](bualostudio@gmail.com) 我们。
+> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉](https://github.com/BualoStudio/TheNativePond#%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9Fbualo-studio%E6%B5%AE%E6%A0%87%E5%B7%A5%E4%BD%9C%E5%AE%A4) 我们。
 
 ---
 
@@ -176,7 +176,7 @@
 | KOOK       | ❌   | ❌   | ✅   | ❌   | ❌   |
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他流媒体平台或游戏社区平台中发现了《本水塘》的账号，请不要犹豫，那不是我们的官方账号，请立即举报该账号并 [告知](bualostudio@gmail.com) 我们。
+> 如果你在该名单中未提到的其他流媒体平台或游戏社区平台中发现了《本水塘》的账号，请不要犹豫，那不是我们的官方账号，请立即举报该账号并 [告诉](https://github.com/BualoStudio/TheNativePond#%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9Fbualo-studio%E6%B5%AE%E6%A0%87%E5%B7%A5%E4%BD%9C%E5%AE%A4) 我们。
 
 > [!TIP]
 > 由于我们的精力/资源分配等多方面问题，我们无法保证所有平台同步更新内容，部分平台可能会有几分钟的延迟。由于我们没有专门的运营团队，所以并不是所有平台和功能都受支持。
@@ -209,7 +209,7 @@
 ---
 ## 📌 关于
 
-### **开发团队**：**Bualo Studio（浮标工作室）** 
+### 🪪 **开发团队**：**Bualo Studio（浮标工作室）** 
 
 - 制作组官方邮箱： thenativepond@gmail.com  
 - 工作室官方邮箱： bualostudio@gmail.com  
