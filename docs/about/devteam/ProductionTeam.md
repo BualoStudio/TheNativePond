@@ -24,15 +24,3 @@
 ### [Grass Sheep](https://github/Grass-Sheep)
 - Testing Lead  
 - China Operations  
-
-### 🐱 The Cat
-#### [awa_Liny](https://github.com/awaLiny2333)
-- *Today's Polar Bay* (developed by awa_liny) served as the inspiration and art asset source for *This Pond*.  
-- *Today's Polar Bay* (developed by awa_liny) laid the foundation for the art style and UI/UX design of *This Pond*.  
-
-### 🤝 External Support Team
-#### [Zhou Wei]()
-- Planning Consultant  
-- Writing Consultant  
-#### [Kiyana]()
-- Music Consultant
