@@ -514,4 +514,4 @@
 
 ---
 
-©2026 Beyond Pixels Studio. All rights reserved.
+©2026 Bualo Studio. All rights reserved.
