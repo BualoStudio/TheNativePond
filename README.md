@@ -48,7 +48,7 @@
 - **纯粹的放空**：非线性动画让池水微微“呼吸”，在漫长的等待中，把时间还给你的大脑。  
 
 > [!TIP]
-> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [《大饼清单》](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [《价值观》](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
+> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [大饼清单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [价值观](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
 
 ---
 
@@ -84,7 +84,7 @@
 - WeGame  
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉](mailto:bualostudio@gmail.com) 我们。
+> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉我们](mailto:bualostudio@gmail.com)。
 
 ---
 
@@ -94,7 +94,7 @@
 
 - **底层引擎**：基于我们专为《本水塘》打造的 [**小冰岛**](https://github.com/BualoStudio/Icelet) 游戏引擎开发。  
 - **渲染方案**：HTML5 原生渲染，极致轻量，流畅运行于各类低端设备。  
-- **资产格式**：大量美术资产均采用SVG格式，确保在任何分辨率下的边缘锐度。  
+- **资产格式**：大量美术资产均采用 SVG 格式，确保在任何分辨率下的边缘锐度。  
 
 ---
 
@@ -106,6 +106,7 @@
 
 1. **记忆碎片投递**：为游戏撰写一句动人的文案，或分享一段具有时代感的回忆性短文。
 2. **家乡食谱贡献**：设计一份全新的食谱（例如：如何做一碗正宗的热干面），并拆解它的制作步骤。
+3. **提交游戏存在的问题**：报告游戏在特定情况下触发的问题、漏洞和错误，甚至解决方案。
 
 > [!TIP]
 > 参与前，请务必阅读我们的 [贡献指南](https://github.com/BualoStudio/TheNativePond/blob/main/CONTRIBUTING.md) 并遵守 [行为准则](https://github.com/BualoStudio/TheNativePond/blob/main/CODE_OF_CONDUCT.md)。
@@ -188,7 +189,7 @@
 - ❌：不受支持的平台，你在该平台上不会看到这个条目的内容。
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他流媒体平台或游戏社区平台中发现了《本水塘》的账号，请不要犹豫，那不是我们的官方账号，请立即举报该账号并 [告诉](mailto:bualostudio@gmail.com) 我们。
+> 如果你在该名单中未提到的其他流媒体平台或游戏社区平台中发现了《本水塘》的账号，请不要犹豫，那不是我们的官方账号，请立即举报该账号并 [告诉我们](mailto:bualostudio@gmail.com)。
 
 > [!TIP]
 > 由于我们的精力/资源分配等多方面问题，我们无法保证所有平台同步更新内容，部分平台可能会有几分钟的延迟。由于我们没有专门的运营团队，所以并不是所有平台和功能都受支持。
@@ -216,7 +217,7 @@
 
 > [!NOTE]
 > 我们之所以让美术资产和音乐资产使用非商业性许可证，是为了避免劣质（这里指几乎没有改动或改动范围过小）的二次修改版本，如果这些劣质的二次修改版本被卖出了高价将会对《本水塘》的名誉造成严重影响。为避免此问题，我们让这些资产使用非商业性许可证。  
-> 但是，如果你真心的希望为《本水塘》制作优质的二次修改版本，只要我们能够看出你在这件事上投入了精力和心灵，我们完全不介意你售卖这样的优质二次修改版本，即使你有所收益。  
+> 但是，如果你真心的希望为《本水塘》制作优质的二次修改版本，只要我们能够看出你在这件事上投入了精力和心灵（亦或者得到了我们的赞赏，例如在你的演示视频下评论鼓励类或赞赏类的评论），我们完全不介意你售卖这样的优质二次修改版本，即使你以此盈利。  
 > 如果你实在不放心售卖二次修改版本，请 [联系我们](mailto:thenativepond@gmail.com) 以获取官方授权！  
 
 ---
@@ -228,17 +229,17 @@
 - 制作组官方邮箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)  
 - 工作室官方邮箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)    
 
-#### [制作组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md)
+#### [制作组人员名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md)
 
 #### [猫咪](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md)
 
-#### [外部援助组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
+#### [外部援助组人员名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
 
 ### 💌 致谢
 
-#### [谨此致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md)
+#### [谨此致谢名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md)
 
-#### [特别致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
+#### [特别致谢名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
 
 ---
 
