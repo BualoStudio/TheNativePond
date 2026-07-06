@@ -146,7 +146,7 @@
 - ❌：不受支持的语言，在该条目内不会看到这个语言的翻译。
 
 > [!TIP]
-> 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [本地化致谢名单]()。
+> 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [本地化致谢名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md)。
 
 > [!TIP]
 > 由于我们的开发周期和精力/资源分配等多方面问题，我们无法保证翻译100%准确。由于我们没有专门的本地化团队，所以部分语言可能是由AI或机器翻译得到的，其翻译未必准确无误，如果您在游玩过程中发现了翻译问题，请按上述方法 [提交PR](https://github.com/BualoStudio/TheNativePond/pulls) 或 [提交Issue](https://github.com/BualoStudio/TheNativePond/issues) 。
@@ -217,7 +217,7 @@
 > [!NOTE]
 > 我们之所以让美术资产和音乐资产使用非商业性许可证，是为了避免劣质（这里指几乎没有改动或改动范围过小）的二次修改版本，如果这些劣质的二次修改版本被卖出了高价将会对《本水塘》的名誉造成严重影响。为避免此问题，我们让这些资产使用非商业性许可证。  
 > 但是，如果你真心的希望为《本水塘》制作优质的二次修改版本，只要我们能够看出你在这件事上投入了精力和心灵，我们完全不介意你售卖这样的优质二次修改版本，即使你有所收益。  
-> 如果你实在不放心售卖二次修改版本，请 [联系我们](mailto:bualostudio@gmail.com) 以获取官方授权！  
+> 如果你实在不放心售卖二次修改版本，请 [联系我们](mailto:thenativepond@gmail.com) 以获取官方授权！  
 
 ---
 
@@ -228,62 +228,17 @@
 - 制作组官方邮箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)  
 - 工作室官方邮箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)    
 
-### 🖥️ 制作组
-#### [Crazy Sue](https://github.com/CrazySue)
-- 总策划  
-- 编程开发  
-- UI/UX设计  
-- 辅助文案  
-- 总运营/国际区运营  
-- 测试  
-#### [Zong Zi](https://github.com/zongzibaby)
-- 剧情策划
-- 总文案  
-- 辅助美术  
-- 中国区运营  
-- 测试  
-#### [Fresh](https://github/Fresh404a)
-- 联合策划  
-- 责任音乐  
-- 测试  
-#### [Jiang Yue](https://github/jiangyue-77)
-- 总美术  
-- 联合文案  
-- 测试  
-#### [Grass Sheep](https://github/Grass-Sheep)
-- 总测试  
-- 中国区运营  
+#### [制作组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md)
 
-### 🐱 猫咪
-#### [awa_Liny](https://github.com/awaLiny2333)
-- awa_liny 开发的游戏《今日极地湾》是《本水塘》的灵感源泉和美术素材库。  
-- awa_liny 开发的游戏《今日极地湾》为《本水塘》的美术风格和UI/UX设计奠定了基础。  
+#### [猫咪](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md)
 
-### 🤝 外部援助组
-#### [Zhou Wei]()
-- 策划指导
-- 文案指导
-#### [Kiyana]()
-- 音乐指导
+#### [外部援助组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
 
-### 💌 鸣谢
+### 💌 致谢
 
-#### 值此感谢
+#### [谨此致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md)
 
-> [!TIP]
-> “值此感谢”中列出的玩家贡献相等，排名随机。
-
-- 以下玩家在《本水塘：第一次玩家意见征集》意见征集活动中提出了很多宝贵意见，在此感谢：  
-	RAY-冯 雨过天晴 N 传承 yuouo 胜似L.R. 沐yu NaClhhhh 郑 SHANG 马 川 禹 秦甲乙丙丁 王韦 墨盛君 这个月半子不太冷静 LuV·C Feliex·26824 LZD 季谕 又是那颗昕 张双燕 凉城孤岛 少冰茉莉拿铁 Lovegood ？
-
-#### 特别感谢
-
-- [@Minecraft](https://minecraft.net)  
-	- Minecraft 是《本水塘》制作组的灯塔，它是我们的学习榜样。  
-	- Minecraft 为《本水塘》自由至上的开发理念提供了指引。  
-- [@Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)  
-	- Farmer's Delight 为《本水塘》治愈系、慢节奏等理念提供了引导。  
-	- Farmer's Delight 中的逐步制作美食等许多设定均为《本水塘》的相关设定带来了灵感。  
+#### [特别致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
 
 ---
 
