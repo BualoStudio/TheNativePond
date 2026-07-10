@@ -1,7 +1,7 @@
 # 🤝 External Support Team
 
 ### [Zhou Wei]()
-- Planning Consultant  
+- Planning Consultant
 - Writing Consultant
 
 ### [Kiyana]()
