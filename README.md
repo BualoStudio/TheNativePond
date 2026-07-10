@@ -48,7 +48,7 @@
 - **纯粹的放空**：非线性动画让池水微微“呼吸”，在漫长的等待中，把时间还给你的大脑。
 
 > [!TIP]
-> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [大饼清单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [价值观](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
+> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [**大饼清单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [**价值观**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
 
 ---
 
@@ -76,12 +76,12 @@
 > [!NOTE]
 > 无论是哪一平台，除接入各平台的成就系统外，所有分发平台提供的游戏体验均是一致的（部分分发平台可能会按照当地法律进行合规化处理）。
 
-- Google Play
-- Steam
-- Epic Games Store
-- TapTap
-- Bilibili
-- WeGame
+- **Google Play**
+- **Steam**
+- **Epic Games Store**
+- **TapTap**
+- **Bilibili**
+- **WeGame**
 
 > [!IMPORTANT]
 > 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉我们](mailto:bualostudio@gmail.com)。当然，这有可能是《本水塘》的二次修改版本，这些版本不受我们支持，我们亦不承担由于游玩该二次修改版本产生的任何责任。
@@ -109,10 +109,10 @@
 3. **提交游戏存在的问题**：报告游戏在特定情况下触发的问题、漏洞和错误，甚至解决方案。
 
 > [!TIP]
-> 参与前，请务必阅读我们的 [贡献指南](https://github.com/BualoStudio/TheNativePond/blob/main/CONTRIBUTING.md) 并遵守 [行为准则](https://github.com/BualoStudio/TheNativePond/blob/main/CODE_OF_CONDUCT.md)。
+> 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/TheNativePond/blob/main/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BualoStudio/TheNativePond/blob/main/CODE_OF_CONDUCT.md)。
 
 > [!NOTE]
-> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [Issue](https://github.com/BualoStudio/TheNativePond/issues)。
+> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [**Issue**](https://github.com/BualoStudio/TheNativePond/issues)。
 
 ---
 
@@ -123,7 +123,7 @@
 1. Fork 本仓库。
 2. 找到语言文件（在 `/lang/` 目录下）。
 3. 添加或更新翻译。
-4. 提交 [Pull Request](https://github.com/BualoStudio/TheNativePond/pulls)。
+4. 提交 [**Pull Request**](https://github.com/BualoStudio/TheNativePond/pulls)。
 
 以下列出了目前由官方支持的语言：
 
@@ -147,10 +147,10 @@
 - ❌：不受支持的语言，在该条目内不会看到这个语言的翻译。
 
 > [!TIP]
-> 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [本地化致谢名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md)。
+> 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [**本地化致谢名单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md)。
 
 > [!TIP]
-> 由于我们的开发周期和精力/资源分配等多方面问题，我们无法保证翻译100%准确。由于我们没有专门的本地化团队，所以部分语言可能是由AI或机器翻译得到的，其翻译未必准确无误，如果您在游玩过程中发现了翻译问题，请按上述方法 [提交PR](https://github.com/BualoStudio/TheNativePond/pulls) 或 [提交Issue](https://github.com/BualoStudio/TheNativePond/issues) 。
+> 由于我们的开发周期和精力/资源分配等多方面问题，我们无法保证翻译100%准确。由于我们没有专门的本地化团队，所以部分语言可能是由AI或机器翻译得到的，其翻译未必准确无误，如果您在游玩过程中发现了翻译问题，请按上述方法 [**提交PR**](https://github.com/BualoStudio/TheNativePond/pulls) 或 [**提交Issue**](https://github.com/BualoStudio/TheNativePond/issues) 。
 
 ---
 
@@ -198,7 +198,7 @@
 
 ## 📜 许可证
 
-我们鼓励自由使用、修改与分享本游戏。对于许可证，我们将不同类别的游戏资产按不同许可证开源/开放源代码，详见 [LICENSE](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) 文件。对于不同资产类型所使用的不同的许可证划分如下：
+我们鼓励自由使用、修改与分享本游戏。对于许可证，我们将不同类别的游戏资产按不同许可证开源/开放源代码，详见 [**LICENSE**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) 文件。对于不同资产类型所使用的不同的许可证划分如下：
 
 <details>
 
@@ -247,11 +247,11 @@
 - 制作组官方邮箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
 - 工作室官方邮箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
 
-[制作组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [猫咪](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [外部援助组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
+[**制作组**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [**猫咪**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [**外部援助组**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
 
 ### 💌 致谢
 
-[谨此致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md) | [特别致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
+[**谨此致谢**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md) | [**特别致谢**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
 
 ---
 
