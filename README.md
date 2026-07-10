@@ -84,8 +84,7 @@
 - WeGame
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉我们](mailto:bualostudio@gmail.com)。
-> 当然，这有可能是《本水塘》的二次修改版本，这些版本不受我们支持，我们亦不承担由于游玩该二次修改版本产生的任何责任。
+> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，请立即举报该游戏并 [告诉我们](mailto:bualostudio@gmail.com)。当然，这有可能是《本水塘》的二次修改版本，这些版本不受我们支持，我们亦不承担由于游玩该二次修改版本产生的任何责任。
 
 ---
 
@@ -248,11 +247,11 @@
 - 制作组官方邮箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
 - 工作室官方邮箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
 
-#### <ins>[制作组人员名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md)</ins> | <ins>[猫咪](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md)</ins> | <ins>[外部援助组人员名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)</ins>
+[制作组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [猫咪](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [外部援助组](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
 
 ### 💌 致谢
 
-#### <ins>[谨此致谢名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md)</ins> | <ins>[特别致谢名单](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)</ins>
+[谨此致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md) | [特别致谢](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
 
 ---
 
