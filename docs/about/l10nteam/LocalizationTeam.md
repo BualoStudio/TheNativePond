@@ -1,12 +1,12 @@
 # 🌐 Localization Team
 
+### English
+- [ChatGPT](https://chatgpt.com)
+
 ### 简体中文
 - [Zong Zi](https://github.com/zongzibaby)
 - [Jiang Yue](https://github/jiangyue-77)
 - [Crazy Sue](https://github.com/CrazySue)
-
-### English
-- [ChatGPT](https://chatgpt.com)
 
 ### 繁体中文
 - [ChatGPT](https://chatgpt.com)
