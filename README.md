@@ -218,8 +218,8 @@
 
 对于《本水塘》中使用的**美术资产**（包括但不限于游戏贴图、游戏地图、角色立绘），共有两种情况：
 
-1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，这部分美术资产的版权由 Bualo Studio 和 awa_Liny 共同持有。这部分美术资产使用 [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art&music-license) **开放源代码**。
-2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art&music-license) **开放源代码**。
+1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，这部分美术资产的版权由 Bualo Studio 和 awa_Liny 共同持有。这部分美术资产使用 [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) **开放源代码**。
+2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) **开放源代码**。
 
 </details>
 
@@ -229,7 +229,7 @@
 
 ### 3. 🪗 音乐资产
 
-对于《本水塘》中使用的**音乐资产**（包括但不限于背景音乐、环境音乐），我们一律使用 [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art&music-license) **开放源代码**。
+对于《本水塘》中使用的**音乐资产**（包括但不限于背景音乐、环境音乐），我们一律使用 [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/music-license) **开放源代码**。
 
 </details>
 
