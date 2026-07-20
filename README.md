@@ -111,7 +111,7 @@
 > [!TIP]
 > 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md)。
 
-> [!ATTENTION]
+> [!WARNING]
 > 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [**Issue**](https://github.com/BualoStudio/TheNativePond/issues)。
 
 ---
