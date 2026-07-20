@@ -171,8 +171,8 @@
 
 对于《本水塘》中使用的**美术资产**（包括但不限于游戏贴图、游戏地图、角色立绘），共有两种情况：
 
-1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，这部分美术资产的版权由 Bualo Studio 和 awa_Liny 共同持有。这部分美术资产使用 [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) **开放源代码**。
-2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) **开放源代码**。
+1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，这部分美术资产的版权由 Bualo Studio 和 awa_Liny 共同持有。这部分美术资产使用 [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) 将这些美术资产面向全人类**开源**。
+2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) 将这些美术资产面向全人类**开源**。
 
 </details>
 
@@ -184,12 +184,12 @@
 
 对于《本水塘》中使用的**音乐资产**（包括但不限于背景音乐、环境音乐），我们一律使用 [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/music-license) **开放源代码**。
 
-</details>
-
 > [!NOTE]
-> 我们之所以让美术资产和音乐资产使用非商业性许可证，是为了避免劣质（这里指几乎没有改动或改动范围过小）的二次修改版本，如果这些劣质的二次修改版本被卖出了高价将会对《本水塘》的名誉造成严重影响。为避免此问题，我们让这些资产使用非商业性许可证。  
+> 我们之所以让音乐资产使用非商业性许可证，是为了避免劣质（这里指几乎没有改动或改动范围过小）的二次修改版本，如果这些劣质的二次修改版本被卖出了高价将会对《本水塘》的名誉造成严重影响。为避免此问题，我们让这些资产使用非商业性许可证。  
 > 但是，如果你真心的希望为《本水塘》制作优质的二次修改版本，只要我们能够看出你在这件事上投入了精力和心灵（亦或者得到了我们的赞赏，例如在你的演示视频下评论鼓励类或赞赏类的评论），我们完全不介意你售卖这样的优质二次修改版本，即使你以此盈利。  
 > 如果你实在不放心售卖二次修改版本，请 [联系我们](mailto:thenativepond@gmail.com) 以获取官方授权！  
+
+</details>
 
 ---
 
