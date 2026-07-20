@@ -48,7 +48,7 @@
 - **纯粹的放空**：非线性动画让池水微微“呼吸”，在漫长的等待中，把时间还给你的大脑。
 
 > [!TIP]
-> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读我们的 [**大饼清单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [**价值观**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
+> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读 [**本水塘大饼清单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [**本水塘价值观**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
 
 ---
 
@@ -109,14 +109,16 @@
 3. **提交游戏存在的问题**：报告游戏在特定情况下触发的问题、漏洞和错误，甚至解决方案。
 
 > [!TIP]
-> 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/TheNativePond/blob/main/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BualoStudio/TheNativePond/blob/main/CODE_OF_CONDUCT.md)。
+> 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md)。
 
-> [!NOTE]
+> [!ATTENTION]
 > 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [**Issue**](https://github.com/BualoStudio/TheNativePond/issues)。
 
 ---
 
 ## 🌐 本地化
+
+[**本地化支持情况**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationSupportStatus.md) 列出了目前由官方支持的语言和支持程度。
 
 我们希望《本水塘》能被全世界的玩家体验。如果你想帮助将游戏翻译成你的语言：
 
@@ -124,27 +126,6 @@
 2. 找到语言文件（在 `/lang/` 目录下）。
 3. 添加或更新翻译。
 4. 提交 [**Pull Request**](https://github.com/BualoStudio/TheNativePond/pulls)。
-
-以下列出了目前由官方支持的语言：
-
-| 语言   | 游戏内语言支持 | 运营文档/公告内语言支持 | 开发文档/公告内语言支持 |
-| ---- | ------- | ------------ | ------------ |
-| 英语   | ✅       | ✅            | ✅            |
-| 简体中文 | ✅       | ✅            | ✅            |
-| 繁体中文 | ✅       | ✅            | ❌            |
-| 文言   | ✅       | ⚠️           | ❌            |
-| 俄语   | ⚠️      | ⚠️           | ❌            |
-| 西班牙语 | ⚠️      | ⚠️           | ❌            |
-| 葡萄牙语 | ⚠️      | ⚠️           | ❌            |
-| 德语   | ⚠️      | ⚠️           | ❌            |
-| 韩语   | ⚠️      | ⚠️           | ❌            |
-| 法语   | ⚠️      | ⚠️           | ❌            |
-| 日语   | ⚠️      | ⚠️           | ❌            |
-| 土耳其语 | ⚠️      | ⚠️           | ❌            |
-
-- ✅：完全支持的语言，保证翻译质量。
-- ⚠️：基本支持的语言，可能由AI或机器翻译得到，不保证语境、语法准确无误。
-- ❌：不受支持的语言，在该条目内不会看到这个语言的翻译。
 
 > [!TIP]
 > 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [**本地化致谢名单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md)。
