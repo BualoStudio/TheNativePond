@@ -26,7 +26,7 @@ We highly welcome Issues in the following forms:
 
 > [!TIP]
 > 
-> Want to make excellent derivative modifications or MODs for _The Native Pond_? Please refer to _[The Native Pond Technical Documentation](https://www.google.com/search?q=)_ and _[Little Iceland Development Guide](https://www.google.com/search?q=)_, and comply with the [LICENSE](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FBualoStudio%2FTheNativePond%2Fblob%2Fmain%2FLICENSE) file when distributing.
+> Want to make excellent derivative modifications or MODs for _The Native Pond_? Please refer to _[The Native Pond Technical Documentation](https://www.google.com/search?q=)_ and _[Icelet Development Guide](https://www.google.com/search?q=)_, and comply with the [LICENSE](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FBualoStudio%2FTheNativePond%2Fblob%2Fmain%2FLICENSE) file when distributing.
 
 ### 2. 🐛 Existing Issues
 
