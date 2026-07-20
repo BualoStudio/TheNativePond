@@ -48,7 +48,7 @@
 - **纯粹的放空**：非线性动画让池水微微“呼吸”，在漫长的等待中，把时间还给你的大脑。
 
 > [!TIP]
-> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读 [**本水塘大饼清单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList-zh_CN.md) 和 [**本水塘价值观**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-zh_CN.md)！
+> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读 [**本水塘大饼清单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList.md) 和 [**本水塘价值观**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values.md)！
 
 ---
 
