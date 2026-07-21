@@ -167,9 +167,19 @@ We are looking for people who can help translate _The Native Pond_ into language
 ##### Contribution steps:
 
 1. Locate the language file (in the `/lang/` directory).
-2. In the language file, you will see lines formatted like `"information"="iloveyou",`.
+2. In the language file, you will see lines formatted like `"information"="I love you!",`.
 3. Only modify the text inside the quotation marks on the right side of the equals sign.
 4. Repeat step 3 until you have translated all lines.
+
+</details>
+
+<details>
+
+<summary>💡 Other</summary>
+
+### 💡 Other
+
+Have another way you'd like to contribute? If so, please [contact us](mailto:thenativepond@gmail.com) to discuss your contribution.
 
 </details>
 
