@@ -1,64 +1,64 @@
-# 本水塘
+# The Native Pond
 
-![thenativepond_background](/background/TNP-readme-bg-zh_CN.png)
+![thenativepond_background](/background/TNP-readme-bg-en_US.png)
 
-> **“重拾对游戏的热爱”**
+> **“Rediscover the love for games”**
 
 [![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC--SA_4.0-red.svg)](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/TheNativePond/discussions)
 
-[English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-en_US.md) | 简体中文 | [繁体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-de.md) | [한국인](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-tr.md)
+English | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_CN.md) | [繁体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-de.md) | [한국인](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-tr.md)
 
-**本水塘** 是由 **Bualo Studio（浮标工作室）** 开发的一款非营利性治愈系游戏。
+**The Native Pond** is a non-profit healing game developed by **Bualo Studio**.
 
-当下，玩家们正被困在无尽的日常打卡、通行证等级、数值碾压和抽卡焦虑中。我们希望让玩家回归到对游戏最初的热爱，而不是将游戏视为一种需要按时签到打卡的负担。所以，我们的游戏——**无签到打卡、无数值强度、无任务副本**。这是一个没有体力条、没有战斗力评分、甚至没有强制目标的小池塘。在这里，**重拾对游戏的热爱**。
+Today, players are trapped in endless daily check-ins, battle passes, number-crunching, and gacha anxiety. We want to bring players back to the original love for games, rather than seeing games as a burden that requires clocking in on time. So our game features **no check-ins, no stat grinding, no quests or dungeons**. It is a small pond without stamina bars, power ratings, or even mandatory goals. Here, **rediscover the love for games**.
 
 ---
 
-## ✨ 核心体验与玩法
+## ✨ Core Experience & Gameplay
 
-《本水塘》拒绝“点击即得”的快餐化设计。我们将生活中的真实触感，通过拟真的流程还原到了极简的画面之下。
+*The Native Pond* rejects the “click-and-get” fast-food design. We recreate the tactile feel of real life through simulation processes beneath a minimalist surface.
 
-### 🎣 沉浸式拟真垂钓
+### 🎣 Immersive Realistic Fishing
 
-这绝非一个按空格键就能把鱼拉上来的街机小游戏，我们致力于还原真实的垂钓心流：
+This is by no means an arcade mini‑game where you press the spacebar to reel in a fish. We strive to recreate the authentic flow of fishing:
 
-- **亲手开饵**：你需要在游戏内的杂货铺购买基础饵料，根据天气和目标水域，一步步按比例加水、揉搓、醒饵、打窝。
-- **拟真等待**：挂饵、抛竿，观察水面涟漪的细微变化与浮标的下沉动作，把握提竿的最佳时机。
-- **特殊藏品**：有时钓上来的并非鱼，而是“藏品”。
+- **Mix Your Own Bait**: Buy basic bait at the in‑game store, then, based on weather and target waters, gradually add water, knead, let it rest, and chum the spot.
+- **Realistic Waiting**: Bait the hook, cast your line, watch the subtle ripples on the water and the movement of the float—and seize the perfect moment to strike.
+- **Special Collectibles**: Sometimes what you pull up is not a fish, but a “collectible”.
 
-### 🍳 充满烟火气的自由烹饪
+### 🍳 A Lively, Unrestricted Cooking System
 
-垂钓之外，游戏内置了与现实步骤完全一致的烹饪系统，让赛博空间充满生活的实感：
+Beyond fishing, the game includes a cooking system that mirrors real‑life steps, bringing a sense of tangible life into the digital space:
 
-- **硬核的步骤拆解**：想吃一碗阳春面？你需要先买面粉，在案板上亲手加水、和面、醒发、擀面条。
-- **火候与时间**：接水、开火，耐心等待水沸腾后再下锅煮。每一个步骤都不可省略，感受食物在手中逐渐成型的踏实感。
-- **绝对自由的烹饪**：你可以严格遵循“菜谱”，也可以无视一切规则随心搭配食材。无论是惊喜的美味还是黑暗料理，这里只有乐趣，没有惩罚。
+- **Hardcore Step‑by‑Step**: Want a bowl of plain noodles? First buy flour, then add water on the counter, knead the dough, let it rest, and roll out the noodles.
+- **Heat and Timing**: Fill the pot, turn on the heat, and patiently wait for the water to boil before adding the noodles. Every step is essential—feel the satisfaction of food taking shape in your hands.
+- **Absolute Culinary Freedom**: You can strictly follow a “recipe” or ignore all rules and mix ingredients at will. Whether it’s a delightful surprise or a culinary disaster, there is only fun, no punishment.
 
-### 🥬 休闲放松的种田时光
+### 🥬 Casual and Relaxing Farming
 
-游戏还提供种田的玩法，让每个玩家都能亲手开辟出一片小天地。
-- **播种**：到了适宜农作物生长的季节，你便可开垦出一片田地，播下种子、浇水、施肥，为作物生长提供滋养。
-- **生长**：当环境适宜时，作物便会茁壮生长。无需过多打理，只需偶尔关注，让种田生活变得轻松而有乐趣。
-- **收获**：作物成熟时，你可以收获作物。并非简单点一点的快速收集，而是模拟真实的采摘/收割流程，让你切实体会到收获的喜悦与成就感。
+The game also offers farming, letting every player carve out their own little plot of land.
+- **Sowing**: When the season is right for crops, you can till a patch, sow seeds, water, and fertilise to nourish their growth.
+- **Growing**: When conditions are favourable, crops will thrive. They don’t need constant tending—just occasional attention, making farming life easy and enjoyable.
+- **Harvesting**: When crops are ready, you can harvest them. Not a simple one‑click collection, but a simulated real picking/reaping process, so you truly feel the joy and satisfaction of harvest.
 
-### 🎨 极致的极简视觉美学
+### 🎨 Minimalist Visual Aesthetics
 
-- **大色块与扁平化**：摒弃多余的纹理，使用纯粹的 SVG 矢量色块分割画面。
-- **去 UI 化设计**：没有满屏的按钮和充值入口，画面干净克制，将屏幕彻底交给水面。
-- **纯粹的放空**：非线性动画让池水微微“呼吸”，在漫长的等待中，把时间还给你的大脑。
+- **Large Colour Blocks and Flat Design**: No extraneous textures—pure SVG vector colour blocks divide the screen.
+- **UI‑Free Design**: No cluttered buttons or top‑up icons. The screen is clean and restrained, giving the water surface the full stage.
+- **Pure Emptiness**: Non‑linear animations let the pond water “breathe” gently. During the long waits, your mind is free to wander.
 
 > [!TIP]
-> 对《本水塘》的游戏玩法有浓厚的兴趣？请阅读 [**本水塘大饼清单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList.md) 和 [**本水塘价值观**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values.md)！
+> Intrigued by the gameplay of *The Native Pond*? Read our [**The Native Pond Feature Roadmap**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList.md) and [**The Native Pond Values**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values.md)!
 
 ---
 
-## 📦 获取游戏与分发平台
+## 📦 Getting the Game & Distribution Platforms
 
-随时随地，想钓就钓。你可以通过以下方式体验《本水塘》：
+Anywhere, anytime—fish whenever you want. You can experience *The Native Pond* through the following channels:
 
-### 1. 💾 源码与直接下载
+### 1. 💾 Source Code & Direct Downloads
 
-无需编译代码，普通玩家可直接前往本仓库的 [**Releases**](https://github.com/BeyondPixelsStudio/TheNativePond/releases) 页面下载最新构建版本：
+No compilation needed—regular players can head to this repository’s [**Releases**](https://github.com/BeyondPixelsStudio/TheNativePond/releases) page to download the latest builds for:
 
 - 📱 **Android**
 - 📱 **iOS**
@@ -69,12 +69,12 @@
 - 💻 **ChromeOS**
 - 📱 **HarmonyOS**
 
-### 2. 🕹️ 游戏分发平台
+### 2. 🕹️ Game Distribution Platforms
 
-项目进入稳定期后，我们将逐步登陆以下平台：
+Once the project reaches a stable state, we will gradually launch on the following platforms:
 
 > [!NOTE]
-> 无论是哪一平台，除接入各平台的成就系统外，所有分发平台提供的游戏体验均是一致的（部分分发平台可能会按照当地法律进行合规化处理）。
+> Regardless of the platform, except for integrating each platform’s achievement system, the gameplay experience is identical across all distributions (some platforms may apply compliance adjustments per local laws).
 
 - **Google Play**
 - **Steam**
@@ -84,128 +84,128 @@
 - **WeGame**
 
 > [!IMPORTANT]
-> 如果你在该名单中未提到的其他游戏分发平台中发现了《本水塘》，请不要犹豫，那不是我们发布的官方游戏，这有可能是《本水塘》的二次修改版本，这些版本不受我们支持，我们亦不承担由于游玩该二次修改版本产生的任何责任。
+> If you find *The Native Pond* on any other game distribution platform not mentioned in this list, please be aware that it is not an official release from us. It may be a modified version—we do not support such versions and assume no responsibility for any issues arising from playing them.
 
 ---
 
-## 🛠️ 技术栈与架构
+## 🛠️ Tech Stack & Architecture
 
-为了确保轻量化、跨平台以及便于社区的介入，本项目采用了以下技术基础：
+To ensure lightweight, cross‑platform compatibility, and ease of community contribution, the project is built on the following technologies:
 
-- **底层引擎**：基于我们专为《本水塘》打造的 [**小冰岛**](https://github.com/BualoStudio/Icelet) 游戏引擎开发。
-- **渲染方案**：HTML5 原生渲染，极致轻量，流畅运行于各类低端设备。
-- **资产格式**：大量美术资产均采用 SVG 格式，确保在任何分辨率下的边缘锐度。
+- **Underlying Engine**: Developed on our custom game engine [**Icelet**](https://github.com/BualoStudio/Icelet), built specifically for *The Native Pond*.
+- **Rendering**: Native HTML5 rendering—extremely lightweight and smooth on low‑end devices.
+- **Asset Format**: Most art assets are in SVG format, guaranteeing crisp edges at any resolution.
 
 ---
 
-## 🤝 参与共建
+## 🤝 Join the Community
 
-《本水塘》不仅仅是我们的作品，我们希望它能成为所有疲惫玩家的“精神加油站”。无论你是否了解游戏开发或代码，都可以为这个小池塘添砖加瓦！
+*The Native Pond* is not just our work; we hope it becomes a “spiritual rest stop” for every weary player. Whether or not you know game development or coding, you can contribute to this little pond!
 
-我们极其欢迎以下形式的 Issue：
+We warmly welcome the following types of Issues:
 
-1. **记忆碎片投递**：为游戏撰写一句动人的文案，或分享一段具有时代感的回忆性短文。
-2. **家乡食谱贡献**：设计一份全新的食谱（例如：如何做一碗正宗的热干面），并拆解它的制作步骤。
-3. **提交游戏存在的问题**：报告游戏在特定情况下触发的问题、漏洞和错误，甚至解决方案。
+1. **Memory Fragments**: Write a touching line of in‑game text, or share a short nostalgic piece with a sense of time.
+2. **Hometown Recipes**: Design a brand‑new recipe (e.g., how to make an authentic bowl of hot‑dry noodles) and break down its steps.
+3. **Bug Reports**: Report issues, glitches, or errors triggered under specific circumstances—and even propose solutions.
 
 > [!TIP]
-> 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md)。
+> Before participating, please be sure to read our [**Contributing Guidelines**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) and follow the [**Code of Conduct**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md).
 
 > [!WARNING]
-> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [**Issue**](https://github.com/BualoStudio/TheNativePond/issues)。
+> Due to TurboWarp’s single‑file limitation, please do not submit Pull Requests directly against the source file. Instead, you can report bugs via [**Issues**](https://github.com/BualoStudio/TheNativePond/issues).
 
 ---
 
-## 🌐 本地化
+## 🌐 Localisation
 
-[**本地化支持情况**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationSupportStatus.md) 列出了目前受官方支持的语言和支持情况。
+[**Localisation Support Status**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationSupportStatus.md) lists the currently officially supported languages and their status.
 
-我们希望《本水塘》能被全世界的玩家体验。如果你想帮助将游戏翻译成你的语言：
+We want *The Native Pond* to be enjoyed by players worldwide. If you would like to help translate the game into your language:
 
-1. Fork 本仓库。
-2. 找到语言文件（在 `/lang/` 目录下）。
-3. 添加或更新翻译。
-4. 提交 [**Pull Request**](https://github.com/BualoStudio/TheNativePond/pulls)。
-
-> [!TIP]
-> 本水塘的本地化工作是由众多像你一样的志愿者提供的，请查看我们的 [**本地化致谢名单**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md)。
+1. Fork this repository.
+2. Locate the language files (in the `/lang/` directory).
+3. Add or update translations.
+4. Submit a [**Pull Request**](https://github.com/BualoStudio/TheNativePond/pulls).
 
 > [!TIP]
-> 由于我们的开发周期和精力/资源分配等多方面问题，我们无法保证翻译100%准确。由于我们没有专门的本地化团队，所以部分语言可能是由AI或机器翻译得到的，其翻译未必准确无误，如果您在游玩过程中发现了翻译问题，请按上述方法 [**提交PR**](https://github.com/BualoStudio/TheNativePond/pulls) 或 [**提交Issue**](https://github.com/BualoStudio/TheNativePond/issues) 。
+> Localisation of *The Native Pond* is provided by volunteers like you. See our [**Localisation Credits**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md).
+
+> [!TIP]
+> Due to our development cycle and resource constraints, we cannot guarantee 100% translation accuracy. As we do not have a dedicated localisation team, some languages may be AI‑ or machine‑translated and may contain errors. If you encounter translation issues during gameplay, please follow the instructions above to [**submit a PR**](https://github.com/BualoStudio/TheNativePond/pulls) or [**open an Issue**](https://github.com/BualoStudio/TheNativePond/issues).
 
 ---
 
-## 🎞️ 运营平台
+## 🎞️ Operational Platforms
 
-我们的宣传片、公告以及整活等内容将会在运营平台发布以便你了解游戏动态。
+We publish trailers, announcements, and fun content on our operational platforms to keep you updated on the game.
 
-[**运营平台支持情况**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/opsteam/OperationalPlatformSupportStatus.md) 列出了目前受官方支持的运营平台和支持情况。
+[**Operational Platform Support Status**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/opsteam/OperationalPlatformSupportStatus.md) lists the currently officially supported platforms and their status.
 
 > [!NOTE]
-> 部分平台提供的内容可能会根据运营情况进行调整。
+> Content on some platforms may be adjusted based on operational needs.
 
 > [!TIP]
-> 由于我们的精力/资源分配等多方面问题，我们无法保证所有平台同步更新内容，部分平台可能会有几分钟的延迟。由于我们没有专门的运营团队，所以并不是所有平台和功能都受支持。
+> Due to resource and scheduling constraints, we cannot guarantee simultaneous updates across all platforms—there may be a few minutes of delay. As we have no dedicated operations team, not all platforms and features are fully supported.
 
 ---
 
-## 📜 许可证
+## 📜 License
 
-我们鼓励自由使用、修改与分享本游戏。对于许可证，我们将不同类别的游戏资产按不同许可证开源/开放源代码，详见 [**LICENSE**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) 文件。对于不同资产类型所使用的不同的许可证划分如下：
+We encourage free use, modification, and sharing of this game. Different categories of assets are open‑sourced/released under different licenses. See the [**LICENSE**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) file for full details. The license breakdown by asset type is as follows:
 
 <details>
 
-<summary>1. 代码资产</summary>
+<summary>1. Code Assets</summary>
 
-### 1. ⌨️ 代码资产
+### 1. ⌨️ Code Assets
 
-对于《本水塘》中的所有**代码资产**（包括但不限于游戏源代码、自定义扩展源代码），我们一律使用 [**MIT License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license) 将所有代码资产面向全人类**开源**。
+All **code assets** in *The Native Pond* (including but not limited to game source code and custom extension source code) are released under the [**MIT License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license), making them open‑source to all humanity.
 
 </details>
 
 <details>
 
-<summary>2. 美术资产</summary>
+<summary>2. Art Assets</summary>
 
-### 2. 🖌️ 美术资产
+### 2. 🖌️ Art Assets
 
-对于《本水塘》中使用的**美术资产**（包括但不限于游戏贴图、游戏地图、角色立绘），共有两种情况：
+For the **art assets** used in *The Native Pond* (including but not limited to textures, maps, and character illustrations), there are two cases:
 
-1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，这部分美术资产的版权由 Bualo Studio 和 awa_Liny 共同持有。这部分美术资产使用 [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) 将这些美术资产面向全人类**开源**。
-2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license) 将这些美术资产面向全人类**开源**。
+1. Some art assets originate from *Today’s Polar Bay* developed by awa_Liny. These assets are jointly copyrighted by Bualo Studio and awa_Liny, and are released under the [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license), making them open‑source to all humanity.
+2. The remaining art assets are designed by Bualo Studio, copyrighted by Bualo Studio, and are also released under the [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license), open‑source to all humanity.
 
 </details>
 
 <details>
 
-<summary>3. 音乐资产</summary>
+<summary>3. Music Assets</summary>
 
-### 3. 🪗 音乐资产
+### 3. 🪗 Music Assets
 
-对于《本水塘》中使用的**音乐资产**（包括但不限于背景音乐、环境音乐），我们一律使用 [**CC BY-NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/music-license) **开放源代码**。
+All **music assets** in *The Native Pond* (including but not limited to background music and ambient sound) are released under the [**CC BY‑NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/music-license) as open‑source.
 
 > [!NOTE]
-> 我们之所以让音乐资产使用非商业性许可证，是为了避免劣质（这里指几乎没有改动或改动范围过小）的二次修改版本，如果这些劣质的二次修改版本被卖出了高价将会对《本水塘》的名誉造成严重影响。为避免此问题，我们让这些资产使用非商业性许可证。  
-> 但是，如果你真心的希望为《本水塘》制作优质的二次修改版本，只要我们能够看出你在这件事上投入了精力和心灵（亦或者得到了我们的赞赏，例如在你的演示视频下评论鼓励类或赞赏类的评论），我们完全不介意你售卖这样的优质二次修改版本，即使你以此盈利。  
-> 如果你实在不放心售卖二次修改版本，请 [联系我们](mailto:thenativepond@gmail.com) 以获取官方授权！  
+> We chose a non‑commercial license for music assets to prevent low‑quality (i.e., barely modified) derivative versions from being sold at high prices, which would harm the reputation of *The Native Pond*.  
+> However, if you sincerely wish to create a high‑quality derivative work for *The Native Pond*, as long as we see genuine effort and heart put into it (or if we give you a shout‑out, such as encouraging comments under your demo video), we have no objection to you selling such a quality derivative work for profit.  
+> If you are still unsure about selling a derivative version, please [contact us](mailto:thenativepond@gmail.com) for official authorisation!
 
 </details>
 
 ---
 
-## 📌 关于
+## 📌 About
 
-### 🪪 **开发团队**：**Bualo Studio（浮标工作室）**
+### 🪪 **Development Team**: **Bualo Studio**
 
-- 制作组官方邮箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
-- 工作室官方邮箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
+- Production Team email: [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
+- Studio email: [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
 
-[**制作组**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [**猫咪**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [**外部援助组**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
+[**Production Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [**The Cat**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [**External Support Group**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
 
-### 💌 致谢
+### 💌 Acknowledgements
 
-[**谨此致谢**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md) | [**特别致谢**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
+[**With Thanks**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md) | [**Special Thanks**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
 
 ---
 
-*“献给需要休息的你，以及一支鱼竿、一碗热面。”*
+*“For you who need a rest—and a fishing rod, a bowl of warm noodles.”*
