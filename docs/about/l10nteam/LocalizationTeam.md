@@ -1,7 +1,7 @@
 # 🌐 Localization Team
 
 ### English
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### 简体中文
 - [Zong Zi](https://github.com/zongzibaby)
@@ -9,33 +9,33 @@
 - [Crazy Sue](https://github.com/CrazySue)
 
 ### 繁体中文
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### 文言
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 - [Zhou Wei]()
 - [Jiang Yue]()
 
 ### Русский
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### Español
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### Português
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### Deutsch
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### 한국인
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### Français
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### 日本語
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
 
 ### Türkçe
-- [ChatGPT](https://chatgpt.com)
+- [DeepSeek](https://deepseek.com)
