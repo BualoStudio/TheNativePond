@@ -71,7 +71,7 @@ Because TurboWarp's built‑in functionality is somewhat limited for _The Native
 
 - Use modern JavaScript
 - Maintain code readability and consistent style
-- Use meaningful variable names (follow the [Naming Conventions](https://github.com/BualoStudio/TheNativePond/wiki/Naming-Conventions))
+- Use meaningful variable names (follow the [Naming Conventions](https://github.com/BualoStudio/Icelet/wiki/Naming-Conventions))
 - Avoid code duplication
 - Add necessary comments
 - Remove debugging code
