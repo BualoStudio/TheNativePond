@@ -21,7 +21,7 @@ body:
       label: System Info
       description: Output of `npx envinfo --system --binaries --browsers`
       render: Shell
-      placeholder: OS Name: Name of the device's operating system.  OS Version: Version number of the device's operating system.  Runtime Platform: Platform on which the operating system runs (e.g., x86, x64, ARM, etc.).  Icelet Version: Version number of the Icelet where the issue occurred.  Output Information: The last console output message(s) prior to the issue occurring.  Screenshot or Screen Recording: (Please upload as an attachment)  Remarks: Additional information, such as exceptional circumstances or your own speculations.  
+      placeholder: OS Name, OS Version, Runtime Platform, Icelet Version, Output Information, Screenshot or Screen Recording (Please upload as an attachment), Remarks.
     validations:
       required: true
   - type: checkboxes
