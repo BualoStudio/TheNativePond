@@ -2,7 +2,7 @@
 
 ![thenativepond_background](/background/TNP-readme-bg-en_US.png)
 
-> **“Rediscover the love for games”**
+> **“Rediscover your love for games”**
 
 [![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC--SA_4.0-red.svg)](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/TheNativePond/discussions)
 
@@ -10,7 +10,7 @@ English | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/
 
 **The Native Pond** is a non-profit healing game developed by **Bualo Studio**.
 
-Today, players are trapped in endless daily check-ins, battle passes, number-crunching, and gacha anxiety. We want to bring players back to the original love for games, rather than seeing games as a burden that requires clocking in on time. So our game features **no check-ins, no stat grinding, no quests or dungeons**. It is a small pond without stamina bars, power ratings, or even mandatory goals. Here, **rediscover the love for games**.
+Today, players are trapped in endless daily check-ins, battle passes, number-crunching, and gacha anxiety. We want to bring players back to the original love for games, rather than seeing games as a burden that requires clocking in on time. So our game features **no check-ins, no stat grinding, no quests or dungeons**. It is a small pond without stamina bars, power ratings, or even mandatory goals. Here, **rediscover your love for games**.
 
 ---
 
