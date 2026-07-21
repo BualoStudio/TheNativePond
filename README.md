@@ -109,7 +109,7 @@ We warmly welcome the following types of Issues:
 3. **Bug Reports**: Report issues, glitches, or errors triggered under specific circumstances—and even propose solutions.
 
 > [!TIP]
-> Before participating, please be sure to read our [**Contributing Guidelines**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) and follow the [**Code of Conduct**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md).
+> Before participating, please be sure to read our [**Contributing Guide**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) and follow the [**Code of Conduct**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md).
 
 > [!WARNING]
 > Due to TurboWarp’s single‑file limitation, please do not submit Pull Requests directly against the source file. Instead, you can report bugs via [**Issues**](https://github.com/BualoStudio/TheNativePond/issues).
