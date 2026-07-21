@@ -1,4 +1,4 @@
-name: 🐞 Bug report
+name: 🐛 Bug report
 description: Report an issue (Something not working? Something went wrong? Report it here!)
 type: Bug
 labels: [pending triage]
@@ -14,14 +14,14 @@ body:
       description: A clear and concise description of what the bug is. If you intend to submit a PR for this issue, tell us in the description. Thanks!
       placeholder: Bug description
     validations:
-      required: true
+      required: trueDescription: Briefly describe the core content of the issue.  Reproducibility: Can the issue be reproduced by specific triggering conditions?  Triggering Conditions: Conditions that trigger the issue.  Resulting Issue: The problem caused by triggering this issue.
   - type: textarea
     id: system-info
     attributes:
       label: System Info
       description: Output of `npx envinfo --system --binaries --browsers`
       render: Shell
-      placeholder: System, Binaries, Browsers
+      placeholder: OS Name: Name of the device's operating system.  OS Version: Version number of the device's operating system.  Runtime Platform: Platform on which the operating system runs (e.g., x86, x64, ARM, etc.).  Icelet Version: Version number of the Icelet where the issue occurred.  Output Information: The last console output message(s) prior to the issue occurring.  Screenshot or Screen Recording: (Please upload as an attachment)  Remarks: Additional information, such as exceptional circumstances or your own speculations.  
     validations:
       required: true
   - type: checkboxes
@@ -30,9 +30,9 @@ body:
       label: Validations
       description: Before submitting the issue, please make sure you do the following
       options:
-        - label: Follow our [Code of Conduct](https://github.com/moeru-ai/airi/blob/main/.github/CODE_OF_CONDUCT.md)
+        - label: Follow our [Code of Conduct](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md)
           required: true
-        - label: Read the [Contributing Guide](https://github.com/moeru-ai/airi/blob/main/.github/CONTRIBUTING.md).
+        - label: Read the [https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md).
           required: true
         - label: Check that there isn't already an issue that reports the same bug to avoid creating a duplicate.
           required: true
