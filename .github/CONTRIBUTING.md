@@ -23,6 +23,10 @@ Before you start contributing, please make sure you have:
 
 Since _The Native Pond_ is a multimedia game project, you only need to choose the area you wish to contribute to.
 
+<details>
+
+<summary>💻 Code</summary>
+
 ### 💻 Code
 
 #### TurboWarp project files (.sb3)
@@ -80,6 +84,12 @@ Because TurboWarp's built‑in functionality is somewhat limited for _The Native
 - It does not affect other extensions
 - Basic testing has been completed
 
+</details>
+
+<details>
+
+<summary>🖌️ Art assets</summary>
+
 ### 🖌️ Art assets
 
 > [!NOTE]
@@ -101,6 +111,12 @@ Because TurboWarp's built‑in functionality is somewhat limited for _The Native
 - Follow the [Naming Conventions](https://github.com/BualoStudio/TheNativePond/wiki/Naming-Conventions)
 - Maintain a consistent design style (see [TheNativePond Art Design Guidelines]())
 
+</details>
+
+<details>
+
+<summary>🪗 Music & sound assets</summary>
+
 ### 🪗 Music & sound assets
 
 > [!NOTE]
@@ -119,6 +135,12 @@ Because TurboWarp's built‑in functionality is somewhat limited for _The Native
 - Avoid clipping as much as possible
 - Ensure you own the copyright to the asset, or confirm it is in the public domain, or that it can be released under the open‑source license used by this project for music assets.
 - Ensure you have obtained the asset from a legitimate source
+
+</details>
+
+<details>
+
+<summary>🌐 Localisation</summary>
 
 ### 🌐 Localisation
 
@@ -148,6 +170,8 @@ We are looking for people who can help translate _The Native Pond_ into language
 2. In the language file, you will see lines formatted like `"information"="iloveyou",`.
 3. Only modify the text inside the quotation marks on the right side of the equals sign.
 4. Repeat step 3 until you have translated all lines.
+
+</details>
 
 ## 3. 📡 Submit
 
