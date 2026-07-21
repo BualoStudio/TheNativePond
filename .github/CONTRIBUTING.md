@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contributing Guide
 
 Hello! Thank you for your interest in contributing to _The Native Pond_. This guide will help you get started.
 
