@@ -14,7 +14,7 @@ body:
       description: A clear and concise description of what the bug is. If you intend to submit a PR for this issue, tell us in the description. Thanks!
       placeholder: Bug description
     validations:
-      required: trueDescription: Briefly describe the core content of the issue.  Reproducibility: Can the issue be reproduced by specific triggering conditions?  Triggering Conditions: Conditions that trigger the issue.  Resulting Issue: The problem caused by triggering this issue.
+      required: trueDescription, Reproducibility, Triggering Conditions, Resulting Issue.
   - type: textarea
     id: system-info
     attributes:
