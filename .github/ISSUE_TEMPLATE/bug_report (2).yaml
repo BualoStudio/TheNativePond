@@ -1,0 +1,47 @@
+name: 🐛 Bug report
+description: Report an issue (Something not working? Something went wrong? Report it here!)
+type: Bug
+labels: [pending triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the bug
+      description: Includes TrueDescription, Reproducibility, Triggering Conditions, Resulting Issue, Screenshot(Please upload as an attachment) and Remarks. If you intend to submit a PR for this issue, tell us in the description. Thanks!
+      placeholder: TrueDescription, Reproducibility, Triggering Conditions, Resulting Issue.
+    validations:
+      required: true
+  - type: textarea
+    id: system-info
+    attributes:
+      label: System Info
+      description: Includes OS Name, OS Version, Runtime Platform, Icelet Version and Output Information.
+      render: Shell
+      placeholder: OS Name, OS Version, Runtime Platform, Icelet Version and Output Information.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: Validations
+      description: Before submitting the issue, please make sure you do the following
+      options:
+        - label: Follow our [Code of Conduct](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md)
+          required: true
+        - label: Read the [Contributing Guide](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md).
+          required: true
+        - label: Check that there isn't already an issue that reports the same bug to avoid creating a duplicate.
+          required: true
+        - label: Check that this is a concrete bug. For Q&A, please open a [GitHub Discussion](https://github.com/orgs/BualoStudio/discussions) instead.
+          required: true
+  - type: checkboxes
+    id: contributions
+    attributes:
+      label: Contributions
+      description: Please note that Open Source projects are maintained by volunteers, where your cases might not be always relevant to the others. It would make things move faster if you could help investigate and propose solutions.
+      options:
+        - label: I am willing to submit a PR to fix this issue
