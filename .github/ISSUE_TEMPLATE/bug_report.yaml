@@ -21,7 +21,7 @@ body:
       label: System Info
       description: Output of `npx envinfo --system --binaries --browsers`
       render: Shell
-      placeholder: OS Name, OS Version, Runtime Platform, Icelet Version, Output Information, Screenshot or Screen Recording (Please upload as an attachment), Remarks.
+      placeholder: OS Name  OS Version, Runtime Platform, Icelet Version, Output Information, Screenshot or Screen Recording (Please upload as an attachment), Remarks.
     validations:
       required: true
   - type: checkboxes
