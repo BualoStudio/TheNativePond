@@ -153,16 +153,16 @@ We are looking for people who can help translate _The Native Pond_ into language
 
 As usual, commit your contributions to your forked repository. Different contribution areas correspond to different file locations:
 
-.
-├── extensions/          JavaScript custom extensions
-├── assets/
-│   ├── images/          Images
-│   ├── sounds/          Audio
-│   └── fonts/           Fonts
-├── lang/                Localisation translations
-├── docs/                Documentation
-├── LICENSE
-└── README.md
+.  
+├── extensions/          JavaScript custom extensions  
+├── assets/  
+│   ├── images/          Images  
+│   ├── sounds/          Audio  
+│   └── fonts/           Fonts  
+├── lang/                Localisation translations  
+├── docs/                Documentation  
+├── LICENSE  
+└── README.md  
 
 Place your contributions in the appropriate folder.
 
