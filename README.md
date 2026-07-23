@@ -16,7 +16,7 @@ Today, players are trapped in endless daily check-ins, battle passes, number-cru
 
 ## ✨ Core Experience & Gameplay
 
-*The Native Pond* rejects the “click-and-get” fast-food design. We recreate the tactile feel of real life through simulation processes beneath a minimalist surface.
+_The Native Pond_ rejects the “click-and-get” fast-food design. We recreate the tactile feel of real life through simulation processes beneath a minimalist surface.
 
 ### 🎣 Immersive Realistic Fishing
 
@@ -54,7 +54,7 @@ The game also offers farming, letting every player carve out their own little pl
 
 ## 📦 Getting the Game & Distribution Platforms
 
-Anywhere, anytime—fish whenever you want. You can experience *The Native Pond* through the following channels:
+Anywhere, anytime—fish whenever you want. You can experience _The Native Pond_ through the following channels:
 
 ### 1. 💾 Source Code & Direct Downloads
 
@@ -84,7 +84,7 @@ Once the project reaches a stable state, we will gradually launch on the followi
 - **WeGame**
 
 > [!IMPORTANT]
-> If you find *The Native Pond* on any other game distribution platform not mentioned in this list, please be aware that it is not an official release from us. It may be a modified version—we do not support such versions and assume no responsibility for any issues arising from playing them.
+> If you find _The Native Pond_ on any other game distribution platform not mentioned in this list, please be aware that it is not an official release from us. It may be a modified version—we do not support such versions and assume no responsibility for any issues arising from playing them.
 
 ---
 
@@ -100,7 +100,7 @@ To ensure lightweight, cross‑platform compatibility, and ease of community con
 
 ## 🤝 Join the Community
 
-*The Native Pond* is not just our work; we hope it becomes a “spiritual rest stop” for every weary player. Whether or not you know game development or coding, you can contribute to this little pond!
+_The Native Pond_ is not just our work; we hope it becomes a “spiritual rest stop” for every weary player. Whether or not you know game development or coding, you can contribute to this little pond!
 
 We warmly welcome the following types of Issues:
 
@@ -120,7 +120,7 @@ We warmly welcome the following types of Issues:
 
 [**Localisation Support Status**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationSupportStatus.md) lists the currently officially supported languages and their status.
 
-We want *The Native Pond* to be enjoyed by players worldwide. If you would like to help translate the game into your language:
+We want _The Native Pond_ to be enjoyed by players worldwide. If you would like to help translate the game into your language:
 
 1. Fork this repository.
 2. Locate the language files (in the `/lang/` directory).
@@ -128,7 +128,7 @@ We want *The Native Pond* to be enjoyed by players worldwide. If you would like 
 4. Submit a [**Pull Request**](https://github.com/BualoStudio/TheNativePond/pulls).
 
 > [!TIP]
-> Localisation of *The Native Pond* is provided by volunteers like you. See our [**Localisation Credits**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md).
+> Localisation of _The Native Pond_ is provided by volunteers like you. See our [**Localisation Credits**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md).
 
 > [!TIP]
 > Due to our development cycle and resource constraints, we cannot guarantee 100% translation accuracy. As we do not have a dedicated localisation team, some languages may be AI‑ or machine‑translated and may contain errors. If you encounter translation issues during gameplay, please follow the instructions above to [**submit a PR**](https://github.com/BualoStudio/TheNativePond/pulls) or [**open an Issue**](https://github.com/BualoStudio/TheNativePond/issues).
@@ -169,9 +169,9 @@ All **code assets** in *The Native Pond* (including but not limited to game sour
 
 ### 2. 🖌️ Art Assets
 
-For the **art assets** used in *The Native Pond* (including but not limited to textures, maps, and character illustrations), there are two cases:
+For the **art assets** used in _The Native Pond_ (including but not limited to textures, maps, and character illustrations), there are two cases:
 
-1. Some of the art assets are from "Today's Polar Bay" developed by awa_Liny. We fully respect awa_Liny's use of the [**CC 0 1.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-by-Today@PolarBay.txt) for these art assets and will make them **open source** for all of humanity.
+1. Some of the art assets are from _Today@PolarBay_ developed by awa_Liny. We fully respect awa_Liny's use of the [**CC 0 1.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-by-Today@PolarBay.txt) for these art assets and will make them **open source** for all of humanity.
 2. The remaining art assets are designed by Bualo Studio, copyrighted by Bualo Studio, and are also released under the [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license.txt), **open‑source** to all humanity.
 
 </details>
@@ -182,11 +182,11 @@ For the **art assets** used in *The Native Pond* (including but not limited to t
 
 ### 3. 🪗 Music Assets
 
-All **music assets** in *The Native Pond* (including but not limited to background music and ambient sound) are released under the [**CC BY‑NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/music-license.txt) as open‑source.
+All **music assets** in _The Native Pond_ (including but not limited to background music and ambient sound) are released under the [**CC BY‑NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/music-license.txt) as open‑source.
 
 > [!NOTE]
 > We chose a non‑commercial license for music assets to prevent low‑quality (i.e., barely modified) derivative versions from being sold at high prices, which would harm the reputation of *The Native Pond*.  
-> However, if you sincerely wish to create a high‑quality derivative work for *The Native Pond*, as long as we see genuine effort and heart put into it (or if we give you a shout‑out, such as encouraging comments under your demo video), we have no objection to you selling such a quality derivative work for profit.  
+> However, if you sincerely wish to create a high‑quality derivative work for _The Native Pond_, as long as we see genuine effort and heart put into it (or if we give you a shout‑out, such as encouraging comments under your demo video), we have no objection to you selling such a quality derivative work for profit.  
 > If you are still unsure about selling a derivative version, please [contact us](mailto:thenativepond@gmail.com) for official authorisation!
 
 </details>
