@@ -200,7 +200,7 @@ All **music assets** in _The Native Pond_ (including but not limited to backgrou
 - Production Team email: [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
 - Studio email: [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
 
-[**Production Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [**The Cat**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [**External Support Group**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
+[**Production Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [**The Cat**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [**External Support Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
 
 ### 💌 Acknowledgements
 
