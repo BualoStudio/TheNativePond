@@ -171,7 +171,7 @@ All **code assets** in *The Native Pond* (including but not limited to game sour
 
 For the **art assets** used in *The Native Pond* (including but not limited to textures, maps, and character illustrations), there are two cases:
 
-1. Some of the art assets are from "Today's Polar Bay" developed by awa_Liny. We fully respect awa_Liny's use of the [**CC 0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-by-Today@PolarBay.txt) for these art assets and will make them **open source** for all of humanity.
+1. Some of the art assets are from "Today's Polar Bay" developed by awa_Liny. We fully respect awa_Liny's use of the [**CC 0 1.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-by-Today@PolarBay.txt) for these art assets and will make them **open source** for all of humanity.
 2. The remaining art assets are designed by Bualo Studio, copyrighted by Bualo Studio, and are also released under the [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license.txt), **open‑source** to all humanity.
 
 </details>
