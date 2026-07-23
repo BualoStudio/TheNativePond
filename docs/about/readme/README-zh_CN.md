@@ -171,7 +171,7 @@
 
 对于《本水塘》中使用的**美术资产**（包括但不限于游戏贴图、游戏地图、角色立绘），共有两种情况：
 
-1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，我们充分尊重 awa_Liny 对于这部分美术资产所使用的 [**CC 0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-by-Today@PolarBay.txt) 将这些美术资产面向全人类**开源**。
+1. 部分美术资产来源于由 awa_Liny 开发的《今日极地湾》，我们充分尊重 awa_Liny 对于这部分美术资产所使用的 [**CC 0 1.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-by-Today@PolarBay.txt) 将这些美术资产面向全人类**开源**。
 2. 剩余的美术资产由 Bualo Studio 设计，这部分美术资产的版权由 Bualo Studio 持有，这部分美术资产使用  [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-bu-TheNativePond.txt) 将这些美术资产面向全人类**开源**。
 
 </details>
