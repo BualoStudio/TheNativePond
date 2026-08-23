@@ -8,6 +8,9 @@
 
 [English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-en_US.md) | 简体中文 | [繁体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-de.md) | [한국인](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-tr.md)
 
+> [!TIP]
+> 顽强地地生存下去，逃避一些事情，面对一些事情。
+
 **本水塘** 是由 **Bualo Studio（浮标工作室）** 开发的一款非营利性治愈系游戏。
 
 当下，玩家们正被困在无尽的日常打卡、通行证等级、数值碾压和抽卡焦虑中。我们希望让玩家回归到对游戏最初的热爱，而不是将游戏视为一种需要按时签到打卡的负担。所以，我们的游戏——**无签到打卡、无数值强度、无任务副本**。这是一个没有体力条、没有战斗力评分、甚至没有强制目标的小池塘。在这里，**重拾对游戏的热爱**。
