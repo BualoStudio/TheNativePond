@@ -9,7 +9,7 @@
 [English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/readme/README-en.md) | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_CN/about/readme/README-zh_CN.md) | [繁體中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_TW/about/readme/README-zh_TW.md) | 文言 | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ru/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/es/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/pt_BR/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/de/about/readme/README-de.md) | [한국어](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ko/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/fr/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ja/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/tr/about/readme/README-tr.md)
 
 > [!TIP]
-> 頑強求存，有所逃避，有所直面。
+> 頑強求存，有所逃避，有所直面。  
 > 方塘歸檔之策，始於西元二〇二六年八月廿三日，嗣後新PR、新Issue，概不受之。三年之約，終必復見；方塘終成遊戲界之新星，請俟我輩！
 
 **方塘**者，**Bualo Studio** 所製，非營利之養心遊戲也。

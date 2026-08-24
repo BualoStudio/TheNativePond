@@ -9,7 +9,7 @@
 [English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/readme/README-en.md) | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_CN/about/readme/README-zh_CN.md) | [繁體中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_TW/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ru/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/es/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/pt_BR/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/de/about/readme/README-de.md) | 한국어 | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/fr/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ja/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/tr/about/readme/README-tr.md)
 
 > [!TIP]
-> 끈질기게 살아남아, 어떤 일은 피하고 어떤 일은 맞서 나아가세요.
+> 끈질기게 살아남아, 어떤 일은 피하고 어떤 일은 맞서 나아가세요.  
 > The Native Pond 아카이브 계획은 2026년 8월 23일에 시작되었으며, 더 이상 새로운 PR 요청과 Issue 접수를 받지 않습니다. 삼 년의 약속, 우리는 반드시 다시 만날 것입니다. The Native Pond는 마침내 게임계의 새로운 별이 될 것입니다. 우리를 기다려 주세요!
 
 **The Native Pond**는 **Bualo Studio**가 개발한 비영리 힐링 게임입니다.

@@ -9,7 +9,7 @@
 [English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/readme/README-en.md) | 简体中文 | [繁體中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_TW/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/readme/README-zh_HX.md) | Русский | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/es/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/pt_BR/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/de/about/readme/README-de.md) | [한국어](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ko/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/fr/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ja/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/tr/about/readme/README-tr.md)
 
 > [!TIP]
-> Живите стойко: от чего-то убегайте, чему-то смотрите в лицо.
+> Живите стойко: от чего-то убегайте, чему-то смотрите в лицо.  
 > Архивный план *The Native Pond* запущен 23 августа 2026 года — мы больше не принимаем новые PR-запросы и Issues. Это договор на три года: мы обязательно встретимся снова, *The Native Pond* станет новой звездой мира игр. Ждите нас!
 
 **The Native Pond** — некоммерческая исцеляющая игра, разработанная студией **Bualo Studio**.

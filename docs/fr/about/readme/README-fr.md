@@ -9,7 +9,7 @@
 [English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/readme/README-en.md) | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_CN/about/readme/README-zh_CN.md) | [繁體中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_TW/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ru/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/es/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/pt_BR/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/de/about/readme/README-de.md) | [한국어](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ko/about/readme/README-ko.md) | Français | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ja/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/tr/about/readme/README-tr.md)
 
 > [!TIP]
-> Tenez bon, survivez avec obstination : fuyez certaines choses, affrontez-en d'autres.
+> Tenez bon, survivez avec obstination : fuyez certaines choses, affrontez-en d'autres.  
 > Le plan d'archivage de The Native Pond a été lancé le 23 août 2026 ; nous n'acceptons plus de nouvelles pull requests ni de nouvelles issues. C'est un pacte de trois ans : nous nous reverrons, c'est certain. The Native Pond deviendra une étoile montante du monde du jeu. Attendez-nous !
 
 **The Native Pond** est un jeu de guérison à but non lucratif, développé par **Bualo Studio**.

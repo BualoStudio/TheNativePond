@@ -9,7 +9,7 @@
 [English](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/readme/README-en.md) | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_CN/about/readme/README-zh_CN.md) | [繁體中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_TW/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ru/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/es/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/pt_BR/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/de/about/readme/README-de.md) | [한국어](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ko/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/fr/about/readme/README-fr.md) | 日本語 | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/tr/about/readme/README-tr.md)
 
 > [!TIP]
-> しぶとく生き延びていこう——逃げること、向き合うこと。
+> しぶとく生き延びていこう——逃げること、向き合うこと。  
 > The Native Pond のアーカイブ計画は2026年8月23日に始動しました。今後、新しい PR と Issue の受け付けは終了いたします。三年の約束——私たちは必ず再会します。The Native Pond はやがてゲーム界の新星となるでしょう。私たちを待っていてください！
 
 **The Native Pond** は、**Bualo Studio** が開発した非営利のヒーリングゲームです。
