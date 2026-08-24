@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh_TW/about/readme/README-zh_TW.md",
+                "file": "docs/zh_HX/about/readme/README-zh_HX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README-zh_TW"
+              "title": "README-zh_HX"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "0d838b4b21245d99",
   "lastOpenFiles": [
+    "docs/en/about/readme/README-en.md",
+    "docs/zh_TW/about/readme/README-zh_TW.md",
     "docs/zh_HX/about/readme/README-zh_HX.md",
     "docs/zh_CN/about/readme/README-zh_CN.md",
     "docs/tr/about/readme/README-tr.md",
@@ -199,7 +201,6 @@
     "docs/ja/about/readme/README-ja.md",
     "docs/fr/about/readme/README-fr.md",
     "docs/es/about/readme/README-es.md",
-    "docs/en/about/readme/README-en.md",
     "docs/de/about/readme/README-de.md"
   ]
 }

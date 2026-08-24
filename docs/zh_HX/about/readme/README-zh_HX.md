@@ -2,7 +2,7 @@
 
 ![thenativepond_background](/background/zh_HX/TNP-readme-bg-zh_HX.png)
 
-> **「重拾愛戲之心」**
+> **「復還嬉遊之本心」**
 
 [![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC_4.0_or_CC_BY_4.0-red.svg)](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE.txt) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/TheNativePond/discussions)
 
@@ -14,7 +14,7 @@
 
 **方塘**者，**Bualo Studio** 所製，非營利之養心遊戲也。
 
-今之玩家，困於無盡之日常簽到、通行證等級、數值碾壓與抽卡焦慮之間。吾輩願使玩家返於愛戲之初衷，毋以遊戲為按時點卯之負擔。故吾戲——**無簽到打卡，無數值強弱，無任務副本**。其為一方小塘，無體力之條，無戰力之評，亦無強制之標的。於此，**重拾愛戲之心**。
+今之玩家，困於無盡之日常簽到、通行證等級、數值碾壓與抽卡焦慮之間。吾輩願使玩家返於愛戲之初衷，毋以遊戲為按時點卯之負擔。故吾戲——**無簽到打卡，無數值強弱，無任務副本**。其為一方小塘，無體力之條，無戰力之評，亦無強制之標的。於此，**復還嬉遊之本心**。
 
 ---
 
