@@ -1,12 +1,16 @@
 # The Native Pond
 
-![thenativepond_background](/background/TNP-readme-bg-en_US.png)
+![thenativepond_background](/background/en/TNP-readme-bg-en_US.PNG)
 
 > **“Rediscover your love for games”**
 
-[![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC--SA_4.0-red.svg)](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/TheNativePond/discussions)
+[![License](https://img.shields.io/badge/License-MIT_or_CC_BY--NC_4.0_or_CC_BY_4.0-red.svg)](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE.txt) [![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/TheNativePond/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/TheNativePond/discussions)
 
-English | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_CN.md) | [繁体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-de.md) | [한국인](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/readme/README-tr.md)
+English | [简体中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_CN/about/readme/README-zh_CN.md) | [繁體中文](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_TW/about/readme/README-zh_TW.md) | [文言](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/readme/README-zh_HX.md) | [Русский](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ru/about/readme/README-ru.md) | [Español](https://github.com/BualoStudio/TheNativePond/blob/main/docs/es/about/readme/README-es.md) | [Português](https://github.com/BualoStudio/TheNativePond/blob/main/docs/pt_BR/about/readme/README-pt_BR.md) | [Deutsch](https://github.com/BualoStudio/TheNativePond/blob/main/docs/de/about/readme/README-de.md) | [한국어](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ko/about/readme/README-ko.md) | [Français](https://github.com/BualoStudio/TheNativePond/blob/main/docs/fr/about/readme/README-fr.md) | [日本語](https://github.com/BualoStudio/TheNativePond/blob/main/docs/ja/about/readme/README-ja.md) | [Türkçe](https://github.com/BualoStudio/TheNativePond/blob/main/docs/tr/about/readme/README-tr.md)
+
+> [!TIP]
+> Keep on surviving, stubbornly — escape some things, and face some things.
+> The Native Pond archival plan was launched on August 23, 2026, and we will no longer accept new PR requests or Issue reports. It is a three-year pact — we will surely meet again. The Native Pond will eventually become a rising star in the gaming world. Wait for us!
 
 **The Native Pond** is a non-profit healing game developed by **Bualo Studio**.
 
@@ -22,7 +26,7 @@ _The Native Pond_ rejects the “click-and-get” fast-food design. We recreate 
 
 This is by no means an arcade mini‑game where you press the spacebar to reel in a fish. We strive to recreate the authentic flow of fishing:
 
-- **Mix Your Own Bait**: Buy basic bait at the in‑game store, then, based on weather and target waters, gradually add water, knead, let it rest, and chum the spot.
+- **Mix Your Own Bait**: Buy basic bait at the in‑game store, then, based on the weather and target waters, gradually add water, knead, let it rest, and chum the spot.
 - **Realistic Waiting**: Bait the hook, cast your line, watch the subtle ripples on the water and the movement of the float—and seize the perfect moment to strike.
 - **Special Collectibles**: Sometimes what you pull up is not a fish, but a “collectible”.
 
@@ -37,6 +41,7 @@ Beyond fishing, the game includes a cooking system that mirrors real‑life step
 ### 🥬 Casual and Relaxing Farming
 
 The game also offers farming, letting every player carve out their own little plot of land.
+
 - **Sowing**: When the season is right for crops, you can till a patch, sow seeds, water, and fertilise to nourish their growth.
 - **Growing**: When conditions are favourable, crops will thrive. They don’t need constant tending—just occasional attention, making farming life easy and enjoyable.
 - **Harvesting**: When crops are ready, you can harvest them. Not a simple one‑click collection, but a simulated real picking/reaping process, so you truly feel the joy and satisfaction of harvest.
@@ -48,7 +53,7 @@ The game also offers farming, letting every player carve out their own little pl
 - **Pure Emptiness**: Non‑linear animations let the pond water “breathe” gently. During the long waits, your mind is free to wander.
 
 > [!TIP]
-> Intrigued by the gameplay of *The Native Pond*? Read our [**The Native Pond Feature Roadmap**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList.md) and [**The Native Pond Values**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values.md)!
+> Intrigued by the gameplay of *The Native Pond*? Read our [**The Native Pond Feature Roadmap**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/game/FlatbreadList-en.md) and [**The Native Pond Values**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/game/Values-en.md)!
 
 ---
 
@@ -93,6 +98,10 @@ Once the project reaches a stable state, we will gradually launch on the followi
 To ensure lightweight, cross‑platform compatibility, and ease of community contribution, the project is built on the following technologies:
 
 - **Underlying Engine**: Developed on our custom game engine [**Icelet**](https://github.com/BualoStudio/Icelet), built specifically for *The Native Pond*.
+
+> [!WARNING]
+> Due to force majeure, the development of Icelet has been terminated, and we are now looking for a new game engine or technical implementation to provide technical support for The Native Pond. For details, please read the Icelet termination announcement: [*“An Abrupt Ending, Just Like Youth”*](https://github.com/BualoStudio/Icelet/releases/tag/TheEnding).
+
 - **Rendering**: Native HTML5 rendering—extremely lightweight and smooth on low‑end devices.
 - **Asset Format**: Most art assets are in SVG format, guaranteeing crisp edges at any resolution.
 
@@ -102,23 +111,20 @@ To ensure lightweight, cross‑platform compatibility, and ease of community con
 
 _The Native Pond_ is not just our work; we hope it becomes a “spiritual rest stop” for every weary player. Whether or not you know game development or coding, you can contribute to this little pond!
 
+> [!TIP]
+> Before participating, please be sure to read our [**Contributing Guide**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) and follow the [**Code of Conduct**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md).
+
 We warmly welcome the following types of Issues:
 
 1. **Memory Fragments**: Write a touching line of in‑game text, or share a short nostalgic piece with a sense of time.
 2. **Hometown Recipes**: Design a brand‑new recipe (e.g., how to make an authentic bowl of hot‑dry noodles) and break down its steps.
 3. **Bug Reports**: Report issues, glitches, or errors triggered under specific circumstances—and even propose solutions.
 
-> [!TIP]
-> Before participating, please be sure to read our [**Contributing Guide**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) and follow the [**Code of Conduct**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md).
-
-> [!WARNING]
-> Due to TurboWarp’s single‑file limitation, please do not submit Pull Requests directly against the source file. Instead, you can report bugs via [**Issues**](https://github.com/BualoStudio/TheNativePond/issues).
-
 ---
 
 ## 🌐 Localisation
 
-[**Localisation Support Status**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationSupportStatus.md) lists the currently officially supported languages and their status.
+[**Localisation Support Status**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/l10nteam/LocalizationSupportStatus-en.md) lists the currently officially supported languages and their status.
 
 We want _The Native Pond_ to be enjoyed by players worldwide. If you would like to help translate the game into your language:
 
@@ -128,7 +134,7 @@ We want _The Native Pond_ to be enjoyed by players worldwide. If you would like 
 4. Submit a [**Pull Request**](https://github.com/BualoStudio/TheNativePond/pulls).
 
 > [!TIP]
-> Localisation of _The Native Pond_ is provided by volunteers like you. See our [**Localisation Credits**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/l10nteam/LocalizationTeam.md).
+> Localisation of _The Native Pond_ is provided by volunteers like you. See our [**Localisation Credits**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/l10nteam/LocalizationTeam-en.md).
 
 > [!TIP]
 > Due to our development cycle and resource constraints, we cannot guarantee 100% translation accuracy. As we do not have a dedicated localisation team, some languages may be AI‑ or machine‑translated and may contain errors. If you encounter translation issues during gameplay, please follow the instructions above to [**submit a PR**](https://github.com/BualoStudio/TheNativePond/pulls) or [**open an Issue**](https://github.com/BualoStudio/TheNativePond/issues).
@@ -139,7 +145,7 @@ We want _The Native Pond_ to be enjoyed by players worldwide. If you would like 
 
 We publish trailers, announcements, and fun content on our operational platforms to keep you updated on the game.
 
-[**Operational Platform Support Status**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/opsteam/OperationalPlatformSupportStatus.md) lists the currently officially supported platforms and their status.
+[**Operational Platform Support Status**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/opsteam/OperationalPlatformSupportStatus-en.md) lists the currently officially supported platforms and their status.
 
 > [!NOTE]
 > Content on some platforms may be adjusted based on operational needs.
@@ -151,7 +157,7 @@ We publish trailers, announcements, and fun content on our operational platforms
 
 ## 📜 License
 
-We encourage free use, modification, and sharing of this game. Different categories of assets are open‑sourced/released under different licenses. See the [**LICENSE**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE) file for full details. The license breakdown by asset type is as follows:
+We encourage free use, modification, and sharing of this game. Different categories of assets are open‑sourced/released under different licenses. See the [**LICENSE**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE.txt) file for full details. The license breakdown by asset type is as follows:
 
 <details>
 
@@ -159,7 +165,7 @@ We encourage free use, modification, and sharing of this game. Different categor
 
 ### 1. ⌨️ Code Assets
 
-All **code assets** in *The Native Pond* (including but not limited to game source code and custom extension source code) are released under the [**MIT License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license.txt), making them **open‑source** to all humanity.
+All **code assets** in *The Native Pond* (including but not limited to game source code and custom extension source code) are released under the [**MIT License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/license/code-license.txt), making them **open‑source** to all humanity.
 
 </details>
 
@@ -171,8 +177,8 @@ All **code assets** in *The Native Pond* (including but not limited to game sour
 
 For the **art assets** used in _The Native Pond_ (including but not limited to textures, maps, and character illustrations), there are two cases:
 
-1. Some of the art assets are from _Today@PolarBay_ developed by awa_Liny. We fully respect awa_Liny's use of the [**CC 0 1.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license-used-by-Today@PolarBay.txt) for these art assets and will make them **open source** for all of humanity.
-2. The remaining art assets are designed by Bualo Studio, copyrighted by Bualo Studio, and are also released under the [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/art-license.txt), **open‑source** to all humanity.
+1. Some of the art assets are from _Today@PolarBay_ developed by awa_Liny. We fully respect awa_Liny’s use of the [**CC 0 1.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/license/art-license-used-by-Today@PolarBay.txt) for these art assets and will make them **open source** for all of humanity.
+2. The remaining art assets are designed by Bualo Studio, copyrighted by Bualo Studio, and are also released under the [**CC BY 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/license/art-license-used-by-TheNativePond.txt), **open‑source** to all humanity.
 
 </details>
 
@@ -182,7 +188,7 @@ For the **art assets** used in _The Native Pond_ (including but not limited to t
 
 ### 3. 🪗 Music Assets
 
-All **music assets** in _The Native Pond_ (including but not limited to background music and ambient sound) are released under the [**CC BY‑NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/music-license.txt) as open‑source.
+All **music assets** in _The Native Pond_ (including but not limited to background music and ambient sound) are released under the [**CC BY‑NC 4.0 License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/license/music-license.txt) as open‑source.
 
 > [!NOTE]
 > We chose a non‑commercial license for music assets to prevent low‑quality (i.e., barely modified) derivative versions from being sold at high prices, which would harm the reputation of *The Native Pond*.  
@@ -200,11 +206,11 @@ All **music assets** in _The Native Pond_ (including but not limited to backgrou
 - Production Team email: [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
 - Studio email: [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
 
-[**Production Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ProductionTeam.md) | [**The Cat**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/TheCat.md) | [**External Support Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/devteam/ExternalSupportTeam.md)
+[**Production Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/devteam/ProductionTeam-en.md) | [**The Cat**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/devteam/TheCat-en.md) | [**External Support Team**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/devteam/ExternalSupportTeam-en.md)
 
 ### 💌 Acknowledgements
 
-[**With Thanks**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/WithThanks.md) | [**Special Thanks**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/actlist/SpecialThanks.md)
+[**With Thanks**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/actlist/WithThanks-en.md) | [**Special Thanks**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/about/actlist/SpecialThanks-en.md)
 
 ---
 

@@ -12,7 +12,7 @@ public under the MIT License.
 For the art assets used in The Native Pond (including but not limited to
 game textures, maps, and character sprites), there are two scenarios:
 1) Some of the art assets are from Today@PolarBay, developed by awa_Liny.
-These art assets are licensed under the CC 0 1.0 license used by
+These art assets are licensed under the CC 0 1.0 License used by
 Today@PolarBay.
 2) The remaining art assets were designed by Bualo Studio; the copyright
 for these assets is held by Bualo Studio, and they are released under the

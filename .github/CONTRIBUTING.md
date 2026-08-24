@@ -7,10 +7,10 @@ Hello! Thank you for your interest in contributing to _The Native Pond_. This gu
 Before you start contributing, please make sure you have:
 
 - Read this project's [README](https://github.com/BualoStudio/TheNativePond/edit/main/README.md) to get a general understanding of the project.
-- Carefully read and comply with the [LICENSE](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE).
+- Carefully read and comply with the [LICENSE](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE.txt).
 - Carefully read and comply with the [Code of Conduct](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md).
-- Read the [TheNativePond FlatbreadList](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/FlatbreadList.md) file.
-- Read the [TheNativePond Values](https://github.com/BualoStudio/TheNativePond/blob/main/docs/game/Values-en.md) file, and do not contribute content that goes against the values.
+- Read the [TheNativePond FlatbreadList](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/game/FlatbreadList-en.md) file.
+- Read the [TheNativePond Values](https://github.com/BualoStudio/TheNativePond/blob/main/docs/en/game/Values-en.md) file, and do not contribute content that goes against the values.
 - Have the TurboWarp editor ready: [TurboWarp Desktop](https://desktop.turbowarp.org/) (recommended) or [TurboWarp Webapp](https://turbowarp.org/editor).
 - Search existing [Issues](https://github.com/BualoStudio/TheNativePond/issues) and [Pull Requests](https://github.com/BualoStudio/TheNativePond/pulls) to avoid duplicate work.
 
@@ -188,14 +188,15 @@ Have another way you'd like to contribute? If so, please [contact us](mailto:th
 As usual, commit your contributions to your forked repository. Different contribution areas correspond to different file locations:
 
 .  
-├── extensions/          JavaScript custom extensions  
-├── assets/  
-│   ├── images/          Images  
-│   ├── sounds/          Audio  
-│   └── fonts/           Fonts  
+├── Assets/  
+│   ├── Images/          Images  
+│   │   ├── TheNativePond/          Images used by The Native Pond  
+│   │   ├── Today@PolarBay/          Images used by Today@PolarBay  
+│   ├── Sounds/          Music&Audio  
+│   └── Fonts/           Fonts  
 ├── lang/                Localisation translations  
 ├── docs/                Documentation  
-├── LICENSE  
+├── LICENSE.txt  
 └── README.md  
 
 Place your contributions in the appropriate folder.
