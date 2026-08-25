@@ -1,4 +1,4 @@
-# The Native Pond Feature Roadmap
+﻿# The Native Pond Feature Roadmap
 
 ![flatbreadlist_background](/background/en/FBL-docs-bg-en.png)
 
@@ -15,12 +15,12 @@
 
 Smooth movement and a good camera are an important part of ensuring the game is playable. **The character must be able to move!**
 
-### Movement
+### 🚶 Movement
 
 - The player controls the character moving across the **map**, and at special locations (such as the fishing platform), the player **triggers** the animation of entering that **special location** by pressing a key or by moving into the special location's small coordinate coverage range.
 - The player **interacts** with the game through touch buttons (mobile), keyboard (desktop) and gamepad, and the keybinds can be customised.
 
-### Camera
+### 🎥 Camera
 
 - Use a **third-person** camera in non-special areas of the map.
 - Use a **first-person** camera in special areas of the map (such as the fishing platform), showing the interior of that special area (if any).
@@ -32,19 +32,19 @@ Smooth movement and a good camera are an important part of ensuring the game is 
 
 Crouch over the table and make a **map** — the map really has everything!
 
-### Zoom and Orientation
+### 🧭 Zoom and Orientation
 
 - The map cannot **rotate** with the camera.
 - The map can be **zoomed**.
 - The map follows the orientation logic of "**north at the top, south at the bottom, west on the left, east on the right**".
 
-### Borders
+### 🚧 Borders
 
 - The game map has **borders**, meaning the player cannot pass through the **edge of the map**.
 - When the player tries to cross the border, the game will **pull the player back** by force and show the message "* A familiar feeling wells up — you seem to hear: 'Let's explore the area ahead of us later!' Although you know you'll never be able to explore it later, you still want to give it a try."
 - The borders may be obvious **natural obstacles** (such as great mountains), or **man-made fences** (such as the walls of Huizhou-style architecture).
 
-### Weather
+### ⛅ Weather
 
 - The **kinds** of weather are as follows:
 	- Sunny.
@@ -56,7 +56,7 @@ Crouch over the table and make a **map** — the map really has everything!
 	2. Similarity to the climate characteristics of a certain place.
 	3. Completely random probability.
 
-### Seasons
+### 🍂 Seasons
 
 - Seasons switch every **90 hours**.
 - The **kinds** of seasons are as follows:
@@ -65,26 +65,39 @@ Crouch over the table and make a **map** — the map really has everything!
 	- Autumn.
 	- Winter.
 
-### Camera
+### 📷 Camera
 
 - The player can take **photos** at any location (except GUI screens) by pressing a keyboard key, clicking a button, or pressing a controller key.
 - When **taking a photo**, the game will display a full-screen **white flash** to represent the photograph. This may require adding a **photosensitive epilepsy** warning screen at the game's startup screen.
 - When **taking a photo**, the game will automatically **capture** all elements on screen (except GUI elements) and add a **photo frame**.
 - The game will **save** the photos to the **designated folder** for sharing.
 
-### Fishing Pond
+### 🌍 Biomes
+
+- Map elements are mostly distributed across different **biomes**.
+- The biomes are as follows:
+	- Plains
+	- Rainforest
+	- Beach
+	- Farmland
+	- Flower Fields
+	- Pond
+	- Streams
+	- Village
+
+### 🐟 Fishing Pond
 
 - The fishing pond is the game's most central special area, comprising the **fishing platform**, the **pond** and the **little boat**.
 
 #### Fishing Platform
 
-- Located at the **southernmost** end of the pond.
+- Located at the **southernmost** end of the pond, in the Beach biome.
 - When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, the character enters a seated state, and the visual interface of this special area is shown.
 - The fishing platform is used for **fishing**.
 
 #### Pond
 
-- Located at the **northernmost** end of the map.
+- Located at the **northernmost** end of the map, in the Pond biome.
 - When the player **enters** this special area, the character enters a **swimming** state.
 
 #### Little Boat
@@ -93,51 +106,68 @@ Crouch over the table and make a **map** — the map really has everything!
 - When the player **enters** this special area, the character enters a **driving** state, and the visual interface of this special area is shown.
 - The player can drive the little boat to sail across the **pond**.
 
-### Tent
+### ⛺ Tent
 
-- Located to the **southwest** of the centre of the map.
+- Located to the **southwest** of the centre of the map, in the Plains biome.
 - When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, and the visual interface of this special area is shown.
 - The tent is the core of the **camp**.
 - The tent's **interior** and **size** may reference the design of the tent in *Robinson Crusoe*.
 
-### Farmland
+### 🌾 Farmland
 
-- The farmland is located to the **southeast** of the tent.
+- The farmland is located to the **southeast** of the tent, in the Farmland biome.
 - When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, and the visual interface of this special area is shown.
 - The farmland is used for **planting**.
 
-### Market
+### 🏪 Market
 
-- The market is located in the **east** of the map.
+- The market is located in the **south** of the map, in the Village biome.
 - When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, and the visual interface of this special area is shown.
 - The market is used for **trading**.
 
-### Tree
+### 🌳 Ancient Tree
 
-- Located to the **southeast** of the tent.
+- Located to the **southeast** of the tent, in the Plains biome.
 - When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, and the character enters a seated state.
-- **Apples** sometimes appear on the tree (e.g. in autumn). The player can knock them down with a **long wooden stick** and **collect** them.
-- When the player stays under the **tree** for a while (about 1 minute), the game shows a floating button "Hold [W] to meditate". When the player presses W, clicks the button, or presses a controller key, the player enters **meditation**. While the player is **meditating**, the game displays full-screen **visual effects** (various physics formulas), and there is a chance of being hit by an **apple**.
+- **Apples** sometimes appear on the ancient tree (e.g. in autumn). The player can knock them down with a **long wooden stick** and **collect** them.
+- When the player stays under the **ancient tree** for a while (about 1 minute), the game shows a floating button "Hold [W] to meditate". When the player presses W, clicks the button, or presses a controller key, the player enters **meditation**. While the player is **meditating**, the game displays full-screen **visual effects** (various physics formulas), and there is a chance of being hit by an **apple**.
+- The ancient tree can bloom **Ancient Flowers** (temporary name). The ancient flowers fall from the branches, and the player can pick them up and **draw nectar** from them, with a 50% chance of drawing **sweet nectar**.
 
-### Campfire
+### 🔥 Campfire
 
-- Located not far to the **east** of the tent.
+- Located not far to the **east** of the tent, in the Plains biome.
 - When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, and the visual interface of this special area is shown.
 - The campfire can be **lit** and provides light.
 - The campfire can be used for **cooking**.
 
-### Magic Conch
+### 📮 Mailbox
+
+- Located to the **south** of the tent, in the Village biome.
+- When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, and the visual interface of this special area is shown.
+- The mailbox is used for **sending and receiving mail**.
+
+### 🐚 Magic Conch
 
 - The player can pick up the **Magic Conch** on the **beach** by the water.
 - When the player **picks up** the Magic Conch, the character enters a blowing state and the camera automatically zooms in. During this time the player cannot move. The visual interface of this special item is shown at the same time.
 - The Magic Conch has 7 **notes** the player can blow.
 - The Magic Conch has multiple **variants**, and different variants have different **timbres**.
 
-### Mailbox
+### 🍄 Mushrooms
 
-- Located to the **south** of the tent.
-- When the player **enters** this special area, the camera automatically zooms in and switches to a first-person view, and the visual interface of this special area is shown.
-- The mailbox is used for **sending and receiving mail**.
+- Mushrooms are located in the **Rainforest** biome and are divided into **poisonous mushrooms** and **non-toxic mushrooms**.
+- Mushrooms reproduce during **rain** and **thunderstorm** weather.
+- The player can pat mushrooms to help them reproduce. Each mushroom can only be helped to reproduce once, but you can keep patting it.
+- When the player interacts with a mushroom (patting it), the mushroom makes a comfortable **sound effect**, and different mushrooms have different tones.
+- Mushrooms can be **moved** by the player.
+- Through arrangement and combination, the player can use mushrooms to make **instruments**.
+
+### ✨ Fireflies
+
+- Fireflies appear during **night** time in the Rainforest biome.
+- Fireflies glow by themselves and fly randomly in the Rainforest biome and the biomes near it.
+- The player can use a **drift bottle** to catch fireflies and provide light for themselves.
+- The light of a firefly bottle only lasts 3 days.
 
 ---
 
@@ -145,7 +175,7 @@ Crouch over the table and make a **map** — the map really has everything!
 
 At the **fishing platform**, the player can fish using the **fishing rod**.
 
-### Species
+### 🐠 Species
 
 - The game's **fishing pond** can catch both **saltwater fish species** and **freshwater fish species**. Apart from fish, **collectibles** can also be caught.
 	1. This may be determined by the **fishing platform** the player chooses (for example, a platform by the seaside can only catch saltwater species, while a platform by a lake can only catch freshwater species).
@@ -158,7 +188,7 @@ At the **fishing platform**, the player can fish using the **fishing rod**.
 	2. A random **probability** within a fixed range.
 	3. A completely **random** probability.
 
-### Bite Rate
+### 🎯 Bite Rate
 
 It is worth mentioning that the bite rate refers to the probability of a fish **taking the hook**, not the probability of finally catching the fish.
 
@@ -174,7 +204,7 @@ It is worth mentioning that the bite rate refers to the probability of a fish **
 	1. The player's historical bite rate.
 	2. A completely random probability.
 
-### Catch Rate
+### 🪝 Catch Rate
 
 As the name suggests, the catch rate refers to the probability of finally catching the fish.
 
@@ -184,7 +214,7 @@ As the name suggests, the catch rate refers to the probability of finally catchi
 	- The breaking rate of the fishing line.
 	- The size of the hook.
 
-### Fishing Rod
+### 🎣 Fishing Rod
 
 - The fishing rod is composed of the **rod**, the **float**, the **hook** and the **line**.
 - Every part of the fishing rod has **durability**. The lower the durability, the higher the chance of the rod breaking. When the rod breaks, the broken part needs to be **replaced**.
@@ -217,27 +247,27 @@ As the name suggests, the catch rate refers to the probability of finally catchi
 	- The quality of the line.
 	- The usage time or durability of the line.
 
-### Bait
+### 🪱 Bait
 
 - The player can purchase bait through the **trade system**, such as ordinary bait and red earthworms.
 - If the purchased bait is powdered, the powdered bait needs to be made into bait by adding water, kneading the dough, and so on.
 - Different baits have different **bite rates**.
 - As a consumable, when the player has no bait and the shells they own (including shells gained from selling catches) are not enough to buy a pack of bait, the game will deliver a free supply to the **mailbox** the next day.
 
-### Groundbait
+### 🥣 Groundbait
 
 - The player can purchase groundbait through the **trade system**, such as fermented bean dregs and old corn soaked in wine.
 - Different groundbait has different **bite rates**.
 - Groundbait can greatly increase the bite rate.
 
-### Headlamp
+### 🔦 Headlamp
 
 - The player can purchase headlamps through the **trade system**, such as an ordinary headlamp and a blue-light night fishing lamp.
 - Different headlamps have different **bite rates** and different visual effects.
 - At night, the headlamp lets the player see the water surface and the float.
 - At night, the headlamp may disturb the fish and lower the bite rate.
 
-### Collectibles
+### 🏺 Collectibles
 
 - Collectibles are mainly divided into **drift bottles**, **souvenirs** and **story fragments**.
 - The player can **obtain** collectibles through the following channels:
@@ -264,7 +294,7 @@ As the name suggests, the catch rate refers to the probability of finally catchi
 
 Make **food** and try eating it!
 
-### Cooking Utensils
+### 🍳 Cooking Utensils
 
 - The cooking utensils consist of three parts: the **stove**, the **chopping board** and the **cookware**.
 
@@ -295,12 +325,12 @@ Make **food** and try eating it!
 	- A kitchen knife.
 	- A rolling pin.
 
-### Recipes
+### 📜 Recipes
 
 - The player can make food according to **recipes**. Generally speaking, as long as the player follows the recipe, the food will be made successfully.
 - The player can also **ignore** the recipe and improvise.
 
-### Food
+### 🍲 Food
 
 - When the player completes the entire **food-making process**, they will obtain **food**.
 - The player can make the following foods:
@@ -311,7 +341,7 @@ Make **food** and try eating it!
 	- Indescribable thing (obtained when food-making fails).
 	- Charcoal (obtained when making food without following a recipe and failing).
 
-### Eating
+### 🍽️ Eating
 
 - After the player makes **food**, they can try eating it.
 - When eating, the player can click on the **food** or the **components of the food** to eat it.
@@ -327,7 +357,7 @@ Make **food** and try eating it!
 
 Only the **tent** can bring a sense of security!
 
-### Storage
+### 📦 Storage
 
 - In the **tent**, the player can view the **items** they own.
 - The **items** the player **owns** include:
@@ -337,25 +367,38 @@ Only the **tent** can bring a sense of security!
 	- Crops.
 - Some items (such as some collectibles) can be **displayed**.
 
-### Achievements
+### 🏆 Achievements
 
+- The player can unlock achievements by **meeting** certain **conditions**.
+- Achievements give no **material** reward, but there is a **completion sound** to praise the player.
+- Achievements can be hidden. Hidden achievements cannot be viewed on the achievement page before being completed.
 - In the **tent**, the player can view the **achievements** they have earned.
 
-### Bed
+### 📍 Milestones
+
+- The player can unlock milestones by **clicking** on the milestone page.
+- Milestones are unrelated to the game, existing so that players' experiences in the **real world** can find their echo in the game.
+- Milestones require no **in-game** conditions to be achieved.
+- Unlocking milestones relies on the player's own **credit**; only milestones truly completed in the real world have meaning.
+
+### 🛏️ Bed
 
 - During **sunset** and **night**, the player can **sleep** by clicking the bed to skip the night.
 - The player will wake up at the next day's **sunrise** or **morning**, or may choose to **sleep a little longer** and keep sleeping.
 
-### Emotion Recycling Bin
+### 🗑️ Emotion Recycling Bin
 
 - This recycling bin, similar to a recyclable trash bin, allows the player to write down unhappy things they encounter in **real life**, then crumple them into a ball and throw them into the emotion recycling bin!
 
-### Diary
+### 📓 Diary
 
 - The player can write down what happens each day in the **diary** (whether in-game or in real life).
+- The diary should support rich text format (Markdown syntax) and be able to display images.
+- The images shown in the diary can only come from the player's **drawings** and **game screenshots**.
 - The game allows the player to export **specific pages** of the **diary** to the **designated folder** for sharing.
+- The paper in the diary can be **torn off** and thrown into the **emotion recycling bin**.
 
-### Album
+### 🖼️ Album
 
 - The album will display all the **works** the player has drawn on **drawing paper**.
 - The album can be exported entirely as a single file to the **designated folder** for sharing.
@@ -366,7 +409,7 @@ Only the **tent** can bring a sense of security!
 
 Is this melon ripe?
 
-### Purchasing
+### 🛒 Purchasing
 
 - The player can buy goods at the **market**.
 - At the market, the player can talk to **villagers** of various professions.
@@ -381,7 +424,7 @@ Is this melon ripe?
 	- Drawing paper (such as 1:1 drawing paper).
 	- Stamps.
 
-### Selling
+### 💰 Selling
 
 - The player can sell goods at the **market**.
 - The player can sell the following **kinds** of goods at the market:
@@ -393,7 +436,7 @@ Is this melon ripe?
 	- Game season.
 	- A random value within a fixed range.
 
-### Currency
+### 🪙 Currency
 
 - The game uses **shells** as currency.
 - The player can **obtain** shells through the following channels:
@@ -407,7 +450,7 @@ Is this melon ripe?
 
 **Plant crops**, **water and fertilise**, and **harvest**.
 
-### Planting
+### 🌱 Planting
 
 - Planting crops requires **crop seeds**.
 - The **process** of planting is as follows: levelling the soil, sowing the seeds, covering with soil, watering, fertilising.
@@ -416,12 +459,12 @@ Is this melon ripe?
 	- Game weather.
 	- Game season.
 
-### Growth
+### 🌿 Growth
 
 - During crop growth, the player must keep **watering** and **fertilising** without interruption.
 - Crops **switch** their **growth state** every period of time (about 90 hours).
 
-### Harvest
+### 🧺 Harvest
 
 - When crops are **fully mature**, the player can harvest the **crops** and **crop seeds**.
 
@@ -431,7 +474,7 @@ Is this melon ripe?
 
 **Chat** with the little cat or **pet** it ฅ՞•ﻌ•՞ฅ.
 
-### Chatting
+### 💬 Chatting
 
 - The player can **send messages** to Cat.
 - Cat will **reply** to the player according to certain weights, which may be decided by:
@@ -439,12 +482,12 @@ Is this melon ripe?
 	2. A completely random probability.
 - Cat will reply with "**Meow**" in various tones and timbres to provide emotional value to the player.
 
-### Petting
+### 🐾 Petting
 
 - The player can pet Cat by gently touching its **head**.
 - When petting, "**Meow**" bullet comments will fly out from Cat, accompanied by "**Meow**" in various tones and timbres to provide emotional value to the player.
 
-### Gifts
+### 🎁 Gifts
 
 - Cat may give the player a **gift** when the player wakes up the next morning.
 - Whether Cat gives the player a **gift** may be decided by:
@@ -456,7 +499,7 @@ Is this melon ripe?
 	- Shells.
 	- Some collectibles (extremely rare).
 
-### And More…
+### ❓ And More…
 
 - Apart from Cat, the player can also choose **other objects** to talk to or pet. These **other objects** may be **production team members** appearing in the **introductory storyline**.
 
@@ -466,24 +509,24 @@ Is this melon ripe?
 
 **Paint** with incredibly realistic paper and paints, and save.
 
-### Drawing Paper
+### 📄 Drawing Paper
 
 - Drawing paper is no different from real paper, allowing **bleeding**, **re-colouring** and **colour mixing**.
 - The player can purchase drawing paper through the **trade system**, such as 1:1 paper and 3:4 paper.
 
-### Palette
+### 🎨 Palette
 
 - 8 basic colours are provided by default. The player can dip the **brush** into the paints and mix colours on the **palette**.
 - The mixing scheme may be **watercolour** or **gouache**.
 - When mixing, the paints of two colours are blended with the **brush**; unmixed paint will remain its original colour, and the mixed colour will be determined by how much the player mixes.
 
-### Brush
+### 🖌️ Brush
 
 - The brush can apply paint or water onto the drawing paper.
 
-### Saving
+### 💾 Saving
 
-- The works the player draws will be **saved** in the **album**.
+- The works the player draws will be **saved** in the **diary**.
 - The player can **export** the works to the **designated folder** for sharing.
 
 ---
@@ -492,7 +535,7 @@ Is this melon ripe?
 
 Send and receive **mail**.
 
-### Receiving
+### 📥 Receiving
 
 - The player may **receive** the following mail:
 	- Letters the player sent to themselves.
@@ -500,7 +543,7 @@ Send and receive **mail**.
 	- Festival greetings.
 	- Birthday greetings.
 
-### Sending
+### 📤 Sending
 
 - The player can **send** the following mail:
 	- Letters to their future self.
@@ -508,31 +551,63 @@ Send and receive **mail**.
 
 ---
 
+## 🧩 Extending the Game
+
+An important way to improve gameplay is to extend the game with new content, such as making **MODs** and making **resource packs**.
+
+### 🔧 MOD System
+
+- From the very beginning of its design, the game has supported importing **third-party MOD packages** to enrich the game content.
+- MODs should be able to add/modify/delete the following content:
+	- Biomes
+	- Time flow
+	- Items
+	- Achievements
+	- Milestones
+	- Trade types
+	- Planting methods
+	- GUI interfaces (including controls)
+	- Text
+	- Textures
+	- Audio
+- The game should provide almost all available **interfaces** and the accompanying support documentation, and design a set of corresponding norms, such as certain components having to be called using certain methods.
+- The game **should not** support MOD packages that do not follow the norms.
+- There is no restriction on the content of MOD packages, whether or not it violates values.
+- The game should provide a dedicated **page** to help players enable or configure MOD packages.
+
+### 🗂️ Resource Packs
+
+- Resource packs can modify the game's **text**, **textures** and **audio**.
+- Resource packs will not and are **not allowed** to provide new features for the game.
+- The game should provide a dedicated **page** to help players enable or configure resource packs.
+
+---
+
 ## 📺 Visual Interface
 
 Smooth **non-linear animations** always bring players a good visual experience.
 
-### Controls
+### 🎛️ Controls
 
 - Controls can **trigger** interaction behaviours and events.
 - Controls should maintain the same design style as *Today@PolarBay*.
-- Controls should shrink instantly when **pressed**, then bounce back non-linearly.
+- When **pressed**, controls should shrink instantly with the centre of the interface as the scaling centre, then bounce back non-linearly.
 - Controls can have customisable **positions** and **sizes**.
 
-### Cards
+### 🃏 Cards
 
 - Cards cannot be **interacted with**.
 - Cards should maintain the same design style as *Today@PolarBay*.
 - Cards are used to display relatively **clean** backgrounds, such as the backpack interface.
 
-### Eye-care Green Screen
+### 🟢 Eye-care Green Screen
 
 - Because the player must **stare at** the **float** for a **long time** while **fishing**, a special **eye-care green screen** has been designed.
 - The eye-care green screen will **cover the full screen** at intervals to **force the player to rest**.
-- The **interval time** and **coverage time** of the eye-care green screen can be adjusted or toggled in the settings.
+- The **interval time** and **coverage time** of the eye-care green screen can be adjusted or disabled in the settings.
 - The eye-care green screen will display the content of the **letters** from the **drift bottles** the player has collected.
 
-### Colour Schemes
+### 🌗 Colour Schemes
 
 - The game may come with **two** colour schemes built in: a white theme and a black theme.
 - The white theme and black theme may **switch** according to the following conditions:
@@ -540,12 +615,12 @@ Smooth **non-linear animations** always bring players a good visual experience.
 	2. Day and night conditions in the game.
 	3. Manual adjustment by the player in the settings interface.
 
-### Particle Effects
+### 🎆 Particle Effects
 
 - Particle effects are produced by **special events**, such as a boat sailing on the water.
 - The number of particle effects can be adjusted or toggled in the **settings** to avoid performance issues.
 
-### Advanced Materials
+### 💎 Advanced Materials
 
 - Advanced materials, i.e. **acrylic** materials.
 - The player can enable or disable advanced materials in the **settings**.
@@ -557,12 +632,12 @@ Smooth **non-linear animations** always bring players a good visual experience.
 
 **Time** always flies by so fast that we miss many things.
 
-### Time Conversion
+### ⏱️ Time Conversion
 
 - **One day** in the game is **one hour** in real life.
 - The conversion ratio between game time and real time is **1:24**.
 
-### Time Periods
+### 🕐 Time Periods
 
 - Both the **daytime** and **night-time** in the game are **30 minutes**.
 - Within **one day** (60 minutes), the game's time periods are divided as follows:
@@ -579,7 +654,7 @@ Smooth **non-linear animations** always bring players a good visual experience.
 
 **Save** the current **game progress**, so that our fish and salt are safe.
 
-### Save
+### 🗃️ Save
 
 - On the **save** page, the player can click the **get save** button to **save** the current progress.
 - On the **save** page, the player can click the **load save** button to **load** a saved save.

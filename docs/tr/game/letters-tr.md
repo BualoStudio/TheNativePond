@@ -3,6 +3,9 @@
 > [!NOTE]
 > Bu dosya, oyunda görünen tüm mektup kâğıtlarını saklamak için kullanılır.
 
+> [!WARNING]
+> Bu dosyanın içeriği değerlendirilip düzenlenmemiştir; değerlere aykırı içerikler barındırabilir.
+
 1. Yıldızlar gökyüzünü süslüyor, hafif bir esinti sessizliği okşuyor. Bu dingin gecede, binbir güzellik kendiliğinden kalbinde belirir.
 2. Işığı kovalamaya başladığın an, sen de ışık olursun.
 3. Merhaba. Kim olduğunu bilmiyorum ve sana verebileceğim değerli bir hediyem de yok. Ama sana küçük bir kırmızı çiçek ve bir gülümseme hediye edebilirim. Her gün mutlu ol olur mu~(◕ᴗ◕✿)!
@@ -45,4 +48,25 @@
 40. Geçmişteki halinle yüzleş, sonra o eski benliğine veda et. Bu, büyümenin bir parçasıdır.
 41. Gündüzün gülüşleri ve gözyaşları, rüyada yepyeni bir hikâyede buluşur. Dünü rüyana bırakıver; bugün yepyeni bir gün.
 42. Duygular gelgittir; gelirler, giderler. Sen ise kıyısın; hep buradasın.
-43. Ne olursa olsun, kalbinin derinliklerinde hâlâ senin için atan 2 milyar ateşli hücre var.
+43. Biyoloji soru bankasındaki o söz: Dünya seni terk etse bile, unutma ki vücudunda yalnızca senin için yaşayan milyarlarca hücre var.
+44. Yalnızca hayal kuran ama harekete geçmeyen insan, meyve toplamanın sevincini asla tadamaz.
+45. Hedefe olan kararlılık, karakterdeki en gerekli güç kaynaklarından biri ve başarının en keskin araçlarından biridir. O olmadan, dâhi bile çelişkilerle dolu belirsiz yollarda boşuna çabalar.
+46. Gençlik, içi huzursuzluk, taşkınlık, toy bir olgunlaşmamışlık ve ara sıra delilikle dolu bir kaba benzer.
+47. Yol arkadaşlarının sonuna kadar seninle yürümesi şart değildir; yolun bir bölümünde sana kattıkları kahkahalar yeter de artar.
+48. Beklentiye girme; kaybettiğinde üzülmezsin, elde ettiğinde ise sürpriz olur.
+49. Engeller ve başarısızlıklar, başarıya giden en sağlam basamak taşlarıdır; onları inceleyip kullanmaya razı olursan, başarısızlıktan başarıyı yetiştirebilirsin.
+50. Parasını kaybeden az şey kaybeder; sağlığını kaybeden çok şey kaybeder; cesaretini kaybeden her şeyini kaybeder.
+51. Acı çekmekten korkan kişi, zaten kendi korkusu yüzünden acı çekiyordur.
+52. Başarıya olan inanç, insan beyninde bir çalar saat gibi işler; ihtiyacın olduğunda seni uyandırır.
+53. Hata, geçici bir pişmanlıktır; ama fırsatı kaçırmak, sonsuz bir pişmanlıktır!
+54. O katlanarak geçirdiğim yılları geride bırakıp geriye baktığımda, bir zamanlar dile getirmekte zorlandığım anıların, okyanusta bir damla olduğunu fark ettim. Hayatın bana verdiği şey o zorluklar değil; büyümek, ağır şeyleri hafifçe taşımayı öğrenmek ve bir zamanlar içime oturan geçmişi tümüyle bırakabilmekti.
+55. İnsan dünyasının o "telaşlı hali", kimi zaman sıcak kimi zaman soğuk olabilen bir sözcüktür; sözdeki insan dünyası da kimi zaman aydınlık kimi zaman karanlık anlardan ibarettir.
+56. Bu dünyada her şey ayarlanabilir; yalnızca kalbin hariç. Bu dünyada kimseyi kaybetmek korkutucu ya da önemli değildir; tek korkulacak şey kendini kaybetmendir. Önünde çok ama çok uzun bir yol var ve o yolun tamamını tek başına yürüyecek, kendi ayakların üzerinde, kendi yeteneklerinle tamamlayacaksın. Bu yolda hikâyeler dünün anlarıdır; uzun yol boyunca her şey bir rüya gibi akıp gider, ta sonsuza dek.
+57. Bu dünya, sen emek verdiğin diye sana karşılık vermek zorunda değildir; başkalarına nasıl davrandığın için de senden aynısını bekleyemez. İnsanın bu dünyada en zor yaptığı şey, bir tevazu ve dinginlik koruyabilmektir; bu tevazu da içtenliğinden ve sağlam adımlarla gösterdiğin çabadan gelir.
+58. Başkaları, senin göremediğin yerlerde sessizce çabalıyor; senin gördüğün yerlerde ise senin gibi savruk görünüyor, senin gibi sızlanıyorlar. Yalnızca sen bunların gerçek olduğuna inanıyorsun ve sonunda yalnızca sen ilerlemeyi düşünmeden tembel tembel kalmaya devam ediyorsun.
+59. Herkes gördüğün gibi değildir; bir yanları kanatlı, tertemiz ve iyi kalpli bir melek, öbür yanları elinde yaba, suratı asık bir iblistir. Kalplerindeki kırılganlık ve çekingenlik, itiraf etmek istemedikleri kibir ve korkaklık, o göz alıcı görüntünün ardına saklanır. Onların da perişan oldukları anlar olmuştur; insanın acılarını görmüşlerdir; seçimlerden önce tereddüt etmişlerdir; akılsızca fırsatları kaçırmışlardır; ve astlarına ters ters baktıklarında, bir zamanlar birinin kendilerine de böyle davrandığını anımsarlar.
+60. Yüzleşmek zorunda olduğumuz acılar ve engeller, ne kadar çok yaşarsak yaşayalım azalmaz; gök, perişanlığına acıyıp sana merhamet etmez — yalnızca iradeni bilemek için üst üste imtihanlar düzenler. Tıpkı Tang Seng'in Batı'ya kutsal yazıları almaya gidişi gibi: gerçek kutsal yazıları istiyorsan, geri dönme düşüncesine bile kapılma; sonuna kadar diretmekten başka geri çekilecek bir yolun yok.
+61. Hayata karşı biraz daha cesurca risk alabilirsin; ne de olsa onu eninde sonunda kaybedeceksin. Bu dünyada gerçekten mucize varsa, o da çabanın başka bir adıdır. Hiç kimse seni kurtaramaz; sonunda seni kurtaracak olan yalnızca kendinsindir. Umudun tükendiği anda hayata tutunmanın sevinci ve büyük felaketten sağ çıkmanın şükrü, senin hayal ettiğin "şans dengesi" değildir. Bu dünyanın karşısında hayat, son derece somut ve yorucu bir sarmaşıktır; ancak onun ekşisini, tatlısını, acısını ve burukluğunu tadarsan, sonunda kalan hoş kokusunu bilebilirsin.
+62. Keyif, bir duygu durumudur; iyi bir keyfe sahip olduğunda özgüvene, ardından gençliğe ve sağlığa da sahip olursun; gelecek hayata karşı özlem ve beklenti duyarsın. Gelin hep birlikte iyi bir keyfe sahip olalım; çünkü yaşamak, şans ve mutluluktur.
+63. Yıllar içinde yürürken herkesin kendi hikâyesi vardır; olayları hafife aldıkça gönül güzelleşir, ferahladıkça yürek aydınlanır. Yorulduğunda bir soluklan, hafif esintiyle salın; dertlendiğinde sakinleş, çiçeklerle göz göze gel; acele ettiğinde yavaşla ve kendine gülümse.
+64. Hayatın güzelliği, göz alıcılığında değil dinginliğindedir; hayatın dokunaklılığı, tutkusunda değil sükûnetindedir. Ancak dinginlikte hayatın enginliği görülür; ancak sükûnette hayatın derinliği görülür.

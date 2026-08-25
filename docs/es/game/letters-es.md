@@ -3,6 +3,9 @@
 > [!NOTE]
 > Este archivo archiva todos los papeles de carta que aparecen en el juego.
 
+> [!WARNING]
+> El contenido de este archivo no ha sido evaluado ni revisado; puede contener contenido que vaya en contra de los valores.
+
 1. Las estrellas salpican el cielo y una brisa suave acaricia la quietud. En esta noche tan serena, mil bellezas afloran por sí solas en el corazón.
 2. En el instante en que empiezas a perseguir la luz, tú mismo te conviertes en luz.
 3. Hola. No sé quién eres, ni tengo ningún regalo valioso que ofrecerte. Pero puedo regalarte una pequeña flor roja y una sonrisa. ¡Que seas feliz cada día~ (◕ᴗ◕✿)!
@@ -45,4 +48,25 @@
 40. Acepta con serenidad al que fuiste, y despídete de ese yo. Es parte de crecer.
 41. Las risas y las lágrimas del día se funden en el sueño en una historia nueva. Deja el ayer en el mundo de los sueños: hoy es un día completamente nuevo.
 42. Las emociones son como la marea: vienen y se van. Y tú eres la orilla, siempre aquí.
-43. Pase lo que pase, en lo más hondo de tu corazón siguen latiendo por ti esos 2 mil millones de células ardientes.
+43. En el libro de ejercicios de biología hay una frase que dice: aunque el mundo entero te abandone, recuerda que en tu cuerpo hay miles de millones de células que viven solo por ti.
+44. Quien solo fantasea pero no actúa jamás sentirá la alegría de recoger los frutos de la cosecha.
+45. La firmeza de objetivos es una de las fuentes de fuerza más necesarias del carácter y una de las armas del éxito. Sin ella, hasta el genio deambula en vano por los senderos indecisos de la contradicción.
+46. La juventud es como un recipiente lleno de inquietud, agitación, inmadurez y una locura ocasional.
+47. Los compañeros no tienen por qué llegar hasta el final contigo; si en algún tramo del camino esa persona te regaló carcajadas sonoras, eso ya es suficiente.
+48. Si no pones expectativas, no te entristecerás al perder; y si algo llega, será una sorpresa.
+49. Los obstáculos y los fracasos son los peldaños más firmes hacia el éxito; quien esté dispuesto a estudiarlos y aprovecharlos podrá hacer crecer el éxito a partir del fracaso.
+50. Quien pierde el dinero pierde poco; quien pierde la salud pierde mucho; quien pierde el valor lo pierde todo.
+51. Quien teme sufrir ya está sufriendo a causa de su propio miedo.
+52. La fe en el éxito actúa en la mente como un despertador: te despierta cuando más lo necesitas.
+53. La culpa es un pesar pasajero, pero la ocasión perdida es un pesar eterno.
+54. Cuando recorro la memoria de aquellos años de aguantar en silencio, descubro que las cosas que creía difíciles de contar no eran más que una gota en el océano. La vida no me dio esas dificultades, sino crecimiento: aprender a manejar lo pesado con ligereza y soltar por fin todos aquellos recuerdos que no podía dejar ir.
+55. El llamado humo y fuego del mundo mortal es una palabra que a veces es cálida y a veces fría; el llamado mundo mortal son esos momentos que a veces son luminosos y a veces oscuros.
+56. En este mundo todo puede planearse, excepto tu corazón. En este mundo no da miedo perder a nadie, excepto perderte a ti mismo. Aún queda un camino larguísimo por recorrer en soledad, confiando solo en ti y en tus propias capacidades. En ese camino, las historias son instantes de ayer; a lo largo de la senda infinita, todo parece un sueño, hasta la eternidad.
+57. Este mundo no está obligado a recompensarte por tu esfuerzo, ni exige que los demás te traten igual que tú los tratas a ellos. Lo más difícil de vivir en este mundo es conservar la humildad y la serenidad, y esa humildad nace de la sinceridad interior y del esfuerzo constante.
+58. Los demás se esfuerzan en secreto donde tú no los ves; donde sí puedes verlos, aparentan estar igual de despreocupados que tú, se quejan igual que tú, y solo tú te crees todo eso; al final, solo tú sigues sin avanzar ni esforzarte.
+59. Nadie es como lo ves: todos llevan dentro, por un lado, a un ángel puro y bondadoso con alas, y por otro, a un demonio de aspecto aterrador que blande una horca. Su fragilidad y su cobardía, su vanidad y su debilidad, que no quieren reconocer, se esconden todas bajo esa fachada brillante. También tienen sus momentos de penuria, también han visto las miserias del mundo, también dudan antes de decidir, también han renunciado tontamente a oportunidades, y también, cuando tratan con dureza a sus subordinados, recuerdan de repente que un día hubo alguien que los trató a ellos igual.
+60. Las penurias y los reveses que debemos afrontar no disminuyen por más que los suframos; el cielo no se apiada de ti por tu desgracia, solo va colocando una prueba tras otra para templar tu voluntad. Como el monje Tang en su viaje al Oeste en busca de las escrituras: si quieres conseguir las escrituras verdaderas, ni se te ocurra pensar en volver atrás; aparte de seguir peleando hasta el final, no tienes ninguna otra salida.
+61. Con la vida no tengas miedo de arriesgarte un poco más, porque al fin y al cabo la vas a perder. Si en este mundo existe de verdad un milagro, no es más que otro nombre del esfuerzo. Nadie puede salvarse a sí mismo; al final, el único que te salva eres tú. La alegría de encontrar una salida en el callejón sin salida y el alivio de sobrevivir a una gran desgracia no son el "equilibrio del karma" que te imaginas. Frente a este mundo, la vida es una enredadera terriblemente concreta y enmarañada; solo cuando pruebas sus amarguras y sus dulzuras conoces su último aroma.
+62. El estado de ánimo es un estado emocional: quien tiene buen ánimo tiene confianza, y con ella juventud y salud; tiene también anhelo y expectativas por la vida futura. Tengamos un buen ánimo, porque estar vivo ya es suerte y alegría.
+63. Al andar entre los años, cada uno tiene su propia historia: solo cuando tomas las cosas con calma tu ánimo se vuelve sereno, solo cuando las dejas pasar tu humor se vuelve luminoso. Cuando estés cansado, descansa un rato y baila con la brisa; cuando estés agobiado, quédate quieto un momento y mira a las flores y a la hierba; cuando tengas prisa, ve más despacio y sonríete a ti mismo.
+64. La belleza de la vida no está en su esplendor, sino en su serenidad; lo conmovedor de la vida no está en su pasión, sino en su calma. Solo en la serenidad se ve la inmensidad de la vida; solo en la calma se ve su profundidad.

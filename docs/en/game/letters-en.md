@@ -3,6 +3,9 @@
 > [!NOTE]
 > This file is used to archive all letters that appear in the game.
 
+> [!WARNING]
+> The content of this file has not been evaluated or revised, and may contain content that goes against our values.
+
 1. Stars dot the sky, and a gentle breeze passes over the stillness. On this tranquil night, a thousand beauties will naturally surface in your heart.
 2. The moment you begin to chase the light, you become the light.
 3. Hello. I don't know who you are, and I have no precious gift to give you. But I can give you a little red flower, and a smile. Remember to be happy every day~(◕ᴗ◕✿)!
@@ -45,4 +48,25 @@
 40. Face the self you once were with equanimity, and say goodbye to that self. This is part of growing up.
 41. The laughter and tears of the day will all gather in your dreams into a new story. Leave yesterday to your dreams — today is another brand-new day.
 42. Emotions are the tide — they come, and they go. But you are the shore, always here.
-43. No matter what happens, those 2 billion warm cells deep in your heart are still beating for you.
+43. A biology drill book once said: even if the whole world abandons you, remember that you still carry billions of cells in your body, living only for you.
+44. Those who only dream but never act will never know the joy of reaping the harvest.
+45. Firmness of purpose is one of the most essential sources of strength in one's character, and one of the sharpest tools for success. Without it, even a genius will labour in vain along a maze of contradictions and uncertainty.
+46. Youth is like a vessel, filled with restlessness, agitation, immaturity, and the occasional madness.
+47. Companions need not walk with you all the way to the end — if, along a certain stretch of the road, they brought you hearty laughter, that is already enough.
+48. Expect nothing — lose without grief, and gain as a surprise.
+49. Obstacles and failures are the surest stepping stones to success. If you are willing to study and make use of them, you can cultivate success out of failure.
+50. Those who lose money lose little; those who lose health lose much; those who lose courage lose everything.
+51. Those who fear their own suffering are already suffering because of their own fear.
+52. The belief in success acts in the mind like an alarm clock, waking you up when you need it.
+53. A mistake is a temporary regret, but a missed chance is an eternal one!
+54. When I look back after walking through the years of endurance, I find that the past I once found too painful to speak of is nothing but a drop in the ocean. What life gave me was not those hardships, but growth — learning to take the heavy lightly, and letting go of all the past I once could not release.
+55. The so-called "smoke and fire of the mortal world" is a phrase that can be warm at one moment and indifferent at the next; the so-called mortal world is a time that is bright at one moment and dark at the next.
+56. In this world, everything can be arranged — except your heart. Losing anyone in this world is not terrible or a big deal — except losing yourself. There is still a very, very long road ahead, and you must walk it alone, relying on yourself, completing it with your own abilities. On this road, the stories are but moments of yesterday; walking along the long road, it all feels like a dream, stretching on to forever.
+57. The world does not have to repay you just because you have given, nor does it require others to treat you the same way you treat them. The hardest thing about living in this world is keeping a measure of humility and serenity — and that humility comes from sincerity within and steady, down-to-earth effort.
+58. Others are secretly working hard where you cannot see them. Where you can see them, they look just as laid-back as you and complain just like you — and you are the only one who believes it is all real. In the end, you are the only one who keeps drifting along without ambition.
+59. No one is the way you see them: on one side, they are pure, kind angels with wings; on the other, fierce demons gripping tridents. The fragility and timidity in their hearts, the vanity and cowardice they refuse to admit — all hide beneath that glossy exterior. They, too, have their down-and-out days; they, too, have seen the hardships of the world; they, too, hesitate before choices; they, too, have foolishly given up chances; and when they glare coldly at their subordinates, they suddenly remember that someone once treated them the same way.
+60. The hardships and setbacks we must face will not diminish no matter how many we have endured. Heaven will not pity you for your misery — it will only arrange one trial after another to temper your will. Just as Tang Sanzang journeyed west to fetch the scriptures: if you want the true scriptures, do not entertain any thought of turning back — apart from grinding on to the very end, you have no other way out.
+61. You might as well be bold and take risks with life, for you will lose it sooner or later anyway. If there really is a miracle in this world, it is just another name for effort. No one can save you — in the end, only you can save yourself. The joy of survival against all odds and the relief of escaping a great disaster are not the "conservation of karma" you imagine. In the face of this world, life is an utterly concrete and tangled vine; only by tasting its sweetness, sourness, bitterness and spiciness can you know its lingering fragrance.
+62. Mood is a state of feeling. With a good mood, you have confidence, and with confidence come youth and health, along with longing and anticipation for the life ahead. So let us keep a good mood — for simply being alive is luck and happiness.
+63. Trekking through the years, everyone has their own story. Only by taking things lightly does the heart become serene; only by letting things go does the spirit turn bright. When tired, rest a while and dance with the gentle breeze; when troubled, be still a moment and gaze with the flowers and grass; when hurried, slow down a little and smile at yourself.
+64. The beauty of life lies not in its brilliance, but in its serenity; the moving power of life lies not in its passion, but in its calm. Only in serenity can the vastness of life be seen; only in calm can the depth of life be perceived.

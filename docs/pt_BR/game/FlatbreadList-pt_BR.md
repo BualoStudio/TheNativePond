@@ -1,4 +1,4 @@
-# A Lista de Promessas do The Native Pond
+﻿# A Lista de Promessas do The Native Pond
 
 ![flatbreadlist_background](/background/pt_BR/FBL-docs-bg-pt_BR.png)
 
@@ -15,12 +15,12 @@
 
 Movimento suave e boa câmera são partes essenciais para garantir que o jogo tenha jogabilidade. **O personagem precisa conseguir se mover!**
 
-### Movimento
+### 🚶 Movimento
 
 - O jogador controla o personagem para se mover pelo **mapa** e, em locais especiais (como a plataforma de pesca), pressiona um botão ou se posiciona em uma pequena área de coordenadas para **acionar** a animação de entrada naquele **local especial**.
 - A **interação** com o jogo acontece por botões de toque (celular), teclado (PC) e controle; as teclas podem ser personalizadas.
 
-### Câmera
+### 🎥 Câmera
 
 - Nas áreas não especiais do mapa, usa-se a visão em **terceira pessoa**.
 - Nas áreas especiais do mapa (como a plataforma de pesca), usa-se a visão em **primeira pessoa**, exibindo o interior da área (se houver).
@@ -32,19 +32,19 @@ Movimento suave e boa câmera são partes essenciais para garantir que o jogo te
 
 Debruce-se sobre a mesa e faça um **mapa** — o mapa tem de tudo!
 
-### Zoom e orientação
+### 🧭 Zoom e orientação
 
 - O mapa não **gira** junto com a câmera.
 - O mapa pode dar **zoom**.
 - O mapa segue a lógica de direção "**norte em cima, sul embaixo, oeste à esquerda, leste à direita**".
 
-### Limites
+### 🚧 Limites
 
 - O mapa do jogo tem **limites**, ou seja, o jogador não consegue atravessar a **borda do mapa**.
 - Quando o jogador tenta atravessar a borda, o jogo o **puxa de volta à força** e mostra a mensagem "* Uma sensação familiar toma conta de você — você parece ouvir: 'Vamos explorar a área à frente depois!' Mesmo sabendo que nunca poderá explorá-la depois, ainda quer tentar."
 - Os limites podem ser **obstáculos naturais** evidentes (como grandes montanhas) ou **cercas artificiais** (como as paredes de arquitetura estilo Huizhou).
 
-### Clima
+### ⛅ Clima
 
 - Os **tipos** de clima são:
 	- Ensolarado.
@@ -56,7 +56,7 @@ Debruce-se sobre a mesa e faça um **mapa** — o mapa tem de tudo!
 	2. Semelhança com o clima de determinada região.
 	3. Probabilidade totalmente aleatória.
 
-### Estações
+### 🍂 Estações
 
 - As estações mudam a cada **90 horas**.
 - Os **tipos** de estação são:
@@ -65,26 +65,39 @@ Debruce-se sobre a mesa e faça um **mapa** — o mapa tem de tudo!
 	- Outono.
 	- Inverno.
 
-### Câmera fotográfica
+### 📷 Câmera fotográfica
 
 - O jogador pode **fotografar** em qualquer lugar (exceto na interface gráfica) pressionando uma tecla do teclado, tocando em um botão ou pressionando um botão do controle.
 - Ao **fotografar**, o jogo exibirá uma cobertura de **luz branca** em tela cheia para representar a foto. Isso pode exigir um aviso de **epilepsia fotossensível** na tela inicial do jogo.
 - Ao **fotografar**, o jogo automaticamente **captura** todos os elementos da tela (exceto os elementos da interface) e adiciona uma **moldura**.
 - O jogo **salva** as fotos em uma **pasta específica** para facilitar o compartilhamento.
 
-### O lago de pesca
+### 🌍 Biomas
+
+- Os elementos do mapa estão, em sua maioria, distribuídos em diferentes **biomas**.
+- Existem os seguintes biomas:
+	- Planícies
+	- Floresta tropical
+	- Praia
+	- Terras cultivadas
+	- Campos de flores
+	- Lago
+	- Riachos
+	- Aldeia
+
+### 🐟 O lago de pesca
 
 - O lago de pesca é a área especial mais central do jogo, incluindo a **Plataforma de pesca**, o **Lago** e o **Barco**.
 
 #### Plataforma de pesca
 
-- Fica no extremo **sul** do lago.
+- Fica no extremo **sul** do lago, no bioma **praia**.
 - Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa; o personagem fica sentado e a interface visual da área é exibida.
 - A plataforma de pesca serve para **pescar**.
 
 #### Lago
 
-- Fica no extremo **norte** do mapa.
+- Fica no extremo **norte** do mapa, no bioma **lago**.
 - Quando o jogador **entra** nessa área especial, o personagem passa a **nadar**.
 
 #### Barco
@@ -93,51 +106,68 @@ Debruce-se sobre a mesa e faça um **mapa** — o mapa tem de tudo!
 - Quando o jogador **entra** nessa área especial, o personagem passa a **pilotar** e a interface visual da área é exibida.
 - O jogador pode pilotar o barco navegando pelo **lago**.
 
-### Barraca
+### ⛺ Barraca
 
-- Fica a **sudoeste** do centro do mapa.
+- Fica a **sudoeste** do centro do mapa, no bioma **planícies**.
 - Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa, exibindo a interface visual da área.
 - A barraca é o coração do **acampamento**.
 - O **interior** e o **tamanho** da barraca podem seguir o design da barraca de *Robinson Crusoé*.
 
-### Campo
+### 🌾 Campo
 
-- O campo fica a **sudeste** da barraca.
+- O campo fica a **sudeste** da barraca, no bioma **terras cultivadas**.
 - Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa, exibindo a interface visual da área.
 - O campo serve para **plantar**.
 
-### Mercado
+### 🏪 Mercado
 
-- O mercado fica a **leste** do mapa.
+- O mercado fica **ao sul** do mapa, no bioma **aldeia**.
 - Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa, exibindo a interface visual da área.
 - O mercado serve para **comerciar**.
 
-### Árvore
+### 🌳 Árvore antiga
 
-- Fica a **sudeste** da barraca.
+- Fica a **sudeste** da barraca, no bioma **planícies**.
 - Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa; o personagem fica sentado.
-- Às vezes (como no outono) aparecem **maçãs** na árvore. O jogador pode derrubá-las com uma **vara comprida** e **coletá-las**.
-- Quando o jogador fica algum tempo (cerca de 1 minuto) **embaixo** da árvore, o jogo mostra um botão flutuante "Segure [W] para meditar"; ao pressionar W, tocar no botão ou pressionar o botão do controle, o jogador entra em **meditação**. Durante a **meditação**, o jogo exibe **efeitos visuais** em tela cheia (várias fórmulas de física), e há chance de ser **atingido por uma maçã**.
+- Às vezes (como no outono) aparecem **maçãs** na árvore antiga. O jogador pode derrubá-las com uma **vara comprida** e **coletá-las**.
+- Quando o jogador fica algum tempo (cerca de 1 minuto) **embaixo** da árvore antiga, o jogo mostra um botão flutuante "Segure [W] para meditar"; ao pressionar W, tocar no botão ou pressionar o botão do controle, o jogador entra em **meditação**. Durante a **meditação**, o jogo exibe **efeitos visuais** em tela cheia (várias fórmulas de física), e há chance de ser **atingido por uma maçã**.
+- A árvore antiga pode florescer **flores antigas** (nome provisório); elas caem dos galhos, e o jogador pode pegá-las e **sugar o néctar**, com 50% de chance de sugar um **néctar docinho**.
 
-### Fogueira
+### 🔥 Fogueira
 
-- Fica a uma curta distância **a leste** da barraca.
+- Fica a uma curta distância **a leste** da barraca, no bioma **planícies**.
 - Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa, exibindo a interface visual da área.
 - A fogueira pode ser **acesa** e fornece iluminação.
 - A fogueira pode ser usada para **cozinhar**.
 
-### Concha mágica
+### 📮 Caixa de correio
+
+- Fica **ao sul** da barraca, no bioma **aldeia**.
+- Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa, exibindo a interface visual da área.
+- A caixa de correio serve para **receber e enviar mensagens**.
+
+### 🐚 Concha mágica
 
 - O jogador pode pegar a **concha mágica** na **areia** da beira do lago.
 - Quando o jogador **pega** a concha mágica, o personagem assume a posição de sopro e a câmera dá zoom automaticamente. Nesse momento, o jogador não pode se mover. A interface visual desse item especial também é exibida.
 - A concha mágica tem 7 **tons** que o jogador pode soprar.
 - A concha mágica tem várias **variedades**, cada uma com um **timbre** diferente.
 
-### Caixa de correio
+### 🍄 Cogumelos
 
-- Fica **ao sul** da barraca.
-- Quando o jogador **entra** nessa área especial, a câmera dá zoom automaticamente e muda para a visão em primeira pessoa, exibindo a interface visual da área.
-- A caixa de correio serve para **receber e enviar mensagens**.
+- Os cogumelos ficam no bioma **floresta tropical** e se dividem em **venenosos** e **não venenosos**.
+- Os cogumelos se reproduzem com o clima **chuvoso** e de **tempestade**.
+- O jogador pode dar tapinhas nos cogumelos para ajudar na reprodução; cada cogumelo só ajuda na reprodução uma vez, mas pode receber tapinhas sempre.
+- Quando o jogador interage (dá tapinhas) com um cogumelo, ele emite um **efeito sonoro** agradável; cogumelos diferentes têm tons diferentes.
+- O jogador pode **mover** os cogumelos de lugar.
+- Por meio de combinações, o jogador pode usar cogumelos para fazer **instrumentos musicais**.
+
+### ✨ Vaga-lumes
+
+- Os vaga-lumes aparecem durante a **noite** no bioma floresta tropical.
+- Os vaga-lumes brilham por conta própria e voam aleatoriamente pela floresta tropical e pelos biomas vizinhos.
+- O jogador pode usar uma **garrafa à deriva** para guardar vaga-lumes e ter iluminação própria.
+- A iluminação da garrafa de vaga-lumes dura apenas 3 dias.
 
 ---
 
@@ -145,7 +175,7 @@ Debruce-se sobre a mesa e faça um **mapa** — o mapa tem de tudo!
 
 Na **Plataforma de pesca**, o jogador pode usar uma **vara de pescar** para pescar.
 
-### Espécies
+### 🐠 Espécies
 
 - O **lago de pesca** do jogo pode render tanto **peixes de água salgada** quanto **peixes de água doce**. Além dos peixes, também é possível pescar **colecionáveis**.
 	1. Isso pode ser determinado pela **plataforma de pesca** escolhida pelo jogador (por exemplo, uma plataforma na beira do mar só rende peixes de água salgada; uma plataforma na beira do lago só rende peixes de água doce).
@@ -158,7 +188,7 @@ Na **Plataforma de pesca**, o jogador pode usar uma **vara de pescar** para pesc
 	2. Uma **probabilidade** aleatória dentro de um intervalo fixo.
 	3. Uma probabilidade totalmente **aleatória**.
 
-### Taxa de mordida
+### 🎯 Taxa de mordida
 
 Vale mencionar que a taxa de mordida se refere à probabilidade de o peixe **morder a isca**, não à probabilidade de finalmente pescar o peixe.
 
@@ -174,7 +204,7 @@ Vale mencionar que a taxa de mordida se refere à probabilidade de o peixe **mor
 	1. A taxa de mordida histórica do jogador.
 	2. Uma probabilidade totalmente aleatória.
 
-### Taxa de captura
+### 🪝 Taxa de captura
 
 Como o nome sugere, a taxa de captura se refere à probabilidade de finalmente pescar o peixe.
 
@@ -184,7 +214,7 @@ Como o nome sugere, a taxa de captura se refere à probabilidade de finalmente p
 	- A taxa de arrebentamento da linha de pesca.
 	- O tamanho do anzol.
 
-### Vara de pescar
+### 🎣 Vara de pescar
 
 - A vara de pescar é composta pela **vara**, a **bóia**, o **anzol** e a **linha de pesca**.
 - Qualquer parte da vara tem **durabilidade**; quanto menor a durabilidade, maior a chance de a vara quebrar. Quando a vara quebra, é preciso **trocar** a parte danificada.
@@ -217,27 +247,27 @@ Como o nome sugere, a taxa de captura se refere à probabilidade de finalmente p
 	- A qualidade da linha.
 	- O tempo de uso ou a durabilidade da linha.
 
-### Iscas
+### 🪱 Iscas
 
 - O jogador pode comprar iscas pelo **sistema de comércio**, como a isca comum e as minhocas vermelhas.
 - Se a isca comprada for em pó, é preciso transformá-la em isca passando por etapas como adicionar água e sovar a massa.
 - Iscas diferentes têm **taxas de mordida** diferentes.
 - Como item consumível, quando o jogador não tem iscas e a quantidade de conchas que possui (incluindo as conchas obtidas vendendo a pesca) não é suficiente para comprar um pacote de iscas, o jogo fará um reabastecimento gratuito pela **caixa de correio** no dia seguinte.
 
-### Ceva
+### 🥣 Ceva
 
 - O jogador pode comprar ceva pelo **sistema de comércio**, como borra de tofu fermentada e milho velho embebido em vinho.
 - Ceva diferente tem **taxa de mordida** diferente.
 - A ceva pode aumentar muito a taxa de mordida.
 
-### Lanterna de cabeça
+### 🔦 Lanterna de cabeça
 
 - O jogador pode comprar lanternas de cabeça pelo **sistema de comércio**, como a lanterna comum e a lanterna azul para pesca noturna.
 - Lanternas diferentes têm **taxas de mordida** diferentes e efeitos visuais diferentes.
 - À noite, a lanterna permite ver a superfície da água e a bóia.
 - À noite, a lanterna pode assustar os peixes e reduzir a taxa de mordida.
 
-### Colecionáveis
+### 🏺 Colecionáveis
 
 - Os colecionáveis se dividem principalmente em **garrafas à deriva**, **lembranças** e **fragmentos de história**.
 - O jogador pode **obter** colecionáveis das seguintes formas:
@@ -264,7 +294,7 @@ Como o nome sugere, a taxa de captura se refere à probabilidade de finalmente p
 
 Prepare **comidas** e tente comê-las!
 
-### Utensílios de cozinha
+### 🍳 Utensílios de cozinha
 
 - Os utensílios de cozinha são compostos por três partes: o **fogareiro**, a **tábua de corte** e os **utensílios**.
 
@@ -295,12 +325,12 @@ Prepare **comidas** e tente comê-las!
 	- Faca de cozinha.
 	- Rolo de massa.
 
-### Receitas
+### 📜 Receitas
 
 - O jogador pode preparar comidas seguindo as **receitas**. Em geral, seguindo a receita, a comida dá certo.
 - O jogador também pode **não seguir** a receita e improvisar.
 
-### Comidas
+### 🍲 Comidas
 
 - Quando o jogador conclui todo o **processo de preparo**, obtém uma **comida**.
 - O jogador pode preparar as seguintes comidas:
@@ -311,7 +341,7 @@ Prepare **comidas** e tente comê-las!
 	- Objeto indescritível (obtido quando o preparo da comida falha).
 	- Carvão (obtido quando o preparo falha por não seguir a receita).
 
-### Comer
+### 🍽️ Comer
 
 - Quando o jogador termina de preparar uma **comida**, pode tentar comê-la.
 - Ao comer, o jogador pode tocar na **comida** ou nas **partes da comida** para comê-la.
@@ -327,7 +357,7 @@ Prepare **comidas** e tente comê-las!
 
 Só a **barraca** traz sensação de segurança!
 
-### Armazenamento
+### 📦 Armazenamento
 
 - Na **barraca**, o jogador pode consultar os **itens** que possui.
 - Os itens que o jogador **possui** incluem:
@@ -337,25 +367,38 @@ Só a **barraca** traz sensação de segurança!
 	- Plantações.
 - Alguns itens (como alguns colecionáveis) podem ser **expostos**.
 
-### Conquistas
+### 🏆 Conquistas
 
+- O jogador pode desbloquear conquistas **cumprindo** certas **condições**.
+- As conquistas não dão recompensas **materiais** ao jogador, mas há um **som de conclusão** para elogiá-lo.
+- As conquistas podem ser ocultas. As conquistas ocultas não podem ser vistas na página de conquistas antes de serem concluídas.
 - Na **barraca**, o jogador pode consultar as **conquistas** obtidas.
 
-### Cama
+### 📍 Marcos
+
+- O jogador pode desbloquear marcos **clicando** neles na página de marcos.
+- Os marcos não têm relação com o jogo: servem para que as experiências do jogador no **mundo real** encontrem um reflexo no jogo.
+- Os marcos podem ser alcançados sem nenhuma condição **dentro do jogo**.
+- Desbloquear marcos depende da **credibilidade** do próprio jogador; só os marcos realmente cumpridos no mundo real têm sentido.
+
+### 🛏️ Cama
 
 - Ao **pôr do sol** e **à noite**, o jogador pode tocar na cama para **dormir** e pular a noite.
 - O jogador acorda no **nascer do sol** ou **pela manhã** do dia seguinte; ele também pode escolher **dormir mais um pouco**.
 
-### Lixeira de reciclagem de emoções
+### 🗑️ Lixeira de reciclagem de emoções
 
 - Essa lixeira, parecida com uma lixeira de reciclagem, permite ao jogador escrever as coisas desagradáveis que aconteceram na **vida real**, amassar tudo numa bolinha e jogar na lixeira de reciclagem de emoções!
 
-### Diário
+### 📓 Diário
 
 - O jogador pode escrever no **diário** as coisas que acontecem todos os dias (tanto no jogo quanto na vida real).
+- O diário deve suportar texto rico (sintaxe Markdown) e ser capaz de exibir imagens.
+- As imagens exibidas no diário só podem vir dos **desenhos** e das **capturas de tela** do jogador.
 - O jogo permite exportar **páginas específicas** do diário para uma **pasta específica** para facilitar o compartilhamento.
+- As páginas do diário podem ser **arrancadas** e jogadas na **lixeira de reciclagem de emoções**.
 
-### Álbum
+### 🖼️ Álbum
 
 - O álbum mostra todas as **obras** que o jogador desenhou no **papel para desenho**.
 - O álbum inteiro pode ser exportado como um único arquivo para uma **pasta específica** para facilitar o compartilhamento.
@@ -366,7 +409,7 @@ Só a **barraca** traz sensação de segurança!
 
 Este melão está maduro?
 
-### Comprar
+### 🛒 Comprar
 
 - O jogador pode comprar produtos no **mercado**.
 - No mercado, o jogador pode conversar com **aldeões** de várias profissões.
@@ -381,7 +424,7 @@ Este melão está maduro?
 	- Papel para desenho (como papel 1:1).
 	- Selos.
 
-### Vender
+### 💰 Vender
 
 - O jogador pode vender produtos no **mercado**.
 - O jogador pode vender as seguintes **categorias** de produtos no mercado:
@@ -393,7 +436,7 @@ Este melão está maduro?
 	- A estação do jogo.
 	- Um valor aleatório dentro de um intervalo fixo.
 
-### Moeda
+### 🪙 Moeda
 
 - O jogo usa **conchas** como moeda.
 - O jogador pode **obter** conchas das seguintes formas:
@@ -407,7 +450,7 @@ Este melão está maduro?
 
 **Plante**, **regue e adube** e **colha**.
 
-### Plantar
+### 🌱 Plantar
 
 - Para plantar, é preciso ter **sementes**.
 - O **processo** de plantio é: afofar o solo, semear, cobrir com terra, regar e adubar.
@@ -416,12 +459,12 @@ Este melão está maduro?
 	- O clima do jogo.
 	- A estação do jogo.
 
-### Crescimento
+### 🌿 Crescimento
 
 - Durante o crescimento das plantações, o jogador deve manter **a rega** e **a adubação** sem interrupções.
 - A cada certo tempo (cerca de 90 horas), a plantação **muda** de **estágio de crescimento**.
 
-### Colheita
+### 🧺 Colheita
 
 - Quando a plantação está **totalmente madura**, o jogador pode colher a **plantação** e as **sementes**.
 
@@ -431,7 +474,7 @@ Este melão está maduro?
 
 **Converse** com o gatinho ou **faça carinho** nele ฅ՞•ﻌ•՞ฅ.
 
-### Conversar
+### 💬 Conversar
 
 - O jogador pode **enviar mensagens** para o Cat.
 - O Cat **responde** ao jogador com base em certos pesos, que podem ser determinados por:
@@ -439,12 +482,12 @@ Este melão está maduro?
 	2. Uma probabilidade totalmente aleatória.
 - O Cat responde com "**Meow**" em vários tons e timbres para dar valor emocional ao jogador.
 
-### Fazer carinho
+### 🐾 Fazer carinho
 
 - O jogador pode tocar suavemente a **cabeça** do Cat para fazer carinho.
 - Ao fazer carinho, balões de texto com "**Meow**" voam para fora do Cat, acompanhados de "**Meow**" em vários tons e timbres para dar valor emocional ao jogador.
 
-### Presentes
+### 🎁 Presentes
 
 - O Cat pode dar um **presente** ao jogador quando ele acorda na manhã seguinte.
 - Se o Cat dá ou não **presentes** pode ser determinado por:
@@ -456,7 +499,7 @@ Este melão está maduro?
 	- Conchas.
 	- Alguns colecionáveis (probabilidade mínima).
 
-### Também pode ser...
+### ❓ Também pode ser...
 
 - Além do Cat, o jogador pode escolher **outros alvos** para conversar ou fazer carinho. Esses **outros alvos** podem ser **membros da equipe de desenvolvimento** que aparecem na **história de introdução**.
 
@@ -466,24 +509,24 @@ Este melão está maduro?
 
 **Desenhe** em papéis e tintas incrivelmente realistas e salve.
 
-### Papel para desenho
+### 📄 Papel para desenho
 
 - O papel para desenho é igual ao papel real: permite **borrar**, **repintar** e **misturar cores**.
 - O jogador pode comprar papel pelo **sistema de comércio**, como papel 1:1 e papel 3:4.
 
-### Paleta de cores
+### 🎨 Paleta de cores
 
 - Por padrão, são oferecidas 8 cores básicas; o jogador pode usar o **pincel** para pegar tinta e misturar na **paleta**.
 - O esquema de mistura pode ser **aquarela** ou **guache**.
 - Ao misturar, as tintas de duas cores se misturam pelo **pincel**; a tinta não misturada mantém a cor original, e a cor misturada depende do grau de mistura do jogador.
 
-### Pincel
+### 🖌️ Pincel
 
 - O pincel pode **aplicar** tinta ou água no papel para desenho.
 
-### Salvar
+### 💾 Salvar
 
-- As obras desenhadas pelo jogador são **salvas** no **álbum**.
+- As obras desenhadas pelo jogador são **salvas** no **diário**.
 - O jogador pode **exportar** as obras para uma **pasta específica** para facilitar o compartilhamento.
 
 ---
@@ -492,7 +535,7 @@ Este melão está maduro?
 
 **Receba e envie** mensagens.
 
-### Receber
+### 📥 Receber
 
 - O jogador pode **receber** as seguintes mensagens:
 	- Cartas que o jogador enviou para si mesmo.
@@ -500,7 +543,7 @@ Este melão está maduro?
 	- Felicitações de feriados.
 	- Felicitações de aniversário.
 
-### Enviar
+### 📤 Enviar
 
 - O jogador pode **enviar** as seguintes mensagens:
 	- Cartas para o eu do futuro.
@@ -508,31 +551,63 @@ Este melão está maduro?
 
 ---
 
+## 🧩 Expandir o jogo
+
+Uma forma importante de melhorar a jogabilidade é expandir o jogo com novos conteúdos, como **fazer MODs** e **fazer resource packs**.
+
+### 🔧 Sistema de MODs
+
+- Desde o início do design, o jogo suporta importar **pacotes de MOD de terceiros** para enriquecer o conteúdo do jogo.
+- Os MODs devem poder adicionar/modificar/remover os seguintes conteúdos:
+	- Biomas
+	- Fluxo do tempo
+	- Itens
+	- Conquistas
+	- Marcos
+	- Tipos de comércio
+	- Métodos de cultivo
+	- Interface gráfica (incluindo controles)
+	- Textos
+	- Texturas
+	- Áudio
+- O jogo deve fornecer quase todas as **interfaces** disponíveis, com a documentação de apoio, e projetar um conjunto de normas correspondentes — por exemplo, certos componentes devem ser chamados usando determinados métodos.
+- O jogo **não deve** suportar pacotes de MOD que não sigam as normas.
+- O conteúdo dos pacotes de MOD não é restrito, mesmo que vá contra os valores do jogo.
+- O jogo deve fornecer uma **página** dedicada para ajudar os jogadores a ativar ou configurar os pacotes de MOD.
+
+### 🗂️ Resource packs
+
+- Os resource packs podem modificar os **textos**, **texturas** e **áudio** do jogo.
+- Os resource packs não fornecem — e **não podem** fornecer — novas funções ao jogo.
+- O jogo deve fornecer uma **página** dedicada para ajudar os jogadores a ativar ou configurar os resource packs.
+
+---
+
 ## 📺 Interface Visual
 
 **Animações não lineares** fluidas sempre proporcionam uma ótima experiência visual ao jogador.
 
-### Controles
+### 🎛️ Controles
 
 - Os controles podem **acionar** comportamentos de interação e eventos.
 - Os controles devem manter o mesmo estilo de design do *Today@PolarBay*.
-- Ao **pressionar**, o controle deve encolher instantaneamente e depois voltar com um efeito não linear.
+- Ao **pressionar**, o controle deve, no instante do toque, encolher tendo o centro da interface como centro de escala e, em seguida, voltar com um rebote não linear.
 - Os controles podem ter **posição** e **tamanho** personalizados.
 
-### Cartões
+### 🃏 Cartões
 
 - Os cartões não podem ser **interagidos**.
 - Os cartões devem manter o mesmo estilo de design do *Today@PolarBay*.
 - Os cartões servem para exibir um fundo relativamente **organizado**, como a tela da mochila.
 
-### Tela verde protetora dos olhos
+### 🟢 Tela verde protetora dos olhos
 
 - Como o jogador precisa **fixar os olhos** na **bóia** por **muito tempo** durante a **pesca**, uma **tela verde protetora dos olhos** foi especialmente projetada.
 - A tela verde protetora **cobre a tela inteira** de tempos em tempos para **forçar o descanso** do jogador.
-- O **intervalo** e a **duração da cobertura** da tela verde protetora podem ser ajustados ou ligados/desligados nas configurações.
+- O **intervalo** e a **duração da cobertura** da tela verde protetora podem ser ajustados ou **desativados** nas configurações.
 - A tela verde protetora exibe o conteúdo das **cartas** das **garrafas à deriva** que o jogador já coletou.
 
-### Esquemas de cores
+### 🌗 Esquemas de cores
 
 - O jogo pode ter **dois** esquemas de cores embutidos: o branco e o preto.
 - A **troca** entre o branco e o preto pode ocorrer de acordo com:
@@ -540,12 +615,12 @@ Este melão está maduro?
 	2. O dia e a noite do jogo.
 	3. O ajuste manual do jogador na tela de configurações.
 
-### Efeitos de partículas
+### 🎆 Efeitos de partículas
 
 - Os efeitos de partículas são gerados por **eventos especiais**, como o barco navegando na superfície da água.
 - Os efeitos de partículas podem ter a **quantidade** ajustada e podem ser ligados/desligados nas **configurações**, para evitar problemas de desempenho.
 
-### Materiais avançados
+### 💎 Materiais avançados
 
 - Materiais avançados, ou seja, o material **acrílico**.
 - O jogador pode ativar ou desativar os materiais avançados nas **configurações**.
@@ -557,12 +632,12 @@ Este melão está maduro?
 
 O **tempo** sempre passa tão rápido que perdemos muitas coisas.
 
-### Conversão de tempo
+### ⏱️ Conversão de tempo
 
 - **Um dia** no jogo equivale a **uma hora** na vida real.
 - A proporção de conversão entre o tempo do jogo e o tempo real é **1:24**.
 
-### Faixas horárias
+### 🕐 Faixas horárias
 
 - O **dia** e a **noite** do jogo duram **30 minutos** cada.
 - Em **um dia** (60 minutos), as faixas horárias do jogo são divididas assim:
@@ -579,7 +654,7 @@ O **tempo** sempre passa tão rápido que perdemos muitas coisas.
 
 **Salve** o **progresso atual** do jogo para que nossos peixes e sal fiquem seguros.
 
-### Salvar
+### 🗃️ Salvar
 
 - Na página de **salvamento**, o jogador pode tocar no botão **obter save** para **salvar** o progresso atual.
 - Na página de **salvamento**, o jogador pode tocar no botão **carregar save** para **carregar** um save salvo.

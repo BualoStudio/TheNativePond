@@ -3,6 +3,9 @@
 > [!NOTE]
 > In dieser Datei werden alle Briefe gespeichert, die im Spiel erscheinen.
 
+> [!WARNING]
+> Der Inhalt dieser Datei wurde weder bewertet noch überarbeitet und kann Inhalte enthalten, die gegen die Werte des Spiels verstoßen.
+
 1. Sterne schmücken den Himmel, ein sanfter Wind streicht durch die Stille. In dieser stillen Nacht steigt von selbst tausendfache Schönheit im Herzen auf.
 2. In dem Moment, in dem du beginnst, dem Licht nachzujagen, wirst du selbst zum Licht.
 3. Hallo. Ich weiß nicht, wer du bist, und ich habe auch kein kostbares Geschenk für dich. Aber ich kann dir eine kleine rote Blume schenken und ein Lächeln. Bleib jeden Tag froh ~(◕ᴗ◕✿)!
@@ -45,4 +48,25 @@
 40. Stell dich deinem früheren Selbst offen, und verabschiede dich von diesem Selbst. Das ist ein Teil des Erwachsenwerdens.
 41. Das Lachen und die Tränen des Tages fließen im Traum zu einer neuen Geschichte zusammen. Wirf das Gestern in den Traum – heute ist wieder ein brandneuer Tag.
 42. Gefühle sind wie die Gezeiten – sie kommen und gehen. Doch du bist das Ufer, das immer hier ist.
-43. Egal was passiert, in deinem Herzen schlagen noch immer diese 2 Milliarden glühenden Zellen für dich.
+43. In einem Biologie-Übungsheft steht dieser Satz: Selbst wenn dich die ganze Welt im Stich lässt, denk daran – in deinem Körper leben noch Milliarden von Zellen, die nur für dich da sind.
+44. Wer nur fantasiert, ohne zu handeln, wird die Freude am Ernten nie erleben.
+45. Standhaftigkeit im Ziel ist eine der unentbehrlichsten Kraftquellen des Charakters und zugleich eine der schärfsten Waffen des Erfolgs. Ohne sie irren selbst Genies vergeblich durch die widersprüchlichen, ungewissen Irrwege des Lebens.
+46. Die Jugend ist wie ein Behälter, gefüllt mit Unruhe, Rastlosigkeit, Unreife und gelegentlicher Verrücktheit.
+47. Gefährten müssen nicht bis zum Ende mitgehen – wenn der andere auf einem Stück des Weges helles Lachen in dein Leben gebracht hat, ist das schon genug.
+48. Erwarte nichts – dann schmerzt der Verlust nicht, und was du bekommst, ist eine Überraschung.
+49. Hindernisse und Niederlagen sind die verlässlichsten Trittsteine auf dem Weg zum Erfolg. Wer bereit ist, sie zu untersuchen und zu nutzen, kann aus Misserfolgen Erfolg wachsen lassen.
+50. Wer Geld verliert, verliert wenig; wer Gesundheit verliert, verliert viel; wer den Mut verliert, verliert alles.
+51. Wer sich davor fürchtet zu leiden, leidet bereits – an eben dieser Furcht.
+52. Der Glaube an den Erfolg wirkt im menschlichen Geist wie ein Wecker – er weckt dich, wann immer du ihn brauchst.
+53. Fehler sind ein vorübergehendes Bedauern, doch Verpassen ist ein Bedauern für immer!
+54. Blicke ich auf die Jahre des stillen Erduldens zurück, erkenne ich: Was mir einst unaussprechlich schwer erschien, war doch nur ein Tropfen im Meer. Das Leben hat mir nicht die Mühen geschenkt, sondern das Wachstum – die Kunst, das Schwere leicht zu tragen, und die Fähigkeit, all das loszulassen, was ich einst nicht loslassen konnte.
+55. Was man „das irdische Leben“ nennt, ist ein Wort, das mal warm und mal kühl sein kann; und was man „die Welt“ nennt, ein Moment, der mal hell und mal dunkel ist.
+56. In dieser Welt lässt sich alles planen – nur dein Herz nicht. In dieser Welt ist es nicht schlimm, irgendwen zu verlieren – nur dich selbst nicht. Vor dir liegt noch ein sehr, sehr langer Weg, den du allein gehen musst, aus eigener Kraft, mit deinen eigenen Fähigkeiten. Auf diesem Weg ist die Geschichte ein Augenblick von gestern; entlang des langen Pfades gleicht sie einem Traum, bis in alle Ewigkeit.
+57. Die Welt schuldet dir keine Gegenleistung für deine Mühen, und sie verlangt nicht, dass andere dich so behandeln, wie du sie behandelst. Das Schwierigste im Leben ist es, Demut und Gelassenheit zu bewahren – und diese Demut entspringt der Aufrichtigkeit im Inneren und der beharrlichen Anstrengung.
+58. Andere geben sich an Orten Mühe, die du nicht siehst; dort, wo du sie siehst, wirken sie genauso lässig wie du und meckern genauso wie du – und nur du glaubst, dass das alles echt ist, und nur du allein machst am Ende weiter, ohne dich anzustrengen.
+59. Niemand ist so, wie du ihn siehst: Jeder ist auf der einen Seite ein reiner, guter Engel mit Flügeln und auf der anderen Seite ein Dämon mit grimmiger Miene und einer Dämonengabel. Ihre Verletzlichkeit und Ängstlichkeit, ihre Eitelkeit und Feigheit, die sie nicht zugeben wollen – all das versteckt sich hinter dem Glanz. Auch sie kennen Zeiten der Not, auch sie haben das Leid der Welt gesehen, auch sie zögern vor Entscheidungen, auch sie haben dummerweise Chancen verstreichen lassen, und auch sie erinnern sich plötzlich daran, wie andere sie einst behandelt haben, während sie ihre Untergebenen mit finsterem Blick anschnauzen.
+60. Die Mühen und Rückschläge, denen wir uns stellen müssen, werden nicht weniger, nur weil wir schon genug durchgemacht haben. Der Himmel erbarmt sich deiner Not nicht – er legt dir nur eine Prüfung nach der anderen in den Weg, um deinen Willen zu stählen. Wie bei Tang Seng auf seiner Reise nach Westen: Wer die wahren Schriften erlangen will, darf nicht an Rückkehr denken. Es gibt keinen anderen Weg zurück – du kannst nur weiterkämpfen, bis zum Ende.
+61. Sei dem Leben gegenüber ruhig ein wenig wagemutiger – du wirst es ohnehin irgendwann verlieren. Wenn es auf dieser Welt wirklich Wunder gibt, dann sind sie nur ein anderer Name für Anstrengung. Niemand kann dich retten – am Ende rettet dich nur du selbst. Die Freude über die Rettung in letzter Not und das Glück, eine Katastrophe überlebt zu haben, sind nicht das von dir erträumte „Karma-Gleichgewicht“. Vor dieser Welt ist das Leben eine überaus konkrete und lästige Ranke – erst wenn du all ihre süßen und bitteren Seiten gekostet hast, erkennst du ihren letzten Nachgeschmack.
+62. Gute Laune ist ein Gefühlszustand: Wer gute Laune hat, hat auch Selbstvertrauen – und damit Jugend und Gesundheit. Und damit auch die Sehnsucht nach dem künftigen Leben, voller Erwartung. Also gönnen wir uns gute Laune, denn zu leben ist schon Glück und Freude.
+63. Auf dem langen Marsch durch die Jahre hat jeder seine eigene Geschichte. Wer die Dinge gelassen sieht, dessen Herz wird klar und schön; wer sie loslässt, dessen Stimmung wird hell und freundlich. Bist du müde, raste ein wenig und tanze mit dem Wind; bist du unruhig, werde still und blicke den Blumen und Gräsern in die Augen; bist du in Eile, nimm dir Zeit und lächle dich selbst an.
+64. Die Schönheit des Lebens liegt nicht in seinem Glanz, sondern in seiner Gelassenheit; das Berührende am Leben liegt nicht in seiner Leidenschaft, sondern in seiner Ruhe. Nur in der Gelassenheit zeigt sich die Weite des Lebens; nur in der Ruhe zeigt sich seine Tiefe.

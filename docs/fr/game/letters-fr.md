@@ -3,6 +3,9 @@
 > [!NOTE]
 > Ce fichier sert à archiver toutes les lettres qui apparaissent dans le jeu.
 
+> [!WARNING]
+> Le contenu de ce fichier n'a pas été évalué ni révisé : il peut contenir des éléments contraires aux valeurs du jeu.
+
 1. Les étoiles parsèment le ciel, une brise fraîche caresse le silence. Dans cette nuit paisible, mille beautés viennent naturellement se dessiner dans ton cœur.
 2. À l'instant où tu commences à courir après la lumière, tu deviens la lumière.
 3. Bonjour. Je ne sais pas qui tu es, et je n'ai aucun cadeau précieux à t'offrir. Mais je peux t'offrir une petite fleur rouge, et un sourire. Sois heureux chaque jour~ (◕ᴗ◕✿) !
@@ -45,4 +48,25 @@
 40. Affronte sereinement la personne que tu étais, et fais tes adieux à ce toi-même. C'est une étape de la croissance.
 41. Les rires et les larmes du jour se fondent dans le sommeil en une histoire nouvelle. Laisse hier dans tes rêves : aujourd'hui est un jour tout neuf.
 42. Les émotions sont la marée : elles viennent, puis repartent. Et toi, tu es la rive — toujours là, toujours présente.
-43. Quoi qu'il arrive, il reste au fond de toi ces 2 milliards de cellules ardentes qui battent pour toi.
+43. Dans le cahier d'exercices de biologie, il y a une phrase : même si le monde entier t'abandonnait, souviens-toi que tu portes en toi des milliards de cellules qui ne vivent que pour toi.
+44. Celui qui ne fait que rêver sans agir ne goûtera jamais la joie de récolter les fruits.
+45. La fermeté de l'objectif est l'une des sources de force les plus indispensables du caractère, et l'une des armes du succès. Sans elle, même un génie s'épuise en vain dans les méandres contradictoires de l'indécision.
+46. La jeunesse est comme un récipient, rempli d'inquiétude, d'agitation, de verdeur et d'une folie occasionnelle.
+47. Un compagnon de route n'est pas forcément là jusqu'au bout : si, sur un bout de chemin, il t'a apporté des éclats de rire francs, cela suffit déjà.
+48. Sans attentes, une perte ne fait pas souffrir, et une prise devient une surprise.
+49. Les obstacles et les échecs sont les marches les plus sûres vers le succès : à force de les étudier et de les utiliser, on fait naître le succès de l'échec.
+50. Qui perd de l'argent perd peu ; qui perd la santé perd beaucoup ; qui perd le courage perd tout.
+51. Celui qui craint de souffrir souffre déjà, à cause de sa propre peur.
+52. La conviction du succès agit dans l'esprit comme un réveil : elle te tire du sommeil quand tu en as besoin.
+53. Une faute n'est qu'un regret passager, mais une occasion manquée est un regret éternel !
+54. Quand je repense aux années d'endurance que j'ai traversées, je me rends compte que les souvenirs que je jugeais alors impossibles à raconter ne sont qu'une goutte d'eau dans l'océan. Ce que la vie m'a donné, ce ne sont pas ces difficultés, mais la croissance : apprendre à soulever les poids du monde avec légèreté, et à laisser enfin aller tous ces passés que je n'arrivais pas à lâcher.
+55. Ce que l'on appelle la « fumée des foyers humains » est un mot qui peut être tantôt chaleureux, tantôt indifférent ; ce que l'on appelle le monde des humains, ce sont des instants tantôt lumineux, tantôt sombres.
+56. Dans ce monde, tout peut s'arranger, sauf ton cœur. Perdre qui que ce soit n'est ni effrayant ni grave, sauf te perdre toi-même. La route qui s'étend devant toi, encore très, très longue, tu devras la parcourir seul, compter sur toi-même, la mener à bien par tes propres forces. Sur cette route, les histoires ne sont que des instants d'hier ; en avançant le long du chemin interminable, comme dans un rêve, jusqu'à l'éternité.
+57. Le monde ne te doit pas de récompense pour tes efforts, et il n'exige pas des autres qu'ils te traitent comme tu les traites. Ce qu'il y a de plus difficile dans la vie, c'est de préserver une part d'humilité et de sérénité — et cette humilité naît de la sincérité du cœur et d'un effort solide et constant.
+58. Les autres s'efforcent en secret là où tu ne les vois pas ; là où tu les vois, ils paraissent aussi nonchalants que toi et se plaignent tout autant que toi. Toi seul prends ces apparences pour argent comptant, et au final, tu es le seul à ne toujours pas chercher à progresser.
+59. Personne n'est tel que tu le vois : chacun est à la fois un ange pur et bienveillant aux ailes déployées, et un démon au visage grimaçant brandissant une tête de yaksa. La fragilité et la timidité de leur cœur, la vanité et la lâcheté qu'ils ne veulent pas reconnaître, tout se cache sous ce vernis éclatant. Eux aussi ont connu des jours difficiles, eux aussi ont vu les peines du monde, eux aussi hésitent devant un choix, eux aussi ont stupidement laissé passer des occasions, et eux aussi, lorsqu'ils jettent un regard glacial à leurs subordonnés, se souviennent soudain qu'on les a traités de la même façon autrefois.
+60. Les épreuves et les revers ne diminuent pas, quel que soit leur nombre ; le ciel n'a pas pitié de ta détresse, il ne fait qu'aligner les difficultés les unes après les autres pour forger ta volonté. Comme Tang Seng partant chercher les soutras sacrés vers l'Ouest : si tu veux obtenir les véritables écritures, renonce à l'idée de revenir en arrière. À part t'acharner jusqu'au bout, tu n'as aucune autre issue.
+61. Face à la vie, autant oser prendre des risques : de toute façon, tu finiras par la perdre. S'il existe vraiment un miracle en ce monde, ce n'est qu'un autre nom pour l'effort. Personne ne peut te sauver ; au bout du compte, toi seul peux te sauver. La joie de renaître au bord du gouffre, le soulagement d'avoir échappé au pire — tout cela n'est pas la « loi de conservation du karma » que tu imagines. Devant ce monde, la vie est une liane terriblement concrète et enchevêtrée ; ce n'est qu'en en goûtant l'aigre, le doux, l'amer et le piquant que tu en découvres le dernier parfum.
+62. L'humeur est un état émotionnel : possède une bonne humeur, et tu possèdes la confiance en soi, puis la jeunesse et la santé, et l'envie d'une vie future, pleine d'attentes. Gardons une bonne humeur, car être en vie, c'est déjà une chance et une joie.
+63. En cheminant à travers les années, chacun a son histoire. Prends les choses avec détachement, et ton esprit s'épanouira ; lâche prise, et ton cœur s'illuminera. Quand tu es fatigué, fais une pause et danse avec la brise ; quand tu es contrarié, fais silence un instant et contemple les fleurs et les herbes ; quand tu es pressé, ralentis et souris à toi-même.
+64. La beauté de la vie ne tient pas à son éclat, mais à sa sérénité ; ce qui émeut dans la vie, ce n'est pas sa passion, mais son calme. Seule la sérénité révèle l'immensité de la vie ; seul le calme révèle sa profondeur.

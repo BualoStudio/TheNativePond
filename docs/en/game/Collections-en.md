@@ -8,6 +8,7 @@
 
 | Collectible | Category | Description | Interaction Dialogue |
 | ----- | ---- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Drift Bottle | Common Collectible | A drift bottle washed in from who knows where, but the slightly yellowed letter paper inside fills you with determination...... (the handwriting grows increasingly blurred from here, until it can no longer be read) | |
 | Tin Frog | Common Collectible | A toy frog of ordinary appearance, already bearing the marks of time upon it. | |
 | Zongzi Ornament | Decoration | A zongzi ornament sewn entirely by hand; the craftsmanship looks a little rough. | The zongzi is racking its brain over this interaction text… |
 | Pocket Watch | Memory Fragment | An old-fashioned pocket watch. Opening it reveals a black-and-white photograph, and you can faintly make out something… | |
@@ -34,3 +35,8 @@
 | Crystal Ball | Decoration | A crystal-clear crystal ball, with a string of Christmas memories kept inside. | This Christmas tree seems to be waving at you. |
 | Bookmark | Common Collectible | An exquisitely crafted bookmark, painted with a pattern of osmanthus blossoms. | This bookmark marks the moments of your life at The Native Pond. |
 | Dancing Music Box | Decoration | Once wound up, it plays beautiful music and performs a light, graceful dance. | |
+| 5V1A Power Adapter | Common Collectible | A small, square white block with the words "Power Adapter 5V1A" on it. Once, Apple fast-charging was a joke. | |
+| Seaweed | Common Collectible | Vibrant green seaweed — the most ordinary kind, growing vigorously. But it grew too tall, got caught on a fish hook, and was brought up out of the water by you. | |
+| Dictionary | Decoration | A thick, heavy dictionary whose pages have been soaked until blurred, but the two characters for "dictionary" on the cover are still clearly legible, reminding you of the countless nights you spent memorising words alone. | Every time you open this thick dictionary, you automatically start reciting "abandon, abandon, abandon......" and then you fall asleep. / So I still haven't finished memorising this ancient dictionary?! |
+| Film Reel | Common Collectible | An old medium for storing images; you can still make out some pictures inside. Unfortunately, there is no device left to play this reel. | |
+| Building Blocks | Decorative Piece | A castle-like structure built from many small blocks, its craftsmanship rivalling the real thing. | "Who has that much free time?" you can't help but remark. |

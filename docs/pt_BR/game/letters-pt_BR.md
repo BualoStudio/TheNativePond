@@ -3,6 +3,9 @@
 > [!NOTE]
 > Este arquivo serve para guardar todas as cartas que aparecem no jogo.
 
+> [!WARNING]
+> O conteúdo deste arquivo não passou por avaliação nem revisão e pode conter conteúdo que vá contra os valores do jogo.
+
 1. As estrelas salpicam o céu, e uma brisa suave acaricia o silêncio. Nesta noite serena, mil belezas vêm florescer dentro do coração.
 2. No instante em que você começa a perseguir a luz, você se torna a luz.
 3. Olá. Eu não sei quem você é, e não tenho nenhum presente precioso para lhe dar. Mas posso lhe dar uma florzinha vermelha e um sorriso. Que você seja feliz todos os dias~(◕ᴗ◕✿)!
@@ -45,4 +48,25 @@
 40. Encare com serenidade quem você foi um dia, e despeça-se desse eu. Isso faz parte do amadurecer.
 41. As risadas e lágrimas do dia se reúnem no sonho em uma nova história. Que tal deixar o ontem para trás, no sonho? Hoje é um dia inteiramente novo.
 42. As emoções são como a maré: elas vêm e vão. E você é a margem — sempre presente, sempre ali.
-43. Não importa o que aconteça, lá no fundo do seu coração, ainda há 2 bilhões de células ardentes batendo por você.
+43. No caderno de exercícios de biologia há uma frase: mesmo que o mundo inteiro te abandone, lembre-se de que você ainda carrega bilhões de células que vivem apenas por você.
+44. Quem apenas sonha e não age jamais sentirá a alegria de colher os frutos.
+45. A firmeza de propósito é uma das fontes de força mais necessárias do caráter e uma das armas do sucesso. Sem ela, até o gênio se perde em vão pelos caminhos indecisos da contradição.
+46. A juventude é como um recipiente cheio de inquietação, agitação, imaturidade e uma loucura ocasional.
+47. Um companheiro não precisa estar com você até o fim; se em algum trecho do caminho ele lhe trouxe risadas francas, isso já basta.
+48. Não espere nada: se perder, não ficará triste; se ganhar, será uma surpresa.
+49. Obstáculos e fracassos são os degraus mais seguros no caminho para o sucesso; quem se dispõe a estudá-los e usá-los consegue cultivar o sucesso a partir do fracasso.
+50. Quem perde dinheiro perde pouco; quem perde a saúde perde muito; quem perde a coragem perde tudo.
+51. Quem teme o próprio sofrimento já está sofrendo por causa do próprio medo.
+52. A crença no sucesso age na mente como um despertador: acorda você quando você mais precisa.
+53. Errar é um arrependimento passageiro; perder a oportunidade é um arrependimento eterno!
+54. Quando, depois de atravessar os anos de silêncio e paciência, olho para trás, percebo que as lembranças que um dia pareceram difíceis de contar não passam de uma gota no oceano. A vida não me deu essas dificuldades: deu-me crescimento, a arte de carregar o pesado com leveza e a capacidade de soltar, de uma vez, tudo aquilo que um dia não consegui deixar ir.
+55. A tal "vida de todo dia" é uma expressão que ora é quente, ora é fria; e o tal mundo humano é feito de momentos ora iluminados, ora escuros.
+56. Neste mundo, tudo pode ser planejado — menos o seu coração. Perder qualquer pessoa neste mundo não é tão terrível, menos perder a si mesmo. Daqui em diante, ainda há um caminho muito, muito longo para trilhar sozinho, contando apenas com as próprias forças e habilidades. Nessa estrada, as histórias são instantes de ontem; ao longo do caminho comprido, tudo parece um sonho, até o infinito.
+57. O mundo não é obrigado a retribuir o seu esforço, nem exige que os outros o tratem da mesma forma como você os trata. O mais difícil para quem vive neste mundo é manter a humildade e a serenidade — e essa humildade vem da sinceridade do coração e do esforço sólido.
+58. Os outros se esforçam em silêncio onde você não vê; onde você vê, eles também parecem desleixados como você e também reclamam — e só você acredita que isso é verdade, e no fim só você continua sem se dedicar.
+59. Ninguém é exatamente o que você vê: todos têm, de um lado, o anjo alado, puro e bondoso, e, do outro, o demônio de feições ferozes empunhando um tridente. A fragilidade e o medo que escondem no peito, a vaidade e a covardia que não querem admitir — tudo isso fica escondido sob a fachada brilhante. Eles também já passaram por aperto, também já viram as dores do mundo, também hesitaram diante de escolhas, também já abriram mão de oportunidades por tolice e, ao franzirem a testa para um subordinado, de repente se lembram de que alguém já os tratou assim.
+60. Os sofrimentos e reveses que enfrentamos não diminuem por mais que os tenhamos enfrentado; o céu não se compadece da sua tragédia — ele apenas arma um obstáculo atrás do outro para temperar a sua vontade. Como o monge Tang na peregrinação ao Oeste: se quer alcançar os sutras verdadeiros, não alimente a ideia de voltar atrás. Além de seguir firme até o fim, você não tem outra saída.
+61. Diante da vida, que tal se arriscar com ousadia? Afinal, você vai perdê-la de qualquer jeito. Se existe um milagre neste mundo, ele é apenas outro nome para o esforço. Ninguém pode salvar você — no fim, só você mesmo. A alegria de renascer no desespero e a sorte de escapar da catástrofe não são o tal "equilíbrio de carma" que você imagina. Diante do mundo, a vida é uma trepadeira extremamente concreta e complicada; só sentindo seus amargos e doces é que você conhece o seu último perfume.
+62. O humor é um estado emocional: com um bom humor, você tem autoconfiança; com autoconfiança, tem juventude e saúde; e tem também o anseio por uma vida futura, cheia de expectativa. Tenhamos um bom humor, pois estar vivo já é sorte e alegria.
+63. Ao caminhar pelos anos, cada um tem sua própria história; é quando se desapega que a mente fica serena e bela, e quando se abre o coração que o ânimo fica radiante. Quando cansar, descanse um pouco e dance com a brisa; quando se aborrecer, aquiete-se e contemple as flores; quando se apressar, desacelere e sorria para si mesmo.
+64. A beleza da vida não está no seu esplendor, mas na sua serenidade; o que comove na vida não é a paixão, e sim a calma. Só na serenidade se vê a vastidão da vida; só na calma se vê a sua profundidade.

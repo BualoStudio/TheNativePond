@@ -1,4 +1,4 @@
-# The Native Pond Vaatler Listesi
+﻿# The Native Pond Vaatler Listesi
 
 ![flatbreadlist_background](/background/tr/FBL-docs-bg-tr.png)
 
@@ -15,12 +15,12 @@
 
 Akıcı hareket ve iyi bir kamera açısı, oyunun oynanabilirliğini garantileyen en önemli unsurlardır. **Karakter mutlaka hareket edebilmeli!**
 
-### Hareket
+### 🚶 Hareket
 
 - Oyuncu, karakteri **harita** üzerinde hareket ettirir ve özel konumlarda (ör. balık tutma platformu) bir tuşa basarak ya da özel konumun küçük koordinat alanına girerek o **özel konuma** geçiş animasyonunu **tetikler**.
 - Oyunla dokunmatik butonlar (mobil), klavye (masaüstü) ve oyun kumandası aracılığıyla **etkileşime** girilir; tuş atamaları özelleştirilebilir.
 
-### Kamera Açısı
+### 🎥 Kamera Açısı
 
 - Haritanın özel olmayan bölgelerinde **üçüncü şahıs** kamera açısı kullanılır.
 - Haritanın özel bölgelerinde (ör. balık tutma platformu) **birinci şahıs** kamera açısı kullanılır ve o özel bölgenin içi (varsa) gösterilir.
@@ -32,19 +32,19 @@ Akıcı hareket ve iyi bir kamera açısı, oyunun oynanabilirliğini garantiley
 
 Masaya kapanıp **harita** yap! Haritada gerçekten her şey var!
 
-### Yakınlaştırma ve Yön
+### 🧭 Yakınlaştırma ve Yön
 
 - Harita, kamera açısıyla birlikte **dönmez**.
 - Harita **yakınlaştırılıp uzaklaştırılabilir**.
 - Harita "**kuzey yukarı, güney aşağı, batı solda, doğu sağda**" yön mantığını izler.
 
-### Sınırlar
+### 🚧 Sınırlar
 
 - Oyun haritasının **sınırları** vardır; yani oyuncu **haritanın kenarından** geçemez.
 - Oyuncu sınırı aşmaya çalıştığında oyun, oyuncuyu **zorla geri çeker** ve şu metni gösterir: "* Tanıdık bir his yükseliyor — sanki şunu duyuyorsun: 'Önümüzdeki bölgeyi sonra keşfedelim!' Sonra keşfedemeyeceğini bilsen de yine de denemek istiyorsun."
 - Sınırlar belirgin **doğal engeller** (ör. büyük dağlar) ya da **insan yapımı çitler** (ör. Huizhou tarzı mimarinin duvarları) olabilir.
 
-### Hava Durumu
+### ⛅ Hava Durumu
 
 - Hava durumunun **türleri** şunlardır:
 	- Güneşli.
@@ -56,7 +56,7 @@ Masaya kapanıp **harita** yap! Haritada gerçekten her şey var!
 	2. Bir bölgenin iklim özelliklerine benzerliğe göre.
 	3. Tamamen rastgele bir olasılığa göre.
 
-### Mevsimler
+### 🍂 Mevsimler
 
 - Mevsimler her **90 saatte** bir değişir.
 - Mevsimlerin **türleri** şunlardır:
@@ -65,26 +65,39 @@ Masaya kapanıp **harita** yap! Haritada gerçekten her şey var!
 	- Sonbahar.
 	- Kış.
 
-### Fotoğraf Makinesi
+### 📷 Fotoğraf Makinesi
 
 - Oyuncu, herhangi bir konumda (GUI arayüzü hariç) klavyede bir tuşa basarak, bir butona tıklayarak ya da kumandada bir tuşa basarak **fotoğraf çekebilir**.
 - **Fotoğraf çekerken** oyun, çekimi belirtmek için tam ekran **beyaz ışık** gösterir. Bu nedenle oyunun başlangıç ekranına **ışığa duyarlı epilepsi** uyarı ekranı eklenmesi gerekebilir.
 - **Fotoğraf çekerken** oyun, ekrandaki tüm öğeleri (GUI öğeleri hariç) otomatik olarak **yakalar** ve bir **çerçeve** ekler.
 - Oyun, fotoğrafı paylaşabilmen için **belirlenen klasöre** **kaydeder**.
 
-### Balık Tutma Göleti
+### 🌍 Biyomlar
+
+- Harita öğelerinin çoğu farklı **biyomlara** dağılmıştır.
+- Biyomlar şunlardır:
+	- Ovalar
+	- Yağmur ormanı
+	- Plaj
+	- Ekili alanlar
+	- Çiçek tarlaları
+	- Gölet
+	- Dere
+	- Köy
+
+### 🐟 Balık Tutma Göleti
 
 - Balık tutma göleti, oyunun en temel özel bölgesidir; **balık tutma platformu**, **gölet** ve **küçük tekne**den oluşur.
 
 #### Balık Tutma Platformu
 
-- Göletin en **güney** ucunda bulunur.
+- Göletin en **güney** ucunda, **plaj** biyomunda bulunur.
 - Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; karakter oturma pozisyonuna geçer ve o özel bölgenin görsel arayüzü gösterilir.
 - Balık tutma platformu **balık tutmak** için kullanılır.
 
 #### Gölet
 
-- Haritanın en **kuzey** ucunda bulunur.
+- Haritanın en **kuzey** ucunda, **gölet** biyomunda bulunur.
 - Oyuncu bu özel bölgeye **girdiğinde** karakter **yüzme** durumuna geçer.
 
 #### Küçük Tekne
@@ -93,51 +106,68 @@ Masaya kapanıp **harita** yap! Haritada gerçekten her şey var!
 - Oyuncu bu özel bölgeye **girdiğinde** karakter **sürüş** durumuna geçer ve o özel bölgenin görsel arayüzü gösterilir.
 - Oyuncu, küçük tekneyle **gölette** gezinebilir.
 
-### Çadır
+### ⛺ Çadır
 
-- Haritanın ortasının hafif **güneybatısında** bulunur.
+- Haritanın ortasının hafif **güneybatısında**, **ova** biyomunda bulunur.
 - Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; o özel bölgenin görsel arayüzü gösterilir.
 - Çadır, **kampın** kalbidir.
 - Çadırın **içi** ve **boyutu**, Robinson Crusoe'daki çadırın tasarımından esinlenebilir.
 
-### Tarla
+### 🌾 Tarla
 
-- Tarla, çadırın **güneydoğu** tarafındadır.
+- Tarla, çadırın **güneydoğu** tarafındadır, **ekili alan** biyomundadır.
 - Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; o özel bölgenin görsel arayüzü gösterilir.
 - Tarla **ekim** için kullanılır.
 
-### Pazar
+### 🏪 Pazar
 
-- Pazar, haritanın **doğu**sundadır.
+- Pazar, haritanın **güney**indedir, **köy** biyomundadır.
 - Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; o özel bölgenin görsel arayüzü gösterilir.
 - Pazar **alışveriş** için kullanılır.
 
-### Ağaç
+### 🌳 Kadim Ağaç
 
-- Çadırın **güneydoğusunda** bulunur.
+- Çadırın **güneydoğusunda**, **ova** biyomunda bulunur.
 - Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; karakter oturma pozisyonuna geçer.
 - Ağaçta bazen (ör. sonbaharda) **elmalar** belirir. Elmalar, oyuncu tarafından **uzun bir tahta sopayla** düşürülüp **toplanabilir**.
 - Oyuncu **ağacın** altında bir süre (yaklaşık 1 dakika) durduğunda oyun, "[W]'ye basılı tutarak meditasyona başla" yüzen butonunu gösterir; oyuncu W'ye bastığında, butona tıkladığında ya da kumandada bir tuşa bastığında **meditasyona** girer. Oyuncu **meditasyon** yaparken oyun, tam ekran **görsel efektler** (çeşitli fizik formülleri) gösterir ve oyuncunun **elma** tarafından vurulma ihtimali vardır.
+- Kadim ağaçta **kadim çiçekler** (geçici ad) açabilir; kadim çiçekler ağacın dallarından süzülerek düşer. Oyuncu kadim çiçeği yerden alıp **nektarını emebilir**; %50 ihtimalle **tatlı mı tatlı nektar** emebilir.
 
-### Kamp Ateşi
+### 🔥 Kamp Ateşi
 
-- Çadırın **doğu**sunda, çok uzak olmayan bir yerde bulunur.
+- Çadırın **doğu**sunda, çok uzak olmayan bir yerde, **ova** biyomunda bulunur.
 - Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; o özel bölgenin görsel arayüzü gösterilir.
 - Kamp ateşi **yakılabilir** ve ışık sağlar.
 - Kamp ateşi **yemek pişirmek** için kullanılabilir.
 
-### Sihirli Deniz Kabuğu
+### 📮 Posta Kutusu
+
+- Çadırın **güney** tarafındadır, **köy** biyomundadır.
+- Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; o özel bölgenin görsel arayüzü gösterilir.
+- Posta kutusu **posta alıp göndermek** için kullanılır.
+
+### 🐚 Sihirli Deniz Kabuğu
 
 - Oyuncu, su kenarındaki **kumsalda** **sihirli deniz kabuğunu** alabilir.
 - Oyuncu sihirli deniz kabuğunu **aldığında** karakter üfleme durumuna geçer ve kamera açısı otomatik olarak yakınlaşır. Bu sırada oyuncu hareket edemez. Aynı zamanda bu özel eşyanın görsel arayüzü gösterilir.
 - Sihirli deniz kabuğu, oyuncunun çalabileceği 7 **tona** sahiptir.
 - Sihirli deniz kabuğunun birden fazla **çeşidi** vardır; farklı çeşitlerin **tınıları** farklıdır.
 
-### Posta Kutusu
+### 🍄 Mantarlar
 
-- Çadırın **güney** tarafındadır.
-- Oyuncu bu özel bölgeye **girdiğinde** kamera açısı otomatik olarak yakınlaşır ve birinci şahıs açıya geçer; o özel bölgenin görsel arayüzü gösterilir.
-- Posta kutusu **posta alıp göndermek** için kullanılır.
+- Mantarlar **yağmur ormanı** biyomunda bulunur ve **zehirli mantarlar** ile **zehirli olmayan mantarlar** olarak ikiye ayrılır.
+- Mantarlar **yağmurlu** ve **fırtınalı** havalarda çoğalır.
+- Oyuncu, mantarların çoğalmasına yardımcı olmak için onlara hafifçe vurabilir; bir mantar yalnızca bir kez çoğalmaya yardımcı olur, ama vurmaya devam edilebilir.
+- Oyuncu mantarlarla etkileşime girdiğinde (hafifçe vurma) mantarlar rahatlatıcı bir **ses efekti** çıkarır; farklı mantarların tonları farklıdır.
+- Mantarlar oyuncu tarafından **taşınabilir** (yeri değiştirilebilir).
+- Oyuncu, mantarları dizip birleştirerek **enstrümanlar** yapabilir.
+
+### ✨ Ateş Böcekleri
+
+- Ateş böcekleri, yağmur ormanı biyomunun **gece** saatlerinde belirir.
+- Ateş böcekleri kendiliğinden parlar ve yağmur ormanı ile yakın biyomlarda rastgele uçuşur.
+- Oyuncu, ateş böceklerini **denize atılmış bir şişeye** koyup kendine ışık sağlayabilir.
+- Ateş böceği şişesinin ışığı yalnızca 3 gün dayanır.
 
 ---
 
@@ -145,7 +175,7 @@ Masaya kapanıp **harita** yap! Haritada gerçekten her şey var!
 
 Oyuncu, **balık tutma platformunda** **olta** kullanarak balık tutabilir.
 
-### Türler
+### 🐠 Türler
 
 - Oyunun **balık tutma göleti**nde hem **deniz balığı türleri** hem **tatlı su balığı türleri** yakalanabilir. Balıkların yanı sıra **koleksiyonlar** da yakalanabilir.
 	1. Bu, oyuncunun seçtiği **balık tutma platformuna** göre belirlenebilir (ör. deniz kenarındaki platformda yalnızca deniz balıkları, göl kenarındaki platformda yalnızca tatlı su balıkları yakalanabilir).
@@ -158,7 +188,7 @@ Oyuncu, **balık tutma platformunda** **olta** kullanarak balık tutabilir.
 	2. Sabit bir aralıktaki rastgele **olasılığa** göre.
 	3. Tamamen **rastgele** bir olasılığa göre.
 
-### Isırma Oranı
+### 🎯 Isırma Oranı
 
 Bu arada belirtelim: ısırma oranı, balığın **oltayı ısırma** olasılığıdır; balığın en sonunda yakalanma olasılığı değildir.
 
@@ -174,7 +204,7 @@ Bu arada belirtelim: ısırma oranı, balığın **oltayı ısırma** olasılı�
 	1. Oyuncunun geçmişteki ısırma oranına göre.
 	2. Tamamen rastgele bir olasılığa göre.
 
-### Yakalama Oranı
+### 🪝 Yakalama Oranı
 
 Adı üstünde: yakalama oranı, balığın en sonunda yakalanma olasılığıdır.
 
@@ -184,7 +214,7 @@ Adı üstünde: yakalama oranı, balığın en sonunda yakalanma olasılığıd�
 	- Misinanın kopma oranı.
 	- Olta iğnesinin boyutu.
 
-### Olta
+### 🎣 Olta
 
 - Olta; **kamış**, **şamandıra**, **iğne** ve **misina**dan oluşur.
 - Olta takımının her parçasının **dayanıklılığı** vardır; dayanıklılık düştükçe takımın hasar görme olasılığı artar. Olta hasar gördüğünde, hasar gören parçanın **değiştirilmesi** gerekir.
@@ -217,27 +247,27 @@ Adı üstünde: yakalama oranı, balığın en sonunda yakalanma olasılığıd�
 	- Misinanın kalitesi.
 	- Misinanın kullanım süresi ya da dayanıklılığı.
 
-### Yem
+### 🪱 Yem
 
 - Oyuncu, **ticaret sistemi**ni kullanarak yem satın alabilir; ör. sıradan yem ve kırmızı solucan.
 - Satın alınan yem toz halindeyse, toz yemin su ekleme ve yoğurma gibi adımlarla yeme dönüştürülmesi gerekir.
 - Farklı yemlerin **ısırma oranı** farklıdır.
 - Yem sarf malzemesidir; oyuncunun yemi kalmadığında ve deniz kabuğu sayısı (balık satışından kazanılanlar dahil) bir paket yem almaya yetmediğinde, oyun ertesi gün **posta kutusuna** ücretsiz ikmal bırakır.
 
-### Döküntü Yem (Groundbait)
+### 🥣 Döküntü Yem (Groundbait)
 
 - Oyuncu, **ticaret sistemi**ni kullanarak döküntü yem satın alabilir; ör. fermente soya posası ve eski mısırın şarapta bekletilmiş hali.
 - Farklı döküntü yemlerin **ısırma oranı** farklıdır.
 - Döküntü yem, ısırma oranını büyük ölçüde artırabilir.
 
-### Kafa Lambası
+### 🔦 Kafa Lambası
 
 - Oyuncu, **ticaret sistemi**ni kullanarak kafa lambası satın alabilir; ör. sıradan kafa lambası ve mavi ışıklı gece balıkçılığı lambası.
 - Farklı kafa lambalarının **ısırma oranı** ve görsel etkileri farklıdır.
 - Geceleri kafa lambası, oyuncunun su yüzeyini ve şamandırayı görmesini sağlar.
 - Geceleri kafa lambası balıkları ürkütüp ısırma oranını düşürebilir.
 
-### Koleksiyonlar
+### 🏺 Koleksiyonlar
 
 - Koleksiyonlar temel olarak **denize atılmış şişeler**, **hatıralar** ve **hikâye parçaları** olarak ayrılır.
 - Oyuncu koleksiyonları şu yollarla **elde edebilir**:
@@ -264,7 +294,7 @@ Adı üstünde: yakalama oranı, balığın en sonunda yakalanma olasılığıd�
 
 **Yiyecek** yap ve yemeyi dene!
 
-### Mutfak Gereçleri
+### 🍳 Mutfak Gereçleri
 
 - Mutfak gereçleri üç bölümden oluşur: **ocak**, **kesme tahtası** ve **mutfak aletleri**.
 
@@ -295,12 +325,12 @@ Adı üstünde: yakalama oranı, balığın en sonunda yakalanma olasılığıd�
 	- Mutfak bıçağı.
 	- Oklava.
 
-### Tarifler
+### 📜 Tarifler
 
 - Oyuncu, **tariflere** göre yiyecek yapabilir. Genel olarak tarife uyulduğunda yiyecek her zaman başarıyla yapılır.
 - Oyuncu ayrıca tarife **uymayıp** kendi yöntemini de deneyebilir.
 
-### Yiyecekler
+### 🍲 Yiyecekler
 
 - Oyuncu, tüm **yiyecek yapım sürecini** tamamladığında **yiyeceği** elde eder.
 - Oyuncu şu yiyecekleri yapabilir:
@@ -311,7 +341,7 @@ Adı üstünde: yakalama oranı, balığın en sonunda yakalanma olasılığıd�
 	- Tarif edilemez nesne (yiyecek yapımında başarısızlıkla elde edilir).
 	- Kömür (tarife uymadan yiyecek yapılmaya çalışılır ve başarısız olunursa elde edilir).
 
-### Yeme
+### 🍽️ Yeme
 
 - Oyuncu **yiyeceği** yaptıktan sonra yemeyi deneyebilir.
 - Oyuncu, ilgili **yiyeceğe** ya da **yiyeceğin bir parçasına** tıklayarak yiyebilir.
@@ -327,7 +357,7 @@ Adı üstünde: yakalama oranı, balığın en sonunda yakalanma olasılığıd�
 
 Yalnızca **çadır** güvenlik hissi verir!
 
-### Depolama
+### 📦 Depolama
 
 - **Çadırda** oyuncu, sahip olduğu **eşyaları** görüntüleyebilir.
 - Oyuncunun **sahip olduğu** eşyalar şunları içerir:
@@ -337,25 +367,38 @@ Yalnızca **çadır** güvenlik hissi verir!
 	- Ekinler.
 - Bazı eşyalar (ör. bazı koleksiyonlar) **sergilenebilir**.
 
-### Başarımlar
+### 🏆 Başarımlar
 
+- Oyuncu, belirli **koşulları** **tamamlayarak** başarımların kilidini açabilir.
+- Başarımlar oyuncuya **maddi** bir ödül vermez; oyuncuyu onurlandırmak için yalnızca bir **tamamlama sesi** çalar.
+- Başarımlar gizli olabilir. Gizli başarımlar, tamamlanmadan önce başarım sayfasında görüntülenemez.
 - **Çadırda** oyuncu, kazandığı **başarımları** görüntüleyebilir.
 
-### Yatak
+### 📍 Dönüm Noktaları
+
+- Oyuncu, dönüm noktaları sayfasında **tıklayarak** dönüm noktalarının kilidini açabilir.
+- Dönüm noktalarının oyunla ilgisi yoktur; oyuncunun **gerçek dünyadaki** deneyimlerinin oyunda bir karşılık bulması içindir.
+- Dönüm noktalarını tamamlamak için herhangi bir **oyun içi** koşul gerekmez.
+- Dönüm noktalarının kilidini açmak, oyuncunun kendi **dürüstlüğüne** dayanır; yalnızca gerçek dünyada gerçekten tamamlanan dönüm noktaları anlamlıdır.
+
+### 🛏️ Yatak
 
 - **Gün batımında** ve **gece**, oyuncu yatağa tıklayarak **uyuyabilir** ve geceyi atlayabilir.
 - Oyuncu ertesi günün **gün doğumunda** ya da **sabahında** uyanır; oyuncu **biraz daha uyumayı** seçerek uyumaya devam edebilir.
 
-### Duygu Geri Dönüşüm Kutusu
+### 🗑️ Duygu Geri Dönüşüm Kutusu
 
 - Geri dönüştürülebilir çöp kutusuna benzeyen bu kutu, oyuncunun **gerçek hayatta** yaşadığı üzücü şeyleri yazmasına, sonra kâğıdı buruşturup duygu geri dönüşüm kutusuna atmasına olanak tanır!
 
-### Günlük
+### 📓 Günlük
 
 - Oyuncu, **günlüğüne** her gün yaşadıklarını yazabilir (ister oyundaki ister gerçek hayattaki).
+- Günlük, zengin metin biçimini (Markdown sözdizimi) desteklemeli ve görseller gösterebilmelidir.
+- Günlükte gösterilen görseller yalnızca oyuncunun **çizimlerinden** ve **oyun ekran görüntülerinden** gelebilir.
 - Oyun, oyuncunun **günlüğün** belirli sayfalarını paylaşabilmesi için **belirlenen klasöre** dışa aktarmasına olanak tanır.
+- Günlükteki kâğıtlar **yırtılıp** **duygu geri dönüşüm kutusuna** atılabilir.
 
-### Albüm
+### 🖼️ Albüm
 
 - Albüm, oyuncunun **resim kâğıdına** çizdiği tüm **eserleri** gösterir.
 - Albümün tamamı, paylaşabilmesi için **belirlenen klasöre** tek bir dosya olarak dışa aktarılabilir.
@@ -366,7 +409,7 @@ Yalnızca **çadır** güvenlik hissi verir!
 
 Bu karpuz olgun mu?
 
-### Satın Alma
+### 🛒 Satın Alma
 
 - Oyuncu, **pazardan** ürün satın alabilir.
 - Pazarda oyuncu, çeşitli mesleklerden **köylülerle** konuşabilir.
@@ -381,7 +424,7 @@ Bu karpuz olgun mu?
 	- Resim kâğıdı (ör. 1:1 resim kâğıdı).
 	- Pullar.
 
-### Satış
+### 💰 Satış
 
 - Oyuncu, **pazarda** ürün satabilir.
 - Oyuncu pazarda şu **türlerde** ürün satabilir:
@@ -393,7 +436,7 @@ Bu karpuz olgun mu?
 	- Oyunun mevsimi.
 	- Sabit bir aralıktaki rastgele bir değer.
 
-### Para Birimi
+### 🪙 Para Birimi
 
 - Oyun, para birimi olarak **deniz kabuğu** kullanır.
 - Oyuncu deniz kabuğunu şu yollarla **elde edebilir**:
@@ -407,7 +450,7 @@ Bu karpuz olgun mu?
 
 **Ekin ek**, **sula ve gübrele**, sonra **hasat et**.
 
-### Ekin
+### 🌱 Ekin
 
 - Ekin dikmek için **ekin tohumu** sahibi olmak gerekir.
 - Ekin **süreci** şöyledir: toprağı düzleştir, tohumları serp, üzerini toprakla ört, sula, gübrele.
@@ -416,12 +459,12 @@ Bu karpuz olgun mu?
 	- Oyunun hava durumu.
 	- Oyunun mevsimi.
 
-### Büyüme
+### 🌿 Büyüme
 
 - Ekin büyürken oyuncu **sulamaya** ve **gübrelemeye** ara vermeden devam etmelidir.
 - Ekin, belirli aralıklarla (yaklaşık 90 saatte bir) bir sonraki **büyüme aşamasına** **geçer**.
 
-### Hasat
+### 🧺 Hasat
 
 - Ekin **tamamen olgunlaştığında** oyuncu **ekini** ve **ekin tohumlarını** hasat edebilir.
 
@@ -431,7 +474,7 @@ Bu karpuz olgun mu?
 
 Kediciğinle **sohbet et** ya da **kediyi sev** ฅ՞•ﻌ•՞ฅ.
 
-### Sohbet
+### 💬 Sohbet
 
 - Oyuncu, Cat'e **mesaj gönderebilir**.
 - Cat, oyuncuya belirli ağırlıklara göre **yanıt verir**; ağırlıklar şunlara göre belirlenebilir:
@@ -439,12 +482,12 @@ Kediciğinle **sohbet et** ya da **kediyi sev** ฅ՞•ﻌ•՞ฅ.
 	2. Tamamen rastgele bir olasılığa göre.
 - Cat, çeşitli tonlarda ve tınılarda "**Meow**" yanıtları vererek oyuncuya duygusal değer katar.
 
-### Kediyi Sevme
+### 🐾 Kediyi Sevme
 
 - Oyuncu, Cat'in **kafasına** hafifçe dokunarak kediyi sevebilir.
 - Kediyi severken Cat'in üzerinden "**Meow**" yazılı mesajlar uçar ve çeşitli tonlarda ve tınılarda "**Meow**" sesleri oyuncuya duygusal değer katar.
 
-### Hediye
+### 🎁 Hediye
 
 - Cat, ertesi sabah oyuncu uyandığında oyuncuya bir **hediye** verebilir.
 - Cat'in oyuncuya **hediye** verip vermeyeceği şunlara göre belirlenebilir:
@@ -456,7 +499,7 @@ Kediciğinle **sohbet et** ya da **kediyi sev** ฅ՞•ﻌ•՞ฅ.
 	- Deniz kabuğu.
 	- Bazı koleksiyonlar (çok küçük bir olasılıkla).
 
-### Başka Nesneler de...
+### ❓ Başka Nesneler de...
 
 - Cat'in dışında oyuncu, sohbet edebileceği ya da sevebileceği **başka nesneler** de seçebilir. Bu **başka nesneler**, **tanıtım hikâyesinde** görünen **ekip üyeleri** olabilir.
 
@@ -466,24 +509,24 @@ Kediciğinle **sohbet et** ya da **kediyi sev** ฅ՞•ﻌ•՞ฅ.
 
 Son derece gerçekçi kâğıt ve boyalarla **resim yap** ve kaydet.
 
-### Resim Kâğıdı
+### 📄 Resim Kâğıdı
 
 - Resim kâğıdı, gerçek kâğıttan farksızdır; **yayılma (akma)**, **yeniden boyama** ve **renk karıştırma** gibi işlevlere olanak tanır.
 - Oyuncu, **ticaret sistemi**ni kullanarak resim kâğıdı satın alabilir; ör. 1:1 ve 3:4 boyutunda kâğıtlar.
 
-### Palet
+### 🎨 Palet
 
 - Varsayılan olarak 8 temel renk sunulur; oyuncu **fırçayla** boya alıp **palette** renkleri karıştırabilir.
 - Boyama türü **suluboya** ya da **guaj** olabilir.
 - Renk karıştırırken iki rengin boyası **fırça** aracılığıyla karıştırılır; karıştırılmayan boya kendi rengini korur ve karışım rengi, oyuncunun karıştırma derecesine göre belirlenir.
 
-### Fırça
+### 🖌️ Fırça
 
 - Fırça, boyayı ya da suyu resim kâğıdına **sürebilir**.
 
-### Kaydetme
+### 💾 Kaydetme
 
-- Oyuncunun çizdiği eserler **albüme** **kaydedilir**.
+- Oyuncunun çizdiği eserler **günlüğe** **kaydedilir**.
 - Oyuncu, eserleri paylaşabilmesi için **belirlenen klasöre** **dışa aktarabilir**.
 
 ---
@@ -492,7 +535,7 @@ Son derece gerçekçi kâğıt ve boyalarla **resim yap** ve kaydet.
 
 **Posta** al ve gönder.
 
-### Gelen Posta
+### 📥 Gelen Posta
 
 - Oyuncu şu postaları **alabilir**:
 	- Oyuncunun kendine gönderdiği mektuplar.
@@ -500,7 +543,7 @@ Son derece gerçekçi kâğıt ve boyalarla **resim yap** ve kaydet.
 	- Bayram dilekleri.
 	- Doğum günü dilekleri.
 
-### Giden Posta
+### 📤 Giden Posta
 
 - Oyuncu şu postaları **gönderebilir**:
 	- Gelecekteki kendine mektuplar.
@@ -508,31 +551,63 @@ Son derece gerçekçi kâğıt ve boyalarla **resim yap** ve kaydet.
 
 ---
 
+## 🧩 Oyunu Genişletme
+
+Oynanışı geliştirmenin önemli bir yolu, oyuna yeni içerik eklemektir; örneğin **MOD yapmak** ve **kaynak paketi yapmak**.
+
+### 🔧 MOD Sistemi
+
+- Oyun, tasarımının en başından itibaren oyunu zenginleştirmek için **üçüncü taraf MOD paketlerinin** içe aktarılmasını destekler.
+- MOD'lar şu içerikleri **ekleyebilmeli/değiştirebilmeli/silebilmelidir**:
+	- Biyomlar
+	- Zaman akışı
+	- Eşyalar
+	- Başarımlar
+	- Dönüm noktaları
+	- Ticaret türleri
+	- Ekim yöntemleri
+	- GUI arayüzü (kontroller dahil)
+	- Metin
+	- Dokular
+	- Ses
+- Oyun, neredeyse tüm kullanılabilir **arayüzleri** ve bunlara eşlik eden destek dokümanlarını sağlamalı ve buna uygun bir kurallar dizisi tasarlamalıdır; örneğin bazı bileşenlerin belirli bir yöntemle çağrılması gerekir.
+- Oyun, kurallara uymayan MOD paketlerini **desteklememelidir**.
+- MOD paketlerinin içeriği sınırlandırılmaz; değerlere aykırı olsa bile.
+- Oyun, oyuncuların MOD paketlerini etkinleştirmesine veya ayarlamasına yardımcı olmak için özel bir **sayfa** sağlamalıdır.
+
+### 🗂️ Kaynak Paketleri
+
+- Kaynak paketleri, oyunun **metnini**, **dokularını** ve **sesini** değiştirebilir.
+- Kaynak paketleri oyuna yeni işlevler sağlamaz ve **sağlayamaz**.
+- Oyun, oyuncuların kaynak paketlerini etkinleştirmesine veya ayarlamasına yardımcı olmak için özel bir **sayfa** sağlamalıdır.
+
+---
+
 ## 📺 Görsel Arayüz
 
 Akıcı **doğrusal olmayan animasyonlar**, oyunculara her zaman iyi bir görsel deneyim yaşatır.
 
-### Kontroller
+### 🎛️ Kontroller
 
 - Kontroller, etkileşim davranışlarını ve olaylarını **tetikleyebilir**.
 - Kontroller, Today@PolarBay ile aynı tasarım stilini korumalıdır.
-- Kontroller **basıldığında** anında küçülmeli, ardından doğrusal olmayan bir biçimde geri yaylanmalıdır.
+- Kontroller **basıldığında** arayüzün merkezini ölçek merkezi alarak anında küçülmeli, ardından doğrusal olmayan bir biçimde geri yaylanmalıdır.
 - Kontrollerin **konumu** ve **boyutu** özelleştirilebilir.
 
-### Kartlar
+### 🃏 Kartlar
 
 - Kartlarla **etkileşime** girilemez.
 - Kartlar, Today@PolarBay ile aynı tasarım stilini korumalıdır.
 - Kartlar, görece **düzenli** arka planları göstermek için kullanılır; ör. sırt çantası arayüzü.
 
-### Göz Koruyucu Yeşil Ekran
+### 🟢 Göz Koruyucu Yeşil Ekran
 
 - Oyuncu **balık tutarken** **uzun süre** boyunca **şamandıraya** odaklanmak zorunda kaldığı için özel olarak **göz koruyucu yeşil ekran** tasarlanmıştır.
 - Göz koruyucu yeşil ekran, belirli aralıklarla **tam ekran kaplanarak** oyuncuyu **zorunlu mola vermeye** iter.
 - Göz koruyucu yeşil ekranın **aralık süresi** ve **kaplama süresi** ayarlardan değiştirilebilir ya da kapatılabilir.
 - Göz koruyucu yeşil ekran, oyuncunun topladığı **denize atılmış şişelerdeki** **mektup kâğıtlarının** içeriğini gösterir.
 
-### Renk Temaları
+### 🌗 Renk Temaları
 
 - Oyunda **iki** renk teması bulunabilir: beyaz tema ve siyah tema.
 - Beyaz ve siyah temalar şu koşullara göre **değişebilir**:
@@ -540,12 +615,12 @@ Akıcı **doğrusal olmayan animasyonlar**, oyunculara her zaman iyi bir görsel
 	2. Oyundaki gece-gündüz durumuna göre.
 	3. Oyuncunun ayarlar arayüzünde elle yaptığı ayara göre.
 
-### Parçacık Efektleri
+### 🎆 Parçacık Efektleri
 
 - Parçacık efektleri, **özel olaylarla** oluşur; ör. teknenin su yüzeyinde ilerlemesi.
 - Parçacık efektlerinin sayısı **ayarlardan** değiştirilebilir ya da kapatılabilir; böylece performans sorunları önlenir.
 
-### Gelişmiş Malzemeler
+### 💎 Gelişmiş Malzemeler
 
 - Gelişmiş malzemeler, yani **akrilik** malzemeler.
 - Oyuncu, gelişmiş malzemeleri **ayarlardan** açıp kapatabilir.
@@ -557,12 +632,12 @@ Akıcı **doğrusal olmayan animasyonlar**, oyunculara her zaman iyi bir görsel
 
 **Zaman** hep çok hızlı akar; o kadar hızlı ki çoğu şeyi kaçırırız.
 
-### Zaman Dönüşümü
+### ⏱️ Zaman Dönüşümü
 
 - Oyundaki **bir gün**, gerçek hayattaki **bir saattir**.
 - Oyun zamanının gerçek zamana dönüşüm oranı **1:24**'tür.
 
-### Zaman Dilimleri
+### 🕐 Zaman Dilimleri
 
 - Oyundaki **gündüz** ve **gece** sürelerinin her biri **30 dakikadır**.
 - **Bir gün** (60 dakika) içinde oyunun zaman dilimleri şöyle ayrılır:
@@ -579,7 +654,7 @@ Akıcı **doğrusal olmayan animasyonlar**, oyunculara her zaman iyi bir görsel
 
 Mevcut **oyun ilerlemeni** **kaydet**; böylece balıklarımız ve tuzumuz da güvende olur.
 
-### Kayıt
+### 🗃️ Kayıt
 
 - **Kayıt** sayfasında oyuncu, **kayıt al** butonuna tıklayarak mevcut ilerlemeyi **kaydedebilir**.
 - **Kayıt** sayfasında oyuncu, **kayıt yükle** butonuna tıklayarak kaydedilmiş kayıtları **yükleyebilir**.
