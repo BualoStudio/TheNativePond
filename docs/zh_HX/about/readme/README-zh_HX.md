@@ -12,31 +12,31 @@
 > 頑強求存，有所逃避，有所直面。  
 > 方塘歸檔之策，始於西元二〇二六年八月廿三日，嗣後新PR、新Issue，概不受之。三年之約，終必復見；方塘終成遊戲界之新星，請俟我輩！
 
-**方塘**者，**Bualo Studio** 所製，非營利之養心遊戲也。
+**方塘**者，乃 **Bualo Studio** 所築，以療愈心神、不慕榮利為旨之獨立遊戲也。
 
-今之玩家，困於無盡之日常簽到、通行證等級、數值碾壓與抽卡焦慮之間。吾輩願使玩家返於愛戲之初衷，毋以遊戲為按時點卯之負擔。故吾戲——**無簽到打卡，無數值強弱，無任務副本**。其為一方小塘，無體力之條，無戰力之評，亦無強制之標的。於此，**復還嬉遊之本心**。
+方今之世，游者苦於案牘之勞（日常打卡）、品階之累（通行證）、較力之苦（數值碾壓）與探囊之忧（抽卡焦慮）久矣。吾輩願辟一溫柔鄉以作抗言——**罷黜簿冊、不較毫釐、蠲免差役**。此一方小塘，無血氣之限，無勇武之評，亦無必達之期。且駐足於此，**復還嬉遊之本心**。
 
 ---
 
-## ✨ 核心體驗與玩法
+## ✨ 遊藝本要
 
-方塘斥「一點即得」之快餐式設計。吾輩將生活之實感，藏於極簡畫面之下，以擬真之流程還原之。
+方塘摒棄「信手拈來」之浮躁法門。吾輩取人間真實之觸感，以纖毫無差之流儀，復刻於大道至簡之畫卷中。
 
-### 🎣 沉浸式擬真垂釣
+### 🎣 宛若親臨之垂釣真趣
 
-此絕非按一鍵即得魚之街機小戲，吾輩力圖還原真實垂釣之道：
+此絕非輕按機樞即可得魚之俳戲，吾輩傾力還原本真之垂釣心流：
 
-- **親手調餌**：於遊戲內之雜貨舖購得基礎餌料，觀天氣、察水域，循序加水、揉搓、醒餌、打窩。
-- **擬真以待**：掛餌、拋竿，察水面漣漪之微變與浮標之沉浮，把握提竿之良機。
-- **奇物偶得**：時而釣起者非魚，乃「藏品」也。
+- **親和調餌**：君須至肆中購得奇餌，觀天象、察水情，度量注水，揉捏醒發，更兼打窩布陣，步步考究。
+- **屏息以待**：懸餌拋竿，靜觀水波微蕩，端視浮標沉浮。相機而動，方能一擊必中。
+- **滄海遺珠**：偶有上鉤者，非錦鱗游魚，乃時代之「藏品」也。
 
-### 🍳 煙火氣滿之自由烹飪
+### 🍳 盡享人間煙火之烹調
 
-垂釣之外，遊戲內置與現實步驟全然一致之烹飪系統，令賽博空間充盈生活之實感：
+垂釣之外，更兼庖廚之樂。其烹調之法，與塵世無二，令太虛幻境亦生人間煙火之氣：
 
-- **硬核之步驟**：欲食一碗陽春麵？先購麵粉，於案上親手加水、和麵、醒發、擀麵。
-- **火候與時**：汲水、舉火，靜待水沸而後下鍋。步步不可省，體味食物於掌中漸成之踏實。
-- **絕對自由**：可嚴循「食譜」，亦可無視一切規矩，隨心配伍。無論驚喜美味，抑或黑暗料理，惟樂趣存焉，無懲罰也。
+- **細理烹調之序**：欲求一碗陽春麵？須採買麥粉，臨案注水，揉麵醒發，親手擀製。
+- **調和鼎鼐之功**：汲水發薪，靜候鼎沸而後下鍋。諸般繁文縟節皆不可省，唯此方可察五穀成饌之確幸。
+- **隨心所欲之大廚**：君可循規蹈矩依「食單」而作，亦可天馬行空隨意雜糅。或成絕世珍饈，或成暗黑鴆毒，此間唯存野趣，了無責罰。
 
 ### 🥬 閒適之田園時光
 
@@ -46,24 +46,24 @@
 - **生長**：環境適宜，作物自茁。無須多顧，偶一照拂，田園之趣自生。
 - **收穫**：作物既熟，便可採之。非一鍵速取，乃擬真之採收，實體收穫之喜與足。
 
-### 🎨 極簡之美
+### 🎨 大道至簡之丹青美學
 
-- **大色塊與扁平化**：去其繁紋，純以 SVG 矢量色塊分割畫面。
-- **去介面化**：無滿屏按鈕與充值入口，畫面乾淨克制，盡付水面。
-- **純然放空**：非線性動畫令池水微微「呼吸」，於漫長等待中，把時光還與君之腦海。
+- **潑墨大寫**：洗淨鉛華，盡棄雕飾，唯以純粹之 SVG 矢量色塊割裂太虛。
+- **滌除玄覽**：無滿目瘡痍之機樞按鍵，無阿堵銅臭之所。畫卷清朗克制，獨留一泓清泉。
+- **坐忘靈台**：非線性之幻象令池水宛如「吐納」，於漫漫靜候之中，還光陰於靈台。
 
 > [!TIP]
 > 對方塘之玩法興致盎然？請觀 [**方塘大餅清單**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/game/FlatbreadList-zh_HX.md) 與 [**方塘價值觀**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/game/Values-zh_HX.md)！
 
 ---
 
-## 📦 得戲之道與分發之臺
+## 📦 取用之道與布流之所
 
-隨時隨地，想釣即釣。可循以下諸途體驗方塘：
+隨時隨地，想釣即釣。君可依循此法遊歷方塘：
 
-### 1. 💾 源碼與直接下載
+### 1. 💾 經卷與徑取
 
-無須編譯，普通玩家可直接往本倉庫之 [**Releases**](https://github.com/BeyondPixelsStudio/TheNativePond/releases) 頁下載最新構建：
+無須編譯，尋常看客徑赴本庫之 [**Releases**](https://github.com/BeyondPixelsStudio/TheNativePond/releases) 卷宗，即可取用最新之佳作：
 
 - 📱 **Android**
 - 📱 **iOS**
@@ -74,12 +74,12 @@
 - 💻 **ChromeOS**
 - 📱 **HarmonyOS**
 
-### 2. 🕹️ 遊戲分發之臺
+### 2. 🕹️ 遊藝布道之所
 
-項目入穩定期後，將漸次登陸以下諸臺：
+待工部營建安穩，吾輩將次第掛牌於茲：
 
 > [!NOTE]
-> 無論何臺，除接入各臺之成就系統外，各分發之臺遊戲體驗皆同（部分分臺或依當地法律作合規之調整）。
+> 無論列於何榜，除通引各坊之功勳簿外，諸般布道之所呈獻之遊歷，皆渾然同歸（部分布道之所或依當地律法稍作合規之調整）。
 
 - **Google Play**
 - **Steam**
@@ -89,75 +89,75 @@
 - **WeGame**
 
 > [!IMPORTANT]
-> 若於名單之外之其他遊戲分發平臺見「方塘」，勿疑——此非吾輩官方之作，或為方塘二次修改之版本。此類版本不受吾輩支持，吾輩亦不擔其遊玩所致之任何責任。
+> 若足下於名刺之外見方塘現身他處，切莫遲疑——此定非吾等正朔，或為方塘二次修改之版本。此類版本不受吾輩支持，吾輩亦不擔其遊玩所致之任何責任。
 
 ---
 
-## 🛠️ 技術之基與架構
+## 🛠️ 營造法式與基底
 
-為求輕量、跨平臺，且便於社區介入，本項目採以下技術之基：
+為求輕靈曼妙、通達各界，且便於同好共襄盛舉，本作採用如下基底：
 
-- **底層引擎**：基於吾輩專為方塘所造之 [**小冰島**](https://github.com/BualoStudio/Icelet) 遊戲引擎開發。
+- **樞機之本**：基於吾輩專為方塘所造之 [**小冰島**](https://github.com/BualoStudio/Icelet) 遊戲引擎開發。
 
 > [!WARNING]
 > 因不可抗力，小冰島已終止開發，吾輩正另覓新引擎或技術之法，以資方塘。詳情請閱小冰島終止開發公告：[《突然的完結，就像青春一樣》](https://github.com/BualoStudio/Icelet/releases/tag/TheEnding)。
 
-- **渲染之策**：HTML5 原生渲染，極致輕量，流暢運行於各類低端設備。
-- **資產之式**：大量美術資產皆用 SVG 格式，確保全解析度下之邊緣銳度。
+- **敷彩之法**：HTML5 原生敷彩，極盡輕巧，縱劣器亦能流轉如飛。
+- **丹青格式**：繁多畫錄皆賴可縮放矢量圖形（SVG），保其廣狹縱橫之間，鋒芒畢露，不失其真。
 
 ---
 
-## 🤝 共襄盛舉
+## 🤝 同襄共舉
 
-方塘不僅為吾輩之作，吾輩願其成為諸位倦遊玩家之「心靈驛站」。無論通曉遊戲開發與否，皆可為此小塘添磚加瓦！
+方塘非唯吾輩獨佔之物，更期為天下倦客之「避風長亭」。不論足下是否深諳機要代碼，皆可為斯塘添磚加瓦！
 
 > [!TIP]
-> 參與之前，請務必先閱 [**貢獻指南**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) 並遵 [**行為準則**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md)。
+> 入局之前，務請展閱吾等之 [**貢獻指南**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md) 並恪守 [**行為準則**](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CODE_OF_CONDUCT.md)。
 
-吾輩極歡迎以下諸式 Issue：
+吾輩翹首以盼如下呈文（Issue）：
 
-1. **投遞記憶之屑**：為遊戲撰一句動人文案，或呈一段具時代感之回憶短文。
-2. **獻家鄉之食譜**：設計一全新食譜（如：一碗正宗熱乾麵），並拆解其製作步驟。
-3. **陳遊戲之弊**：報告遊戲於特定情境下觸發之問題、漏洞與錯誤，乃至解決之方。
+1. **拾遺投名**：為斯戲賦感懷之辭一句，或共話一段鐫刻歲月之舊夢。
+2. **獻曝鄉味**：擬就全新食單一張（如：古法熱乾麵之炮製），並詳敘其庖丁之步。
+3. **陳戲之弊**：呈報斯戲於特定情境下觸發之問題、漏洞與錯誤，乃至解決之方。
 
 ---
 
-## 🌐 本地化
+## 🌐 通譯四海
 
-[**本地化支援情況**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/l10nteam/LocalizationSupportStatus-zh_HX.md) 列明目前官方支援之語言與其狀況。
+[**通譯支援之況**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/l10nteam/LocalizationSupportStatus-zh_HX.md) 列明目前官方支援之語言與其狀況。
 
-吾輩願方塘為天下玩家所共賞。若君願助譯遊戲至君之語言：
+吾輩願方塘可越重洋而澤被四海。若足下有意將斯戲譯為鄉音：
 
-1. Fork 本倉庫。
-2. 尋得語言檔案（在 `/lang/` 目錄下）。
-3. 增補或更新譯文。
-4. 提交 [**Pull Request**](https://github.com/BualoStudio/TheNativePond/pulls)。
-
-> [!TIP]
-> 方塘之本地化，賴諸多如君之志願者。請參 [**本地化致謝名單**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/l10nteam/LocalizationTeam-zh_HX.md)。
+1. 拓印本庫。
+2. 尋覓雅言卷宗（身處 `/lang/` 府庫之中）。
+3. 添補或修繕通譯之文。
+4. 遞呈 [**獻書**](https://github.com/BualoStudio/TheNativePond/pulls)。
 
 > [!TIP]
-> 因開發週期與精力、資源所限，吾輩不能保證譯文百分之百精準。吾輩無專職本地化團隊，部分語言或由 AI 或機器翻譯所得，未必無誤。若於遊玩中發現翻譯之弊，請依上述之法 [**提交PR**](https://github.com/BualoStudio/TheNativePond/pulls) 或 [**提交Issue**](https://github.com/BualoStudio/TheNativePond/issues)。
+> 方塘之通譯，賴諸多如君之志願者。請參 [**通譯致謝名單**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/l10nteam/LocalizationTeam-zh_HX.md)。
+
+> [!TIP]
+> 因開發週期與精力、資源所限，吾輩不能保證譯文百分之百精準。吾輩無專職通譯團隊，部分語言或由 AI 或機器翻譯所得，未必無誤。若於遊玩中發現譯文之弊，請依上述之法遞呈 [**獻書**](https://github.com/BualoStudio/TheNativePond/pulls) 或 [**投呈文**](https://github.com/BualoStudio/TheNativePond/issues)。
 
 ---
 
-## 🎞️ 運營之臺
+## 🎞️ 聲像流播與遊士論苑
 
-吾輩之宣傳片、公告與趣事等，將發於運營之臺，俾君知曉遊戲動向。
+吾輩之遊藝大觀、布告與趣事等，皆將張榜於運營之所，俾君知曉遊戲動向。
 
-[**運營之臺支援情況**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/opsteam/OperationalPlatformSupportStatus-zh_HX.md) 列明目前官方支援之運營平臺。
+[**運營之所支援情況**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/opsteam/OperationalPlatformSupportStatus-zh_HX.md) 列明目前官方支援之運營平臺。
 
 > [!NOTE]
-> 部分平臺之內容，或隨運營之需而調整。
+> 部分平臺所載之事，或隨營生境況略作權變。
 
 > [!TIP]
 > 因精力、資源所限，吾輩不能保證諸臺同步更新，部分或有數分鐘之延遲。吾輩無專職運營團隊，非所有平臺與功能皆受支援。
 
 ---
 
-## 📜 許可之證
+## 📜 經卷開源
 
-吾輩鼓勵自由使用、修改與分享本遊戲。就許可證而言，吾輩將不同類別之遊戲資產，依不同許可證開源、開放原始碼，詳見 [**LICENSE**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE.txt) 檔案。各資產類別所用之許可證，劃分如下：
+吾輩鼓勵自由使用、修改與分享本遊戲。就許可證而言，吾輩將不同類別之遊戲資產，依不同許可證開源、開放原始碼，詳見 [**LICENSE**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE.txt) 卷宗。各資產類別所用之許可證，劃分如下：
 
 <details>
 
@@ -193,18 +193,18 @@
 > [!NOTE]
 > 吾輩之所以令音樂資產用非商業性許可證，為免劣質（幾無改動或改動過小）之二次修改版本被高價售賣，損方塘之名譽。  
 > 然若君真心欲為方塘製優質二次修改之作，只消吾輩見君於此事傾注心力（或得吾輩讚賞，如在君之演示影片下留言鼓勵），吾輩絕不介意君售賣此優質之作，縱以此牟利亦可。  
-> 若君實在不放心售賣二次修改之版本，請 [聯繫我們](mailto:thenativepond@gmail.com) 以取官方授權！
+> 若君實在不放心售賣二次修改之版本，請 [飛鴿傳書](mailto:thenativepond@gmail.com) 以取官方授權！
 
 </details>
 
 ---
 
-## 📌 關於
+## 📌 匠人志
 
-### 🪪 **開發團隊**：**Bualo Studio**
+### 🪪 **造物營生**：**Bualo Studio**
 
-- 製作組官方郵箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
-- 工作室官方郵箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
+- 方塘官郵飛鴿： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
+- 工坊官郵飛鴿： [bualostudio@gmail.com](mailto:bualostudio@gmail.com)
 
 [**製作組**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/devteam/ProductionTeam-zh_HX.md) | [**貓咪**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/devteam/TheCat-zh_HX.md) | [**外部援助組**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/zh_HX/about/devteam/ExternalSupportTeam-zh_HX.md)
 
@@ -214,4 +214,4 @@
 
 ---
 
-*「獻與倦而欲憩之君，兼奉一竿、一碗熱麵。」*
+*「敬獻於倦於塵網之君，伴一竿風月，一碗陽春。」*

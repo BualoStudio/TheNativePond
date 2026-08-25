@@ -1,16 +1,18 @@
-# 🌐 本地化團隊
+# 🌐 通譯團隊
+
+方塘之通譯，賴諸賢襄贊之功。各邦雅言，咸由下列諸君與共：
 
 ### English
 
 - [DeepSeek](https://deepseek.com)
 
-### 简体中文
+### 簡體中文
 
 - [Zong Zi](https://github.com/zongzibaby)
 - [Jiang Yue](https://github.com/jiangyue-77)
 - [Crazy Sue](https://github.com/CrazySue)
 
-### 繁体中文
+### 繁體中文
 
 - [DeepSeek](https://deepseek.com)
 

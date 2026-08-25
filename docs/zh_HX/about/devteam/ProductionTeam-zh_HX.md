@@ -7,7 +7,7 @@
 * UI/UX 之設計
 * 輔助文墨
 * 總運營／海外運營
-* 測試
+* 試鋒
 
 ### [Zong Zi](https://github.com/zongzibaby)
 
@@ -15,22 +15,22 @@
 * 總文墨
 * 輔助丹青
 * 中國大陸之運營
-* 測試
+* 試鋒
 
 ### [Fresh](https://github.com/Fresh404a)
 
 * 輔助策劃
 * 總樂務
-* 測試
+* 試鋒
 
 ### [Jiang Yue](https://github.com/jiangyue-77)
 
 * 總丹青
 * 輔助文墨
-* 測試
+* 試鋒
 
 ### [Grass Sheep](https://github.com/Grass-Sheep)
 
 * 中國大陸之運營
-* 總測試
+* 總試鋒
 
