@@ -1,6 +1,6 @@
 # The Native Pond
 
-![thenativepond_background](/background/en/TNP-readme-bg-en.PNG)
+![thenativepond_background](/background/en/TNP-readme-bg-en.png)
 
 > **“Rediscover your love for games”**
 

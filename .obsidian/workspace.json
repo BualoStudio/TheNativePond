@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "2d466d467e4013f5",
+    "id": "1d39c6468f936e51",
     "type": "split",
     "children": [
       {
-        "id": "8a0b0135b4f0c33b",
+        "id": "25188a279755bbbb",
         "type": "tabs",
         "children": [
           {
-            "id": "0d838b4b21245d99",
+            "id": "7fd0b0f8b8fbe316",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/zh_HX/about/readme/README-zh_HX.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README-zh_HX"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b28295e3d6968412",
+    "id": "51f1a8b0968f372a",
     "type": "split",
     "children": [
       {
-        "id": "89996143fd3af084",
+        "id": "ecc7f9b13233c1d7",
         "type": "tabs",
         "children": [
           {
-            "id": "535945e7fdee79a5",
+            "id": "19823e2c728b5871",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "4e7b631dbe07e8b3",
+            "id": "d52d806f0b7a134f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "45b96427647edbd4",
+            "id": "eba79461131842ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +82,19 @@
     "width": 300
   },
   "right": {
-    "id": "4838429cc49ad38f",
+    "id": "0e53bac2c4e86928",
     "type": "split",
     "children": [
       {
-        "id": "176a6cf66f0f4279",
+        "id": "e6143bea5aadaa39",
         "type": "tabs",
         "children": [
           {
-            "id": "c5cadd6046f6483c",
+            "id": "0cb08e9c9d60166d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/zh_TW/about/readme/README-zh_TW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +108,11 @@
             }
           },
           {
-            "id": "ce17c73b2e85700d",
+            "id": "ca12748d80647ac3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/zh_TW/about/readme/README-zh_TW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +121,7 @@
             }
           },
           {
-            "id": "59b402ddc6f04e37",
+            "id": "f79e1552c2e664b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +136,7 @@
             }
           },
           {
-            "id": "080f56845fb7762e",
+            "id": "de926815df3ae226",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +150,11 @@
             }
           },
           {
-            "id": "d7295ce6c92289ef",
+            "id": "3ba64915cedcff20",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh_TW/about/readme/README-zh_TW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,19 +181,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0d838b4b21245d99",
+  "active": "7fd0b0f8b8fbe316",
   "lastOpenFiles": [
-    "docs/en/about/readme/README-en.md",
+    "README.md",
+    "LICENSE.txt",
+    "lang/zh_HX.json",
+    "lang/zh_TW.json",
+    "lang/zh_CN.json",
+    "lang/tr.json",
+    "lang/ru.json",
+    "lang/pt_BR.json",
+    "lang/ko.json",
+    "lang/ja.json",
+    "lang/fr.json",
+    "docs/zh_TW/game/Mail/Mail-NewYear'sDay-zh_TW.md",
+    "docs/zh_TW/game/Mail/Mail-FirstVisitToTheNativePond-zh_TW.md",
+    "docs/zh_TW/game/Mail/Mail-DragonBoatFestival-zh_TW.md",
+    "docs/zh_TW/game/Mail/Mail-CompleteAllAchievements-zh_TW.md",
+    "docs/zh_TW/game/Mail/Mail-ChineseNewYear-zh_TW.md",
+    "docs/zh_TW/game/Mail/Mail-100Days-zh_TW.md",
     "docs/zh_TW/about/readme/README-zh_TW.md",
+    "docs/zh_TW/about/opsteam/OperationalPlatformSupportStatus-zh_TW.md",
+    "docs/zh_TW/about/l10nteam/LocalizationTeam-zh_TW.md",
+    "docs/zh_TW/about/l10nteam/LocalizationSupportStatus-zh_TW.md",
+    "docs/zh_TW/about/devteam/TheCat-zh_TW.md",
+    "docs/zh_TW/about/devteam/ProductionTeam-zh_TW.md",
+    "docs/zh_TW/about/devteam/ExternalSupportTeam-zh_TW.md",
+    "docs/zh_TW/about/actlist/WithThanks-zh_TW.md",
+    "docs/zh_TW/about/actlist/SpecialThanks-zh_TW.md",
+    "docs/zh_HX/game/Mail/Mail-NewYear'sDay-zh_HX.md",
+    "docs/zh_HX/game/Mail/Mail-FirstVisitToTheNativePond-zh_HX.md",
+    "docs/zh_HX/game/Mail/Mail-DragonBoatFestival-zh_HX.md",
+    "docs/zh_HX/game/Mail/Mail-CompleteAllAchievements-zh_HX.md",
+    "docs/zh_HX/game/Mail/Mail-ChineseNewYear-zh_HX.md",
+    "docs/zh_HX/game/Mail/Mail-100Days-zh_HX.md",
     "docs/zh_HX/about/readme/README-zh_HX.md",
-    "docs/zh_CN/about/readme/README-zh_CN.md",
-    "docs/tr/about/readme/README-tr.md",
-    "docs/ru/about/readme/README-ru.md",
-    "docs/pt_BR/about/readme/README-pt_BR.md",
-    "docs/ko/about/readme/README-ko.md",
-    "docs/ja/about/readme/README-ja.md",
-    "docs/fr/about/readme/README-fr.md",
-    "docs/es/about/readme/README-es.md",
-    "docs/de/about/readme/README-de.md"
+    "docs/zh_HX/about/opsteam/OperationalPlatformSupportStatus-zh_HX.md",
+    "docs/zh_HX/about/devteam/TheCat-zh_HX.md",
+    "docs/zh_HX/about/devteam/ProductionTeam-zh_HX.md",
+    "background/zh_TW/TNP-readme-bg-zh_TW.png",
+    "background/zh_TW/VAL-docs-bg-zh_TW.png",
+    "background/zh_TW/FBL-docs-bg-zh_TW.png",
+    "background/zh_HX/VAL-docs-bg-zh_HX.png",
+    "background/zh_HX/TNP-readme-bg-zh_HX.png",
+    "background/zh_HX/FBL-docs-bg-zh_HX.png",
+    "background/zh_CN/TNP-readme-bg-zh_CN.png",
+    "background/zh_CN/VAL-docs-bg-zh_CN.png",
+    "background/zh_CN/FBL-docs-bg-zh_CN.png",
+    "background/tr/VAL-docs-bg-tr.png"
   ]
 }
